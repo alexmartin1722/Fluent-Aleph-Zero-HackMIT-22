@@ -156,3 +156,6 @@ Neil Yeung [github](https://github.com/Genuinely) [linkedin](https://www.linkedi
 
 Alex Martin [github](https://github.com/alexmartin1722) [linkedin](https://www.linkedin.com/in/alexander-david-paul-martin/) [website](https://alexmartin1722.github.io/resume-website/)
 - BIO
+
+NOTE:
+This repo does not contain the full commit history for this project. One of our team members accidently pushed api keys to our repo so we created this new one. Please feel free to reach out if you would like access to the private respository to review commit history.
