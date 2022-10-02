@@ -1,0 +1,65 @@
+{
+    "id": 66,
+    "story_parts": [
+        {
+            "story_part_id": 0,
+            "text": "A girl went on an adventure. She climbed a mountain, swam in a river, and ran through a forest.",
+            "image_url": [
+                "https://replicate.com/api/models/stability-ai/stable-diffusion/files/5f81a7ca-575b-48c5-9d5a-5489b73f92ad/out-0.png"
+            ],
+            "next_options": {
+                "0": "The girl finds a cave at the top of the mountain and decides to explore it",
+                "1": "The girl finds a group of friendly animals who help her find her way home"
+            },
+            "selected_option_id": "1"
+        },
+        {
+            "story_part_id": 1,
+            "text": "The girl is happy to have made some new friends and is grateful for their help. She promises to come back and visit them again soon.",
+            "image_url": [
+                "https://replicate.com/api/models/stability-ai/stable-diffusion/files/dda64b64-7369-4749-b2a6-a9ab669fb614/out-0.png"
+            ],
+            "next_options": {
+                "0": "The girl visits her new friends often and they become close confidantes",
+                "1": "The girl visits her new friends occasionally, but their relationship remains mostly superficial"
+            },
+            "selected_option_id": "1"
+        },
+        {
+            "story_part_id": 2,
+            "text": "The girl visits her new friends occasionally, but their relationship remains mostly superficial. The girl is content with her life and enjoys her adventures, but she always feels a little sad when she thinks about her friends and how she never really got to know them.",
+            "image_url": [
+                "https://replicate.com/api/models/stability-ai/stable-diffusion/files/f62d722e-65a0-44a7-a7cc-0c65b267ca9e/out-0.png"
+            ],
+            "next_options": {
+                "0": "The girl continues to visit her friends occasionally, but their relationship remains mostly superficial",
+                "1": "The girl begins to spend more time with her friends and gets to know them better"
+            },
+            "selected_option_id": null
+        }
+    ],
+    "quiz_parts": [
+        {
+            "answer_id": 0,
+            "question": "What does the girl promise to do?",
+            "options": {
+                "0": "She promises to come back and visit them again soon.",
+                "1": "She promises to help them with their homework.",
+                "2": "She promises to invite them to her birthday party.",
+                "3": "She promises to give them a gift."
+            },
+            "story_part_id": 1
+        },
+        {
+            "answer_id": 2,
+            "question": "What does the girl feel when she thinks about her friends?",
+            "options": {
+                "0": "content",
+                "1": "happy",
+                "2": "sad",
+                "3": "excited"
+            },
+            "story_part_id": 2
+        }
+    ]
+}

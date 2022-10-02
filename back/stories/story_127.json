@@ -1,0 +1,18 @@
+{
+    "id": 127,
+    "story_parts": [
+        {
+            "story_part_id": 0,
+            "text": "A giraffe was walking through the jungle when he came across a lion. The lion said to the giraffe, \"I'm going to eat you!\" The giraffe said, \"No, you're not! I'm the king of the jungle!\" The lion said, \"No, I am!\" They argued back and forth until they finally decided to ask the elephant. The elephant said, \"I don't know, but you're both wrong! I'm the king of the jungle",
+            "image_url": [
+                "https://replicate.com/api/models/stability-ai/stable-diffusion/files/b9bb7311-a268-49bf-ac45-58c34808d046/out-0.png"
+            ],
+            "next_options": {
+                "0": "The giraffe and the lion decide to ask the monkey who is the king of the jungle",
+                "1": "The giraffe and the lion continue to argue until they get tired and go to sleep"
+            },
+            "selected_option_id": null
+        }
+    ],
+    "quiz_parts": []
+}

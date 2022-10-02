@@ -1,0 +1,42 @@
+{
+    "id": 106,
+    "story_parts": [
+        {
+            "story_part_id": 0,
+            "text": "Lenny was a space cowboy, and he was damn good at it. He'd been riding the outlaw trails for years, and had never met a challenge he couldn't meet. But when he was approached by a group of criminals to help them pull off a heist, he knew this was going to be his biggest challenge yet.\n\nThe plan was simple: break into the space station, steal the cargo, and get out before anyone was the wiser. But of course, nothing",
+            "image_url": [
+                "https://replicate.com/api/models/stability-ai/stable-diffusion/files/46e36d34-18d9-4475-b65b-1fc24c133fba/out-0.png"
+            ],
+            "next_options": {
+                "0": "Lenny decides to help the criminals",
+                "1": "Lenny decides not to help the criminals"
+            },
+            "selected_option_id": "0"
+        },
+        {
+            "story_part_id": 1,
+            "text": "Lenny decides to help the criminals, and he quickly comes up with a plan. He breaks into the space station, and uses his skills to disable the security systems. He then grabs the cargo, and makes his escape. But as he's leaving, he's spotted by the security guards. He's forced to fight his way out, and he eventually makes it back to his ship. He's covered in bruises and cuts, but he's got the cargo, and he's safe.",
+            "image_url": [
+                "https://replicate.com/api/models/stability-ai/stable-diffusion/files/7bcbbe40-4573-4986-8cfc-236c0c3349bd/out-0.png"
+            ],
+            "next_options": {
+                "0": "Lenny decides to give the cargo to the criminals",
+                "1": "Lenny decides to keep the cargo for himself"
+            },
+            "selected_option_id": null
+        }
+    ],
+    "quiz_parts": [
+        {
+            "answer_id": 0,
+            "question": "What was Lenny's plan to help the criminals?",
+            "options": {
+                "0": " Lenny breaks into the space station and disables the security systems",
+                "1": " Lenny grabs the cargo and makes his escape",
+                "2": " Lenny fights his way out and makes it back to his ship",
+                "3": " Lenny bruised and cut himself while trying to help the criminals"
+            },
+            "story_part_id": 1
+        }
+    ]
+}

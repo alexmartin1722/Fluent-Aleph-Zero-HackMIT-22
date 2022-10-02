@@ -1,0 +1,27 @@
+{
+    "id": 29,
+    "story_parts": [
+        {
+            "story_part_id": 0,
+            "text": "The lion was very excited to go to the city. He had never been there before and he had heard so many wonderful things about it. He couldn't wait to see all the sights and sounds of the city.\n\nWhen he arrived, he was amazed at how big and busy it was. There were so many people and so many things to see. He walked around for hours, taking everything in. He saw the tall buildings, the busy streets, and the bright lights. He",
+            "image_url": "PlACEHOLDER",
+            "next_options": [
+                " The lion continues to explore the city and has a great time",
+                " The lion gets lost and can't find his way back to his home",
+                ""
+            ],
+            "selected_option": " The lion continues to explore the city and has a great time"
+        },
+        {
+            "story_part_id": 1,
+            "text": "The lion continues to explore the city and has a great time. He sees so many new and exciting things that he never knew existed. He loves the city and everything it has to offer.",
+            "image_url": "PlACEHOLDER",
+            "next_options": [
+                " The lion continues to explore the city and has a great time",
+                " The lion gets bored of the city and decides to leave"
+            ],
+            "selected_option": null
+        }
+    ],
+    "quiz_parts": []
+}

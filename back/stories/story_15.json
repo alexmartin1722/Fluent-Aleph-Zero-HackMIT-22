@@ -1,0 +1,28 @@
+{
+    "id": 15,
+    "story_parts": [
+        {
+            "text": "One day a lion went to the city. He saw all the tall buildings and the busy people. He saw a hot dog stand and decided to try one. The hot dog was delicious! He liked it so much that he decided to stay in the city and open his own hot dog stand. He was very successful and soon had a chain of hot dog stands all over the city.",
+            "image_url": [
+                "https://replicate.com/api/models/stability-ai/stable-diffusion/files/6bf7bea5-d1b2-4126-8f35-bd17a4e3001c/out-0.png"
+            ],
+            "next_options": [
+                " The lion became so successful that he decided to open hot dog stands in other cities",
+                " The lion became so successful that he decided to open a restaurant"
+            ],
+            "selected_option": " The lion became so successful that he decided to open hot dog stands in other cities"
+        },
+        {
+            "text": "The lion became so successful that he decided to open hot dog stands in other cities. He was very successful in other cities and soon had a chain of hot dog stands all over the country. He became one of the most successful businessmen in the world.",
+            "image_url": [
+                "https://replicate.com/api/models/stability-ai/stable-diffusion/files/b570adea-b00b-4e8d-b1be-cccd06ed17f5/out-0.png"
+            ],
+            "next_options": [
+                " The lion continued to be successful and soon became one of the richest animals in the world",
+                " The lion became so successful that he decided to open hot dog stands in other cities"
+            ],
+            "selected_option": null
+        }
+    ],
+    "quiz_parts": []
+}

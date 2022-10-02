@@ -1,0 +1,18 @@
+{
+    "id": 56,
+    "story_parts": [
+        {
+            "story_part_id": 0,
+            "text": "I remember 2nd grade vividly. It was the year that I finally made some friends. I had always been a bit of a loner, but in 2nd grade, I met two girls who would change that. Their names were Sarah and Emily, and we bonded immediately. We would spend hours talking and playing together during recess and lunch, and we even started sitting together in class. It was great finally having some friends to rely on. Unfortunately, our friendship was short-lived.",
+            "image_url": [
+                "https://replicate.com/api/models/stability-ai/stable-diffusion/files/e393e836-6a01-47b0-ae81-710b219f6669/out-0.png"
+            ],
+            "next_options": {
+                "0": "Sarah and Emily invite you to their sleepover party",
+                "1": "Sarah and Emily start excluding you from activities"
+            },
+            "selected_option_id": null
+        }
+    ],
+    "quiz_parts": []
+}

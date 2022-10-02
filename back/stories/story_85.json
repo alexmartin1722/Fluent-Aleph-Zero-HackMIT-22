@@ -1,0 +1,144 @@
+{
+    "id": 85,
+    "story_parts": [
+        {
+            "story_part_id": 0,
+            "text": "The lion was very excited to go to Disney World. He had always wanted to go and see all the characters. When he got there, he was so excited to see Mickey Mouse and all his friends.",
+            "image_url": [
+                "https://replicate.com/api/models/stability-ai/stable-diffusion/files/3611c5cb-ca38-43c6-a8c0-fadb73ba4d63/out-0.png"
+            ],
+            "next_options": {
+                "0": "The lion roars with excitement and immediately goes to line up for a photo with Mickey Mouse",
+                "1": "The lion is so excited that he forgets to go to the bathroom and ends up going right in the middle of the park"
+            },
+            "selected_option_id": 0
+        },
+        {
+            "story_part_id": 1,
+            "text": "The lion roars with excitement and immediately goes to line up for a photo with Mickey Mouse. He is so happy to finally be at Disney World and can't wait to explore everything the park has to offer.",
+            "image_url": [
+                "https://replicate.com/api/models/stability-ai/stable-diffusion/files/890e047f-ec3f-45a9-b7a5-a51d641d618b/out-0.png"
+            ],
+            "next_options": {
+                "0": "The lion roars with excitement and immediately goes to line up for a photo with Mickey Mouse",
+                "1": "The lion roars with excitement and immediately goes to explore the park"
+            },
+            "selected_option_id": 0
+        },
+        {
+            "story_part_id": 2,
+            "text": "He is so happy to finally be at Disney World and can't wait to explore everything the park has to offer. He immediately goes to get a fast pass for the Seven Dwarfs Mine Train ride and then goes to line up for a photo with Mickey Mouse.",
+            "image_url": [
+                "https://replicate.com/api/models/stability-ai/stable-diffusion/files/3ffe28ef-0d80-4c15-a39e-cac760652855/out-0.png"
+            ],
+            "next_options": {
+                "0": "After getting his fast pass, he goes to line up for a photo with Mickey Mouse",
+                "1": "He decides to explore the park a bit more before getting a fast pass for the Seven Dwarfs Mine Train ride"
+            },
+            "selected_option_id": 0
+        },
+        {
+            "story_part_id": 3,
+            "text": "The line for the photo is incredibly long, but he doesn't mind because he is just so excited to be at Disney World. Finally, it's his turn to take the photo and he is beaming from ear to ear as he stands next to Mickey Mouse.",
+            "image_url": [
+                "https://replicate.com/api/models/stability-ai/stable-diffusion/files/95195e59-7818-4777-9ab8-ebcb6a84371d/out-0.png"
+            ],
+            "next_options": {
+                "0": "The photographer hands him the photo and he looks at it in disbelief",
+                "1": "The photographer hands him the photo and he looks at it in disappointment"
+            },
+            "selected_option_id": 0
+        },
+        {
+            "story_part_id": 4,
+            "text": "The photographer hands him the photo and he looks at it in disbelief. The photo is of him and Mickey Mouse, but Mickey Mouse is just a head on a stick. He can't believe that his photo is ruined and he starts to cry.",
+            "image_url": [
+                "https://replicate.com/api/models/stability-ai/stable-diffusion/files/a9c41a18-1c61-4eca-b5ab-81d424745c34/out-0.png"
+            ],
+            "next_options": {
+                "0": "The photographer tries to console the man, telling him that the photo can still be salvageable",
+                "1": "The man becomes so upset that he starts to cry harder and demands a refund"
+            },
+            "selected_option_id": 0
+        },
+        {
+            "story_part_id": 5,
+            "text": "The photographer tries to console the man, telling him that the photo can still be salvageable. The man is still upset, but he decides to go and enjoy the rest of his day. He goes on a few more rides and gets some more photos, but he is definitely feeling disappointed. As he is walking out of the park, he sees a sign that says 'Develop your photos here'. He decides to go in and see if they can do anything with his photo. The woman at",
+            "image_url": [
+                "https://replicate.com/api/models/stability-ai/stable-diffusion/files/a6f9e4c4-202e-414a-b93b-468ae5bf0764/out-0.png"
+            ],
+            "next_options": {
+                "0": "The woman at the photo development shop is able to salvage the photo and the man is happy with the result",
+                "1": "The woman at the photo development shop is unable to salvage the photo and the man leaves the shop feeling disappointed"
+            },
+            "selected_option_id": 0
+        },
+        {
+            "story_part_id": 6,
+            "text": "",
+            "image_url": null,
+            "next_options": {
+                "0": "The woman wakes up and realizes it was all a dream",
+                "1": "The woman is kidnapped by the aliens and taken to their home planet"
+            },
+            "selected_option_id": 0
+        }
+    ],
+    "quiz_parts": [
+        {
+            "answer_id": 1,
+            "question": "What does the lion do when he sees Mickey Mouse?",
+            "options": {
+                "0": " He roars with excitement",
+                "1": " He immediately goes to line up for a photo with Mickey Mouse",
+                "2": " He is so happy to finally be at Disney World",
+                "3": " He can't wait to explore everything the park has to offer"
+            },
+            "story_part_id": 1
+        },
+        {
+            "answer_id": 0,
+            "question": "What does the boy do first when he gets to Disney World?",
+            "options": {
+                "0": " He gets a fast pass for the Seven Dwarfs Mine Train ride",
+                "1": " He goes to line up for a photo with Mickey Mouse",
+                "2": " He explores the park",
+                "3": " He gets something to eat"
+            },
+            "story_part_id": 2
+        },
+        {
+            "answer_id": 2,
+            "question": "Why is the line for the photo incredibly long?",
+            "options": {
+                "0": " The photo is of a popular attraction",
+                "1": " It is the only photo opportunity in the park",
+                "2": " Guests are taking a lot of time taking their photos",
+                "3": " The photographer is taking a long time with each guest"
+            },
+            "story_part_id": 3
+        },
+        {
+            "answer_id": 2,
+            "question": "What is the man's reaction to the photo?",
+            "options": {
+                "0": " He is happy and laughs",
+                "1": " He is angry and yells",
+                "2": " He is sad and cries",
+                "3": " He is surprised and confused"
+            },
+            "story_part_id": 4
+        },
+        {
+            "answer_id": 0,
+            "question": "What does the author say about the relationship between sleep and productivity?",
+            "options": {
+                "0": " The author suggests that sleep is necessary for productivity",
+                "1": " The author suggests that sleep is a hindrance to productivity",
+                "2": " The author suggests that there is no relationship between sleep and productivity",
+                "3": " The author is undecided on the relationship between sleep and productivity"
+            },
+            "story_part_id": 6
+        }
+    ]
+}

@@ -1,0 +1,180 @@
+{
+    "id": 89,
+    "story_parts": [
+        {
+            "story_part_id": 0,
+            "text": "The lion was very excited to go to Disney World. He had always wanted to go there and finally had the chance. He packed his bags and went on his way.",
+            "image_url": [
+                "https://replicate.com/api/models/stability-ai/stable-diffusion/files/a1043c29-95b4-4add-a7a6-7757a22b899f/out-0.png"
+            ],
+            "next_options": {
+                "0": "The lion had a great time at Disney World",
+                "1": "The lion was disappointed with Disney World"
+            },
+            "selected_option_id": 0
+        },
+        {
+            "story_part_id": 1,
+            "text": "The lion had a great time at Disney World. He went on all the rides and met all the characters. He even got to go to the front of the line a few times. The lion had a blast and would definitely go back again.",
+            "image_url": [
+                "https://replicate.com/api/models/stability-ai/stable-diffusion/files/0083615b-1d94-4b09-9e64-de0a93ed39ae/out-0.png"
+            ],
+            "next_options": {
+                "0": "The lion went home and told all his friends about his great time at Disney World",
+                "1": "The lion decided to stay at Disney World and live there forever"
+            },
+            "selected_option_id": 0
+        },
+        {
+            "story_part_id": 2,
+            "text": "The lion went home and told all his friends about his great time at Disney World. His friends were so jealous and wished they could go too. The lion said that maybe one day they could all go together. That would be even more fun!",
+            "image_url": [
+                "https://replicate.com/api/models/stability-ai/stable-diffusion/files/c5cf08d4-85d7-4e81-86d8-9ddc3d490987/out-0.png"
+            ],
+            "next_options": {
+                "0": "The lion's friends start saving up money so they can all go to Disney World together",
+                "1": "The lion's friends get jobs at Disney World so they can all go together"
+            },
+            "selected_option_id": 0
+        },
+        {
+            "story_part_id": 3,
+            "text": "The lion's friends start saving up money so they can all go to Disney World together. They are all excited to go and have a great time together. The lion is especially excited because he knows that his friends will have just as much fun as he did.",
+            "image_url": [
+                "https://replicate.com/api/models/stability-ai/stable-diffusion/files/79521530-3ff8-4b76-bd25-6d8f5a52fc75/out-0.png"
+            ],
+            "next_options": {
+                "0": "The lion's friends save up enough money and they all go to Disney World together",
+                "1": "The lion's friends start to get worried that they won't be able to save up enough money to go to Disney World"
+            },
+            "selected_option_id": 0
+        },
+        {
+            "story_part_id": 4,
+            "text": "The lion's friends save up enough money and they all go to Disney World together. They have a blast! They go on all the rides and see all the sights. The lion is especially happy because he gets to share his favorite place with his friends.",
+            "image_url": [
+                "https://replicate.com/api/models/stability-ai/stable-diffusion/files/19f406af-78f8-40d4-83df-992408c47f08/out-0.png"
+            ],
+            "next_options": {
+                "0": "The lion's friends buy him a ticket to Disney World",
+                "1": "The lion's friends save up enough money and they all go to Disney World together"
+            },
+            "selected_option_id": 0
+        },
+        {
+            "story_part_id": 5,
+            "text": "The lion's friends buy him a ticket to Disney World and he is so excited. He has always wanted to go and now he gets to go with his friends. They have a great time together and the lion is especially happy that he gets to share his favorite place with his friends.",
+            "image_url": [
+                "https://replicate.com/api/models/stability-ai/stable-diffusion/files/9fc2b05c-4b30-4f7a-bd3a-dbd5bfe747d4/out-0.png"
+            ],
+            "next_options": {
+                "0": "The lion and his friends have a great time at Disney World",
+                "1": "The lion gets homesick and misses his family"
+            },
+            "selected_option_id": 0
+        },
+        {
+            "story_part_id": 6,
+            "text": "The lion and his friends go on all the rides and see all the sights. The lion is especially happy because he gets to share his favorite place with his friends. They have a great time together and the lion is especially happy that he gets to share his favorite place with his friends.",
+            "image_url": [
+                "https://replicate.com/api/models/stability-ai/stable-diffusion/files/646746cf-b5d9-48c5-8084-1e6a91708b63/out-0.png"
+            ],
+            "next_options": {
+                "0": "The lion and his friends continue to have a great time together and the lion is especially happy that he gets to share his favorite place with his friends",
+                "1": "The lion and his friends have a great time together, but the lion is sad because he doesn't get to share his favorite place with his friends"
+            },
+            "selected_option_id": 0
+        },
+        {
+            "story_part_id": 7,
+            "text": "The lion and his friends continue to have a great time together and the lion is especially happy that he gets to share his favorite place with his friends. They go on all the rides and see all the sights. The lion is especially happy because he gets to share his favorite place with his friends. They have a great time together and the lion is especially happy that he gets to share his favorite place with his friends.",
+            "image_url": [
+                "https://replicate.com/api/models/stability-ai/stable-diffusion/files/1b987b4f-5b32-4f53-b8a0-8ef4811db1fe/out-0.png"
+            ],
+            "next_options": {
+                "0": "The lion and his friends continue to have a great time together and the lion is especially happy that he gets to share his favorite place with his friends",
+                "1": "The lion and his friends have a great time together, but the lion is sad that he has to share his favorite place with his friends"
+            },
+            "selected_option_id": 0
+        }
+    ],
+    "quiz_parts": [
+        {
+            "answer_id": 3,
+            "question": "What did the lion do at Disney World?",
+            "options": {
+                "0": " He went on all the rides",
+                "1": " He met all the characters",
+                "2": " He got to go to the front of the line a few times",
+                "3": " All of the above"
+            },
+            "story_part_id": 1
+        },
+        {
+            "answer_id": 0,
+            "question": "What did the lion tell his friends about his time at Disney World?",
+            "options": {
+                "0": " That he had a great time",
+                "1": " That his friends were jealous",
+                "2": " That they could all go together one day",
+                "3": " That he wished he could go back"
+            },
+            "story_part_id": 2
+        },
+        {
+            "answer_id": 0,
+            "question": "What are the lion's friends doing?",
+            "options": {
+                "0": " Saving up money to go to Disney World together",
+                "1": " Going to Disney World together",
+                "2": " Staying at home",
+                "3": " Going to a different amusement park"
+            },
+            "story_part_id": 3
+        },
+        {
+            "answer_id": 0,
+            "question": "What is the lion's favorite place?",
+            "options": {
+                "0": " Disney World",
+                "1": " With his friends",
+                "2": " The rides",
+                "3": " The sights"
+            },
+            "story_part_id": 4
+        },
+        {
+            "answer_id": 0,
+            "question": "What is the lion's favorite place?",
+            "options": {
+                "0": " Disney World",
+                "1": " With his friends",
+                "2": " The zoo",
+                "3": " His home"
+            },
+            "story_part_id": 5
+        },
+        {
+            "answer_id": 0,
+            "question": "What is the lion's favorite place?",
+            "options": {
+                "0": " The amusement park",
+                "1": " The zoo",
+                "2": " The circus",
+                "3": " The beach"
+            },
+            "story_part_id": 6
+        },
+        {
+            "answer_id": 0,
+            "question": "What is the lion especially happy about?",
+            "options": {
+                "0": " That he gets to share his favorite place with his friends",
+                "1": " That he gets to go on all the rides",
+                "2": " That he gets to see all the sights",
+                "3": " That he gets to share his favorite place with his friends and go on all the rides and see all the sights"
+            },
+            "story_part_id": 7
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "id": 60,
+    "story_parts": [
+        {
+            "story_part_id": 0,
+            "text": "A girl went on an adventure to find a lost city. She had to travel through a dense forest, a dark Cave, and a deep River. She finally found the lost city and was able to return it to its people.",
+            "image_url": [
+                "https://replicate.com/api/models/stability-ai/stable-diffusion/files/466de3a8-ba94-49ad-9a0f-3c5fd49ed3b0/out-0.png"
+            ],
+            "next_options": {
+                "0": "The girl is rewarded with a treasure",
+                "1": "The girl is captured by the lost city's people"
+            },
+            "selected_option_id": null
+        }
+    ],
+    "quiz_parts": []
+}

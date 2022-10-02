@@ -1,0 +1,51 @@
+{
+    "id": 37,
+    "story_parts": [
+        {
+            "story_part_id": 0,
+            "text": "Lion was very excited to visit the city. He had always wanted to see the tall buildings and all the people. Lion was a bit nervous too, because he had never been to the city before.\n\nAs soon as Lion arrived in the city, he was amazed by all the sights and sounds. He saw the tall buildings, the busy people, and the bright lights. Lion walked around for a while, taking everything in.\n\nEventually, Lion got tired and decided to",
+            "image_url": "PlACEHOLDER",
+            "next_options": {
+                "0": " Lion finds a place to rest and falls asleep",
+                "1": " Lion keeps exploring and gets lost"
+            },
+            "selected_option": null,
+            "selected_option_id": 0
+        },
+        {
+            "story_part_id": 1,
+            "text": "Lion finds a place to rest and falls asleep. He has a dream in which he is walking through the city and everyone is cheering for him. In the dream, Lion feels proud and happy.\n\nWhen Lion wakes up, he realizes that the city is even more amazing than he had thought. He is glad that he came to visit and can't wait to come back again.",
+            "image_url": "PlACEHOLDER",
+            "next_options": {
+                "0": " Lion continues to explore the city and enjoys the attention he receives from the people",
+                "1": " Lion gets homesick and decides to head back to the jungle"
+            },
+            "selected_option": null,
+            "selected_option_id": 0
+        },
+        {
+            "story_part_id": 2,
+            "text": "Lion continues to explore the city and enjoys the attention he receives from the people. He feels proud and happy to be in the city and is glad that he came to visit. Lion hopes to come back again soon and continue exploring all the amazing sights and sounds the city has to offer.",
+            "image_url": "PlACEHOLDER",
+            "next_options": {
+                "0": " Lion continues to explore the city and enjoys the attention he receives from the people",
+                "1": " Lion gets tired of all the noise and commotion in the city and decides to head back home to the quiet jungle"
+            },
+            "selected_option": null,
+            "selected_option_id": 0
+        }
+    ],
+    "quiz_parts": [
+        {
+            "question": "What does Lion feel in his dream?",
+            "options": {
+                "0": "Scared",
+                "1": "Mad",
+                "2": "Proud",
+                "3": "Nervous"
+            },
+            "answer_id": 2,
+            "story_part_id": 1
+        }
+    ]
+}

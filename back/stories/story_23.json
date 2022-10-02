@@ -1,0 +1,24 @@
+{
+    "id": 23,
+    "story_parts": [
+        {
+            "text": "A lion was walking through the jungle when he came across a city. He had never seen a city before and was curious to explore. He walked through the streets, taking in all the sights and sounds. He even found a few scraps of food to eat. The lion enjoyed his time in the city and decided to come back again soon.",
+            "image_url": "PlACEHOLDER",
+            "next_options": [
+                "",
+                ""
+            ],
+            "selected_option": ""
+        },
+        {
+            "text": "The lion continued to explore the city and soon became a regular visitor. He would often find food to eat and enjoyed walking through the streets. The lion became known to the people of the city and they would often see him walking around. They started to call him the 'King of the Jungle' and he became a symbol of the city.",
+            "image_url": "PlACEHOLDER",
+            "next_options": [
+                " The lion continues to live in the city and is loved by the people",
+                " The lion gets scared of the people and leaves the city"
+            ],
+            "selected_option": null
+        }
+    ],
+    "quiz_parts": []
+}

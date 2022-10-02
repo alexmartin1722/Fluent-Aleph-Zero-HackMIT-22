@@ -1,0 +1,69 @@
+{
+    "id": 34,
+    "story_parts": [
+        {
+            "story_part_id": 0,
+            "text": "A lion went to the city. He saw all the buildings and the people. He walked around and saw all the sights. He even went to the top of the Empire State Building! He had a great time in the city.",
+            "image_url": "PlACEHOLDER",
+            "next_options": {
+                "0": " The lion roars and everyone panics",
+                "1": " The lion calmly walks back to the zoo",
+                "2": " The lion roars and everyone panics"
+            },
+            "selected_option": " The lion roars and everyone panics"
+        },
+        {
+            "story_part_id": 1,
+            "text": "The lion roars and everyone panics. They all start running and screaming. The lion starts chasing them. He chases them all around the city. They are all running for their lives. The lion is having a great time. He is enjoying the chase.",
+            "image_url": "PlACEHOLDER",
+            "next_options": {
+                "0": " The lion catches up to one of the people and kills them",
+                "1": " The lion gets tired and gives up"
+            },
+            "selected_option": " The lion catches up to one of the people and kills them"
+        },
+        {
+            "story_part_id": 2,
+            "text": "The lion catches up to one of the people and kills them. The person is dead and the lion is still hungry. He starts to chase another person. This person is faster and they get away. The lion is not able to catch them. He is getting tired and decides to go back to his home.",
+            "image_url": "PlACEHOLDER",
+            "next_options": {
+                "0": " The lion rests for a while and then goes back to hunting",
+                "1": " The lion finds a different person to hunt"
+            },
+            "selected_option": " The lion rests for a while and then goes back to hunting"
+        },
+        {
+            "story_part_id": 3,
+            "text": "The lion rests for a while and then goes back to hunting. He sees a gazelle and starts to chase it. The gazelle is very fast and the lion is not able to catch it. He keeps trying but he is not successful. The lion gets tired and decides to go back to his home.",
+            "image_url": "PlACEHOLDER",
+            "next_options": {
+                "0": " The lion gives up and goes back to his home",
+                "1": " The lion keeps trying to catch the gazelle"
+            },
+            "selected_option": null
+        }
+    ],
+    "quiz_parts": [
+        {
+            "question": "What is the lion doing?",
+            "options": {
+                "0": "He is roaring",
+                "1": "He is chasing them",
+                "2": "He is enjoying the chase",
+                "3": "He is running for his life"
+            },
+            "story_part_id": 1
+        },
+        {
+            "question": "Why does the lion go back to hunting after resting?",
+            "options": {
+                "0": "He is bored",
+                "1": "He is hungry",
+                "2": "He needs to feed his family",
+                "3": "He wants to play"
+            },
+            "answer_id": 1,
+            "story_part_id": 3
+        }
+    ]
+}

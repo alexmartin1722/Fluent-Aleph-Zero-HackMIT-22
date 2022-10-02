@@ -1,0 +1,18 @@
+{
+    "id": 115,
+    "story_parts": [
+        {
+            "story_part_id": 0,
+            "text": "It was another day on Tatooine, and the heat was bearing down on the desert landscape. The stormtrooper was on patrol, walking his beat and making sure everything was in order. He had been doing this for years, ever since he had joined the Empire. He didn't love his job, but it was a job and it kept him alive.\n\nSuddenly, he heard a commotion coming from one of the nearby buildings. He hurried over, blaster at the ready",
+            "image_url": [
+                "https://replicate.com/api/models/stability-ai/stable-diffusion/files/cdd3d558-4d37-416d-aaa6-efb0375fcfa2/out-0.png"
+            ],
+            "next_options": {
+                "0": "The stormtrooper enters the building to investigate the commotion",
+                "1": "The stormtrooper radioes for backup and waits for reinforcements"
+            },
+            "selected_option_id": null
+        }
+    ],
+    "quiz_parts": []
+}

@@ -1,0 +1,42 @@
+{
+    "id": 105,
+    "story_parts": [
+        {
+            "story_part_id": 0,
+            "text": "In a galaxy far, far away, there was a space cowboy who went on a heist adventure. He was looking for a treasure that was lost a long time ago. He had to team up with a group of outlaws to find it. They had to break into a heavily guarded space station to get it. In the end, they got the treasure and the space cowboy rode off into the sunset.",
+            "image_url": [
+                "https://replicate.com/api/models/stability-ai/stable-diffusion/files/dac5d086-0e06-4973-acbc-eef69e00c540/out-0.png"
+            ],
+            "next_options": {
+                "0": "The space cowboy and his team are successful in getting the treasure and they all live happily ever after",
+                "1": "The space cowboy and his team are captured by the authorities and sent to prison"
+            },
+            "selected_option_id": "0"
+        },
+        {
+            "story_part_id": 1,
+            "text": "The space cowboy and his team are successful in getting the treasure and they all live happily ever after.",
+            "image_url": [
+                "https://replicate.com/api/models/stability-ai/stable-diffusion/files/43100965-2541-489c-982b-c1b7ee0d49e5/out-0.png"
+            ],
+            "next_options": {
+                "0": "The space cowboy and his team take the treasure and use it to buy a new space ship",
+                "1": "The space cowboy and his team take the treasure and use it to buy a new space ship and then they use it to buy a new space station"
+            },
+            "selected_option_id": null
+        }
+    ],
+    "quiz_parts": [
+        {
+            "answer_id": 2,
+            "question": "What is the space cowboy's job?",
+            "options": {
+                "0": " To explore space",
+                "1": " To protect the Earth",
+                "2": " To find treasure",
+                "3": " To live happily ever after"
+            },
+            "story_part_id": 1
+        }
+    ]
+}

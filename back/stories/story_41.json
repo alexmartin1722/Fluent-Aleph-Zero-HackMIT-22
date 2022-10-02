@@ -1,0 +1,48 @@
+{
+    "id": 41,
+    "story_parts": [
+        {
+            "story_part_id": 0,
+            "text": "Joe the giraffe goes on a hike. He walks through the woods and sees many different animals. He sees a deer, a rabbit, and a squirrel. He also sees a lot of birds. He walks for a long time and then he comes to a river. He drinks some water and then he continues on his hike. He walks for a while longer and then he comes to a hill. He climbs to the top of the hill and then he sees a beautiful view. He sees",
+            "image_url": "PlACEHOLDER",
+            "next_options": {
+                "0": " Joe sees a beautiful sunset and decides to camp there for the night",
+                "1": " Joe sees a bear and starts to run away"
+            },
+            "selected_option_id": "1"
+        },
+        {
+            "story_part_id": 1,
+            "text": "Joe sees a bear and starts to run away. He runs as fast as he can, but the bear is faster than him. The bear catches up to Joe and starts to attack him. Joe fights back, but he is no match for the bear. The bear kills Joe and eats him.",
+            "image_url": "PlACEHOLDER",
+            "next_options": {
+                "0": " The bear continues to attack other people in the area",
+                "1": " The bear wanders off into the forest"
+            },
+            "selected_option_id": "1"
+        },
+        {
+            "story_part_id": 2,
+            "text": "The bear wanders off into the forest, full from its meal. It wanders through the woods, looking for more food. It comes across a deer, but it is too fast for the bear to catch. The bear continues to wander through the woods until it comes across a small rabbit. The bear catches the rabbit and eats it. The bear is now full and it wanders back to its den for a nap.",
+            "image_url": "PlACEHOLDER",
+            "next_options": {
+                "0": " The bear wanders back to its den and falls asleep",
+                "1": " The bear keeps wandering through the woods and comes across a stream"
+            },
+            "selected_option_id": null
+        }
+    ],
+    "quiz_parts": [
+        {
+            "question": "What does Joe see?",
+            "options": {
+                "0": "A duck",
+                "1": "A bear",
+                "2": "A rabbit",
+                "3": "A deer"
+            },
+            "answer_id": 1,
+            "story_part_id": 1
+        }
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "id": 35,
+    "story_parts": [
+        {
+            "story_part_id": 0,
+            "text": "A lion went to the city. He saw all the cars and buildings. He saw people walking and running. He saw dogs and cats. He saw birds and squirrels. He saw a lot of things he had never seen before.",
+            "image_url": "PlACEHOLDER",
+            "next_options": {
+                "0": " The lion was scared and ran back to the forest",
+                "1": " The lion liked what he saw and decided to stay in the city"
+            },
+            "selected_option": null,
+            "selected_option_id": 0
+        }
+    ],
+    "quiz_parts": []
+}

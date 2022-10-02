@@ -1,0 +1,42 @@
+{
+    "id": 113,
+    "story_parts": [
+        {
+            "story_part_id": 0,
+            "text": "The stormtrooper was on a mission to steal a valuable piece of art from a wealthy family. The family had a lot of security, so the stormtrooper had to be very careful. He/she made a plan and executed it perfectly. The stormtrooper got in and out without being seen and got the painting.",
+            "image_url": [
+                "https://replicate.com/api/models/stability-ai/stable-diffusion/files/28d4987e-1a32-4577-8cb8-1c07e696f981/out-0.png"
+            ],
+            "next_options": {
+                "0": "The stormtrooper returned to the base and reported the successful mission to the commanding officer",
+                "1": "The stormtrooper was caught by the family's security guards and was arrested"
+            },
+            "selected_option_id": "0"
+        },
+        {
+            "story_part_id": 1,
+            "text": "The stormtrooper returned to the base and reported the successful mission to the commanding officer. The officer was very pleased and congratulated the stormtrooper on a job well done.",
+            "image_url": [
+                "https://replicate.com/api/models/stability-ai/stable-diffusion/files/d022d75c-7251-4905-a82f-9e3ced4f059f/out-0.png"
+            ],
+            "next_options": {
+                "0": "The stormtrooper was given a new mission",
+                "1": "The stormtrooper was given a reward"
+            },
+            "selected_option_id": null
+        }
+    ],
+    "quiz_parts": [
+        {
+            "answer_id": 0,
+            "question": "What is a stormtrooper?",
+            "options": {
+                "0": " A soldier in the Imperial Army of the Galactic Empire in the Star Wars universe",
+                "1": " A type of droid used by the Galactic Empire",
+                "2": " A type of clone used by the Galactic Republic",
+                "3": " A type of ship used by the Galactic Empire"
+            },
+            "story_part_id": 1
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "id": 123,
+    "story_parts": [
+        {
+            "story_part_id": 0,
+            "text": "In the beginning, there was a dog. She was a good dog. She loved her family and she loved to play. One day, she saw a squirrel. She chased the squirrel up a tree and she barked at it. The squirrel was scared and it ran away.",
+            "image_url": [
+                "https://replicate.com/api/models/stability-ai/stable-diffusion/files/25eb99ef-54fe-4312-8164-063c6c2d94dd/out-0.png"
+            ],
+            "next_options": {
+                "0": "The dog's family scolded her for chasing the squirrel and she never did it again",
+                "1": "The dog continued to chase squirrels every chance she got"
+            },
+            "selected_option_id": null
+        }
+    ],
+    "quiz_parts": []
+}

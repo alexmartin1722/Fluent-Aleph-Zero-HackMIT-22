@@ -1,0 +1,40 @@
+{
+    "id": 73,
+    "story_parts": [
+        {
+            "story_part_id": 0,
+            "text": "Lion had always been interested in the inner workings of government. As a child, he would spend hours reading about the different departments and how they functioned. He knew he wanted to work in government someday, but he never imagined he would be a spy.\n\nLion was approached by a government official one day and asked if he would be interested in working as a spy. Lion didn't hesitate to say yes. He was given a set of instructions and told to report back to",
+            "image_url": [
+                "https://replicate.com/api/models/stability-ai/stable-diffusion/files/8b06667a-cce1-4bdb-9a38-acce708fbfad/out-0.png"
+            ],
+            "next_options": {
+                "0": "Lion is given a set of instructions and told to report back to the official in one week",
+                "1": "Lion is given a set of instructions and told to report back to the official immediately"
+            },
+            "selected_option_id": "1"
+        },
+        {
+            "story_part_id": 1,
+            "text": "",
+            "image_url": null,
+            "next_options": {
+                "0": "The moral of the story is that it's never too late to learn",
+                "1": "The moral of the story is that wisdom comes with age"
+            },
+            "selected_option_id": null
+        }
+    ],
+    "quiz_parts": [
+        {
+            "answer_id": 2,
+            "question": "What is the main idea of the paragraph?",
+            "options": {
+                "0": " The author is annoyed with people who do not use proper grammar",
+                "1": " The author believes that everyone should learn proper grammar",
+                "2": " The author thinks that proper grammar is important in some situations",
+                "3": " The author does not think that proper grammar is important"
+            },
+            "story_part_id": 1
+        }
+    ]
+}

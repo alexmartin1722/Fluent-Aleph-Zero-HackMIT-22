@@ -1,0 +1,86 @@
+{
+    "id": 75,
+    "story_parts": [
+        {
+            "story_part_id": 0,
+            "text": "The lion was always a bit different from the other lions. He was always asking questions and wanting to know more about the world around him. So, when the government approached him about being a spy, he was more than happy to accept.",
+            "image_url": [
+                "https://replicate.com/api/models/stability-ai/stable-diffusion/files/d3a7c425-f132-4215-9c6a-44dbe8c03bc2/out-0.png"
+            ],
+            "next_options": {
+                "0": "The lion went undercover and worked to uncover the government's secrets",
+                "1": "The lion was caught and killed by the government"
+            },
+            "selected_option_id": "0"
+        },
+        {
+            "story_part_id": 1,
+            "text": "The lion went undercover and worked to uncover the government's secrets. He discovered that they were planning to launch a secret attack on a neighboring country. He warned the other lions and helped them to prepare for the attack. Thanks to the lion, the attack was successfully thwarted and the lions were able to keep their homeland safe.",
+            "image_url": [
+                "https://replicate.com/api/models/stability-ai/stable-diffusion/files/a7f10fc6-dcd2-4dea-846f-b4fbaa7a81d9/out-0.png"
+            ],
+            "next_options": {
+                "0": "The lion continues to work undercover, uncovering more and more government secrets",
+                "1": "The lion is discovered by the government and is captured"
+            },
+            "selected_option_id": "0"
+        },
+        {
+            "story_part_id": 2,
+            "text": "The lion continues to work undercover, uncovering more and more government secrets. He is quickly becoming a master of espionage and is loved by his fellow lions for his bravery and intelligence. One day, the lion is approached by a group of humans who want him to help them overthrow the government. The lion agrees and helps the humans to overthrow the government. With the help of the lion, the humans are able to create a new, better government that benefits everyone.",
+            "image_url": [
+                "https://replicate.com/api/models/stability-ai/stable-diffusion/files/f9a16c37-7ee5-43cf-9243-d981d53695f2/out-0.png"
+            ],
+            "next_options": {
+                "0": "The lion becomes the new king of the humans and rules over them with an iron fist",
+                "1": "The lion helps the humans to create a new, better government that benefits everyone"
+            },
+            "selected_option_id": "0"
+        },
+        {
+            "story_part_id": 3,
+            "text": "",
+            "image_url": null,
+            "next_options": {
+                "0": "The woman decides to stay in the city and try to make a new life for herself",
+                "1": "The woman decides to leave the city and go back to her small town"
+            },
+            "selected_option_id": null
+        }
+    ],
+    "quiz_parts": [
+        {
+            "answer_id": 0,
+            "question": "What did the lion discover about the government's plans?",
+            "options": {
+                "0": " They were planning to launch a secret attack on a neighboring country",
+                "1": " They were planning to launch a secret attack on the lion's homeland",
+                "2": " They were planning to launch a secret attack on a different country",
+                "3": " They were not planning to launch a secret attack"
+            },
+            "story_part_id": 1
+        },
+        {
+            "answer_id": 0,
+            "question": "What does the lion agree to do when approached by a group of humans?",
+            "options": {
+                "0": " Help them overthrow the government",
+                "1": " Work undercover to uncover government secrets",
+                "2": " Stay with his fellow lions",
+                "3": " Create a new government"
+            },
+            "story_part_id": 2
+        },
+        {
+            "answer_id": 0,
+            "question": "What is the best way to increase the lifespan of a car?",
+            "options": {
+                "0": " By regularly changing the oil",
+                "1": " By never changing the oil",
+                "2": " By driving it as little as possible",
+                "3": " By driving it as much as possible"
+            },
+            "story_part_id": 3
+        }
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "id": 24,
+    "story_parts": [
+        {
+            "text": "A lion was walking through the jungle when he came across a city. He had never seen a city before and was curious to explore it. He walked through the streets, looking at all the buildings and people. He even saw a few other lions and went up to them to say hello. After a while, the lion got tired and decided to go back to the jungle. He had a lot of fun exploring the city and would definitely come back again.",
+            "image_url": "PlACEHOLDER",
+            "next_options": [
+                " The lion continues to explore the city and eventually finds a place to rest",
+                " The lion gets scared by all the people and runs back to the jungle"
+            ],
+            "selected_option": " The lion continues to explore the city and eventually finds a place to rest"
+        },
+        {
+            "text": "The lion continues to explore the city and eventually finds a place to rest. He enjoys the sights and sounds of the city and would definitely come back again.",
+            "image_url": "PlACEHOLDER",
+            "next_options": [
+                " The lion continues to explore the city and eventually finds a place to rest",
+                " The lion gets tired of exploring the city and decides to go back to the zoo"
+            ],
+            "selected_option": null
+        }
+    ],
+    "quiz_parts": []
+}

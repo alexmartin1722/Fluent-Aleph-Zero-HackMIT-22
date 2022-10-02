@@ -1,0 +1,42 @@
+{
+    "id": 122,
+    "story_parts": [
+        {
+            "story_part_id": 0,
+            "text": "A girafe was walking through the jungle when she came across a huge lion. The lion was asleep and the girafe knew that she could easily escape if she was quiet. However, the girafe wanted to play a prank on the lion. She began to make a loud noise, hoping to wake the lion up.",
+            "image_url": [
+                "https://replicate.com/api/models/stability-ai/stable-diffusion/files/4e58c25d-d69d-40af-bdbb-d26fce71e4ac/out-0.png"
+            ],
+            "next_options": {
+                "0": "The girafe continues making noise until the lion wakes up and chases her",
+                "1": "The girafe makes a loud noise, but the lion does not wake up"
+            },
+            "selected_option_id": "0"
+        },
+        {
+            "story_part_id": 1,
+            "text": "The girafe continues making noise until the lion wakes up and chases her. The girafe knows that she can easily outrun the lion, so she leads him on a chase through the jungle. The lion eventually gets tired and gives up, and the girafe escapes unharmed.",
+            "image_url": [
+                "https://replicate.com/api/models/stability-ai/stable-diffusion/files/adffe59e-ebf8-48f4-bd69-1786cdce21a9/out-0.png"
+            ],
+            "next_options": {
+                "0": "The giraffe continues running and eventually loses the lion",
+                "1": "The giraffe leads the lion to a group of other lions and they all chase her"
+            },
+            "selected_option_id": null
+        }
+    ],
+    "quiz_parts": [
+        {
+            "answer_id": 0,
+            "question": "What does the girafe do when she sees the lion awake?",
+            "options": {
+                "0": " She makes a noise to get its attention.",
+                "1": " She outruns it.",
+                "2": " She hides.",
+                "3": " She continues to make noise."
+            },
+            "story_part_id": 1
+        }
+    ]
+}

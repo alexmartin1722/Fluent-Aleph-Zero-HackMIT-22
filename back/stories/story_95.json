@@ -1,0 +1,18 @@
+{
+    "id": 95,
+    "story_parts": [
+        {
+            "story_part_id": 0,
+            "text": "The lion was very excited to go to Disney World. He had always wanted to go and see all of the fun rides and shows. When he arrived, he was amazed at all of the sights and sounds. He went on all of the rides and saw all of the shows. He had a great time and even got to meet some of the characters.",
+            "image_url": [
+                "https://replicate.com/api/models/stability-ai/stable-diffusion/files/3d81c1a9-2959-41ef-ab87-4e8ec02cc95d/out-0.png"
+            ],
+            "next_options": {
+                "0": "The lion was so excited that he went on all of the rides and saw all of the shows again",
+                "1": "The lion was so excited that he decided to stay at Disney World forever"
+            },
+            "selected_option_id": 0
+        }
+    ],
+    "quiz_parts": []
+}

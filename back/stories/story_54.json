@@ -1,0 +1,54 @@
+{
+    "id": 54,
+    "story_parts": [
+        {
+            "story_part_id": 0,
+            "text": "I was in second grade and I loved it. I loved learning new things and being with my friends. My favorite subject was math. I loved solving problems and figuring things out. My teacher was Mrs. Nguyen and she was really nice. She would always help us if we needed it. I remember one time I was having trouble with my multiplication and she helped me until I understood it. I am so grateful to her for that. I also loved recess and lunchtime. I would always",
+            "image_url": [
+                "https://replicate.com/api/models/stability-ai/stable-diffusion/files/e93b24a8-4679-444b-9c2c-9d991454254f/out-0.png"
+            ],
+            "next_options": {
+                "0": "I would always play tag with my friends",
+                "1": "I would always eat my lunch with my friends"
+            },
+            "selected_option_id": "0"
+        },
+        {
+            "story_part_id": 1,
+            "text": "I would always play tag with my friends during recess. I was really fast and I loved to run around. My friends would always laugh and say that I was like a little rabbit. I was always so happy when I was with them. I loved hearing their laughter and just having fun. I remember one time, we were playing tag and I ran so fast that I accidentally ran into one of the girls. She fell down and started crying. I felt so bad and I started crying too",
+            "image_url": [
+                "https://replicate.com/api/models/stability-ai/stable-diffusion/files/190b3412-4d1d-4bed-b6d0-7ed606dfe681/out-0.png"
+            ],
+            "next_options": {
+                "0": "I ran over to her and helped her up",
+                "1": "I just stood there and stared at her"
+            },
+            "selected_option_id": "1"
+        },
+        {
+            "story_part_id": 2,
+            "text": "I just stood there and stared at her. I didn't know what to do. I felt so bad that I had made her cry. I just wanted to make it better. I didn't know how. I wished that Mrs. Nguyen was there to help me. I didn't know what to do. I just stood there until the girl stopped crying. Then I helped her up and we went back to playing. I was so happy that I could make her smile again.",
+            "image_url": [
+                "https://replicate.com/api/models/stability-ai/stable-diffusion/files/f3ec2db4-293f-4c7d-8733-1a12b95e232e/out-0.png"
+            ],
+            "next_options": {
+                "0": "The girl and I became friends and we played together all the time",
+                "1": "I never saw the girl again"
+            },
+            "selected_option_id": null
+        }
+    ],
+    "quiz_parts": [
+        {
+            "answer_id": 0,
+            "question": "What did the protagonist do when he made the girl cry?",
+            "options": {
+                "0": "Stood there until she stopped crying",
+                "1": "Went to get Mrs",
+                "2": "Started crying himself",
+                "3": "Ran away"
+            },
+            "story_part_id": 2
+        }
+    ]
+}

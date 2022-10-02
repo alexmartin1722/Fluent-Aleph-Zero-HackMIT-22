@@ -1,0 +1,42 @@
+{
+    "id": 111,
+    "story_parts": [
+        {
+            "story_part_id": 0,
+            "text": "The stormtrooper was on a mission to steal valuable data from the Rebel Alliance. He was armed with a blaster and a knife, and had a plan to get in and out quickly. However, things went wrong when the alarm sounded and the stormtrooper was forced to fight his way out. He killed several rebels before finally making his escape. With the data in hand, the stormtrooper had successfully completed his mission.",
+            "image_url": [
+                "https://replicate.com/api/models/stability-ai/stable-diffusion/files/e0bd5d23-e7f3-4a1c-8128-7927fbd16ef4/out-0.png"
+            ],
+            "next_options": {
+                "0": "The stormtrooper returns to the base and reports to his commanding officer",
+                "1": "The stormtrooper decides to sell the data to the highest bidder"
+            },
+            "selected_option_id": "1"
+        },
+        {
+            "story_part_id": 1,
+            "text": "The stormtrooper decides to sell the data to the highest bidder. He knows that the Rebel Alliance will be willing to pay a high price for it, and he can use the money to fund his own interests. He arranges a meeting with a representative from the Alliance, and hands over the data. In exchange, he receives a large sum of money. With the mission complete, the stormtrooper is one step closer to his ultimate goal.",
+            "image_url": [
+                "https://replicate.com/api/models/stability-ai/stable-diffusion/files/c2c2bfcc-36fc-49aa-ad46-b5625e5d97da/out-0.png"
+            ],
+            "next_options": {
+                "0": "The stormtrooper double-crosses the Rebel Alliance and sells the data to the Galactic Empire",
+                "1": "The stormtrooper keeps the data for himself and uses it to blackmail the Rebel Alliance"
+            },
+            "selected_option_id": null
+        }
+    ],
+    "quiz_parts": [
+        {
+            "answer_id": 0,
+            "question": "What is the definition of \"data\"?",
+            "options": {
+                "0": " Information that is organized in a way that makes it useful to people",
+                "1": " A set of values that represent something",
+                "2": " Information that is used to make decisions",
+                "3": " Information that is used to support a claim or an argument"
+            },
+            "story_part_id": 1
+        }
+    ]
+}

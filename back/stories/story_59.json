@@ -1,0 +1,54 @@
+{
+    "id": 59,
+    "story_parts": [
+        {
+            "story_part_id": 0,
+            "text": "A girl went on an adventure to find a lost city. She had to travel through a dense forest, a dark cave, and a deep river to find it. Along the way, she made new friends and faced many challenges. She was finally able to find the lost city and return home safely.",
+            "image_url": [
+                "https://replicate.com/api/models/stability-ai/stable-diffusion/files/211d2558-02fa-44ad-9694-736e16bf89f2/out-0.png"
+            ],
+            "next_options": {
+                "0": "The girl returns home and tells her friends and family about her adventure",
+                "1": "The girl decides to stay in the lost city and explore it more"
+            },
+            "selected_option_id": "1"
+        },
+        {
+            "story_part_id": 1,
+            "text": "The girl decides to stay in the lost city and explore it more. She meets new people and sees new things. She eventually falls in love with the city and decides to stay there forever.",
+            "image_url": [
+                "https://replicate.com/api/models/stability-ai/stable-diffusion/files/1959d8cb-db6c-4580-a9ef-fdc40424e185/out-0.png"
+            ],
+            "next_options": {
+                "0": "The girl discovers a secret about the lost city that makes her want to leave",
+                "1": "The girl becomes the ruler of the lost city"
+            },
+            "selected_option_id": "1"
+        },
+        {
+            "story_part_id": 2,
+            "text": "The girl becomes the ruler of the lost city and helps it to prosper. She meets new people and sees new things. She eventually falls in love with the city and decides to stay there forever.",
+            "image_url": [
+                "https://replicate.com/api/models/stability-ai/stable-diffusion/files/066ef3dc-d556-4fc6-9b32-63f965c160df/out-0.png"
+            ],
+            "next_options": {
+                "0": "She meets a handsome prince and they live happily ever after",
+                "1": "She becomes bored with the city and decides to leave"
+            },
+            "selected_option_id": null
+        }
+    ],
+    "quiz_parts": [
+        {
+            "answer_id": 0,
+            "question": "What does the girl do when she becomes the ruler of the lost city?",
+            "options": {
+                "0": "She helps it to prosper",
+                "1": "She meets new people",
+                "2": "She sees new things",
+                "3": "She falls in love with the city"
+            },
+            "story_part_id": 2
+        }
+    ]
+}

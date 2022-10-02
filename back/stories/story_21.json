@@ -1,0 +1,24 @@
+{
+    "id": 21,
+    "story_parts": [
+        {
+            "text": "The lion was getting tired of living in the jungle. He had been there his whole life and wanted to see what else was out there. So, one day he set off for the city.\n\nThe lion had never seen anything like the city before. There were so many buildings and so many people! He walked around for a while, taking it all in.\n\nEventually, the lion got tired and decided to go back to the jungle. But he was glad he had taken",
+            "image_url": "PlACEHOLDER",
+            "next_options": [
+                " The lion decided to stay in the city and live there from then on",
+                " The lion decided to visit the city again sometime soon"
+            ],
+            "selected_option": " The lion decided to stay in the city and live there from then on"
+        },
+        {
+            "text": "The lion decided to stay in the city and live there from then on. He loved the excitement and the energy of the city. And he knew that he would never be bored living there.",
+            "image_url": "PlACEHOLDER",
+            "next_options": [
+                " The lion found a mate and started a family",
+                " The lion became the king of the city"
+            ],
+            "selected_option": null
+        }
+    ],
+    "quiz_parts": []
+}

@@ -1,0 +1,111 @@
+{
+    "id": 71,
+    "story_parts": [
+        {
+            "story_part_id": 0,
+            "text": "A girl was walking through the forest when she came across a talking rabbit. The rabbit said to her, \"If you follow me, I will show you an adventure.\" The girl followed the rabbit and he led her to a secret door in a tree. The girl went through the door and found herself in a magical world.",
+            "image_url": [
+                "https://replicate.com/api/models/stability-ai/stable-diffusion/files/79b94d6b-90de-4fff-8700-e9f1da83ae2a/out-0.png"
+            ],
+            "next_options": {
+                "0": "The girl explored the magical world and had many adventures",
+                "1": "The girl was captured by a evil wizard and taken to his castle"
+            },
+            "selected_option_id": "1"
+        },
+        {
+            "story_part_id": 1,
+            "text": "The girl was captured by a evil wizard and taken to his castle. She was put in a dungeon and the wizard said he would let her go if she gave him the magical necklace she was wearing. The girl agreed and the wizard let her go. She went back to the magical world and found the rabbit. The rabbit said to her, \"I'm sorry I got you into trouble. I won't take you on any more adventures.\"",
+            "image_url": [
+                "https://replicate.com/api/models/stability-ai/stable-diffusion/files/1cf38b35-32ed-4568-b699-a34d82225b55/out-0.png"
+            ],
+            "next_options": {
+                "0": "The girl went back to the wizard's castle and found the necklace",
+                "1": "The girl went back to the wizard's castle and found the wizard"
+            },
+            "selected_option_id": "0"
+        },
+        {
+            "story_part_id": 2,
+            "text": "The girl went back to the wizard's castle and found the necklace. She put it on and went back to the magical world. She found the rabbit and said to him, \"I'm sorry I got you into trouble. I won't take you on any more adventures.\"",
+            "image_url": [
+                "https://replicate.com/api/models/stability-ai/stable-diffusion/files/8abd7659-ee7b-4894-9d5b-fa0d6d3b7af7/out-0.png"
+            ],
+            "next_options": {
+                "0": "The girl decides to keep the necklace and live in the magical world forever",
+                "1": "The girl returns the necklace to the wizard and goes back to her own world"
+            },
+            "selected_option_id": "0"
+        },
+        {
+            "story_part_id": 3,
+            "text": "The girl decides to keep the necklace and live in the magical world forever. She has many adventures with the rabbit and other creatures in the magical world. She eventually becomes the queen of the magical world and rules over it with wisdom and compassion.",
+            "image_url": [
+                "https://replicate.com/api/models/stability-ai/stable-diffusion/files/2a077252-6629-436f-8380-6e5835b518ff/out-0.png"
+            ],
+            "next_options": {
+                "0": "The girl decides to keep the necklace and live in the magical world forever",
+                "1": "The girl decides to return the necklace to the rabbit and live in the real world"
+            },
+            "selected_option_id": "1"
+        },
+        {
+            "story_part_id": 4,
+            "text": "The girl decides to return the necklace to the rabbit and live in the real world. She gives the rabbit a big hug and thanks him for all the adventures they had together. She promises to never forget the magical world and all the creatures in it. The girl returns to the real world and lives happily ever after.",
+            "image_url": [
+                "https://replicate.com/api/models/stability-ai/stable-diffusion/files/2d20d3ed-bc9e-4e6f-b267-bc467cc248f0/out-0.png"
+            ],
+            "next_options": {
+                "0": "The girl decides to keep the necklace and live in the magical world",
+                "1": "The girl decides to keep the necklace and live in the real world"
+            },
+            "selected_option_id": null
+        }
+    ],
+    "quiz_parts": [
+        {
+            "answer_id": 0,
+            "question": "What did the evil wizard want in exchange for letting the girl go?",
+            "options": {
+                "0": " He wanted her to give him the magical necklace she was wearing",
+                "1": " He wanted her to tell him the location of the magical world",
+                "2": " He wanted her to give him a magical rabbit",
+                "3": " He wanted her to tell him her name"
+            },
+            "story_part_id": 1
+        },
+        {
+            "answer_id": 1,
+            "question": "What did the girl do when she went back to the wizard's castle?",
+            "options": {
+                "0": " She went back to the magical world",
+                "1": " She found the necklace",
+                "2": " She put the necklace on",
+                "3": " She talked to the rabbit"
+            },
+            "story_part_id": 2
+        },
+        {
+            "answer_id": 2,
+            "question": "What does the girl do with the necklace?",
+            "options": {
+                "0": " She gives it to the rabbit",
+                "1": " She sells it",
+                "2": " She keeps it and lives in the magical world forever",
+                "3": " She throws it away"
+            },
+            "story_part_id": 3
+        },
+        {
+            "answer_id": 2,
+            "question": "What does the girl do with the necklace?",
+            "options": {
+                "0": " She keeps it",
+                "1": " She sells it",
+                "2": " She gives it back to the rabbit",
+                "3": " She throws it away"
+            },
+            "story_part_id": 4
+        }
+    ]
+}

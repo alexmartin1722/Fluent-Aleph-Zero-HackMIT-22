@@ -1,0 +1,79 @@
+{
+    "id": 30,
+    "story_parts": [
+        {
+            "story_part_id": 0,
+            "text": "The lion was getting tired of living in the jungle. He had been living there for years, and it was time for a change. So, the lion headed to the city.\n\nThe lion had never been to the city before, and he was a little bit nervous. But he was also excited to see what it was like.\n\nAs soon as the lion arrived in the city, he could see that it was very different from the jungle. There were so many buildings and",
+            "image_url": "PlACEHOLDER",
+            "next_options": [
+                " The lion was excited to explore the city and see all the new sights and sounds",
+                " The lion was scared of all the new sights and sounds and wanted to go back to the jungle"
+            ],
+            "selected_option": " The lion was excited to explore the city and see all the new sights and sounds"
+        },
+        {
+            "story_part_id": 1,
+            "text": "The lion was excited to explore the city and see all the new sights and sounds. He had never seen anything like it before. The lion walked around for a while, taking everything in.\n\nEventually, the lion started to get hungry. He had seen some people walking around with food, and he wanted some of it.\n\nThe lion walked up to a person and asked for some food. The person was happy to give the lion some food.\n\nThe lion ate the",
+            "image_url": "PlACEHOLDER",
+            "next_options": [
+                " The lion continued to explore the city and found some more food",
+                " The lion went back to his home in the jungle",
+                " The lion continued to explore the city and found some more food"
+            ],
+            "selected_option": " The lion continued to explore the city and found some more food",
+            "quiz": {
+                "question": "",
+                "options": {
+                    "0": "What was the lion's initial reaction to the city?",
+                    "1": "He was excited to explore the city and see all the new sights and sounds",
+                    "2": "He was scared of the city and all the new sights and sounds",
+                    "3": "He was happy to explore the city and see all the new sights and sounds"
+                },
+                "story_part_id": 1
+            }
+        },
+        {
+            "story_part_id": 2,
+            "text": "The lion continued to explore the city and found some more food. He also found a place to sleep. The lion liked the city and decided to stay there.",
+            "image_url": "PlACEHOLDER",
+            "next_options": [
+                " The lion found a mate and they had cubs",
+                " The lion got bored of the city and left"
+            ],
+            "selected_option": " The lion found a mate and they had cubs"
+        },
+        {
+            "story_part_id": 3,
+            "text": "The lion found a mate and they had cubs. The cubs were born in the city and they grew up learning about all the different sights and sounds. The lion and his mate were happy to have their cubs in the city and they continued to live there for many years.",
+            "image_url": "PlACEHOLDER",
+            "next_options": [
+                " The family of lions continues to live in the city and the cubs grow up to be strong and healthy adults",
+                " The family of lions moves to the countryside where they can live a more natural life"
+            ],
+            "selected_option": null
+        }
+    ],
+    "quiz_parts": [
+        {
+            "question": "",
+            "options": {
+                "0": "What was the lion's initial reaction to the city?",
+                "1": "He was excited to explore the city and see all the new sights and sounds",
+                "2": "He was scared of the city and all the new sights and sounds",
+                "3": "He was happy to explore the city and see all the new sights and sounds"
+            },
+            "story_part_id": 1
+        },
+        {
+            "question": "Where did the lion and his mate have their cubs?",
+            "options": {
+                "0": "In the city",
+                "1": "In the wilderness",
+                "2": "In a cave",
+                "3": "In a tree"
+            },
+            "answer_id": 0,
+            "story_part_id": 3
+        }
+    ]
+}

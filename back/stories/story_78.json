@@ -1,0 +1,121 @@
+{
+    "id": 78,
+    "story_parts": [
+        {
+            "story_part_id": 0,
+            "text": "A lion was getting ready to go to Disney World. He was very excited and couldn't wait to go on all the rides and see all the shows. He packed his bags and got on the plane. When he arrived at Disney World, he was amazed. He went on all the rides and saw all the shows. He had a great time and met a lot of new friends.",
+            "image_url": [
+                "https://replicate.com/api/models/stability-ai/stable-diffusion/files/b82a4dda-cb8c-4d5b-9cec-84535ac0f66b/out-0.png"
+            ],
+            "next_options": {
+                "0": "The lion decides to stay at Disney World and live there forever",
+                "1": "The lion goes home after a few days and tells all his friends about his amazing adventure"
+            },
+            "selected_option_id": 0
+        },
+        {
+            "story_part_id": 1,
+            "text": "The lion was so happy at Disney World that he decided to stay there forever. He made new friends and had a great time every day. He never got bored or homesick, and he was always happy.",
+            "image_url": [
+                "https://replicate.com/api/models/stability-ai/stable-diffusion/files/accdd9c8-129b-459c-98c2-b1f420845dc2/out-0.png"
+            ],
+            "next_options": {
+                "0": "The lion continued to live happily at Disney World, and everyone loved him",
+                "1": "The lion missed his old home and decided to leave Disney World to go back to the wild"
+            },
+            "selected_option_id": 0
+        },
+        {
+            "story_part_id": 2,
+            "text": "The lion continued to live happily at Disney World, and everyone loved him. He was always happy and smiling, and he made everyone around him happy too. He was a great addition to Disney World, and he loved it there.",
+            "image_url": [
+                "https://replicate.com/api/models/stability-ai/stable-diffusion/files/b1fc747c-39e4-478e-be4d-497be6ade964/out-0.png"
+            ],
+            "next_options": {
+                "0": "The lion continued to live happily at Disney World, and everyone loved him",
+                "1": "One day, the lion got sick and had to be put down"
+            },
+            "selected_option_id": 0
+        },
+        {
+            "story_part_id": 3,
+            "text": "The lion continued to live happily at Disney World, and everyone loved him. He was always happy and smiling, and he made everyone around him happy too. He was a great addition to Disney World, and he loved it there.",
+            "image_url": [
+                "https://replicate.com/api/models/stability-ai/stable-diffusion/files/0ec0616d-bd3c-425f-9b93-a8f8d9e87325/out-0.png"
+            ],
+            "next_options": {
+                "0": "The lion continued to live happily at Disney World, and everyone loved him",
+                "1": "One day, the lion got sick and had to be put down"
+            },
+            "selected_option_id": 0
+        },
+        {
+            "story_part_id": 4,
+            "text": "The lion continued to live happily at Disney World, and everyone loved him. He was always happy and smiling, and he made everyone around him happy too. He was a great addition to Disney World, and he loved it there.",
+            "image_url": [
+                "https://replicate.com/api/models/stability-ai/stable-diffusion/files/b25f2f75-c55d-4de9-a3d7-4ea6915621eb/out-0.png"
+            ],
+            "next_options": {
+                "0": "The lion continues to live happily at Disney World, making everyone around him happy",
+                "1": "One day, the lion escapes from Disney World and is never seen again"
+            },
+            "selected_option_id": 0
+        },
+        {
+            "story_part_id": 5,
+            "text": "",
+            "image_url": null,
+            "next_options": {
+                "0": "The woman decides to go back to her own time",
+                "1": "The woman decides to stay in the future"
+            },
+            "selected_option_id": null
+        }
+    ],
+    "quiz_parts": [
+        {
+            "answer_id": 3,
+            "question": "What made the lion happy at Disney World?",
+            "options": {
+                "0": " The lion's new friends",
+                "1": " The lion's great time every day",
+                "2": " The lion's lack of boredom or homesickness",
+                "3": " All of the above"
+            },
+            "story_part_id": 1
+        },
+        {
+            "answer_id": 3,
+            "question": "What made the lion a great addition to Disney World?",
+            "options": {
+                "0": " His happy and smiling demeanor",
+                "1": " His ability to make everyone around him happy",
+                "2": " His love for Disney World",
+                "3": " All of the above"
+            },
+            "story_part_id": 2
+        },
+        {
+            "answer_id": 3,
+            "question": "What made the lion a great addition to Disney World?",
+            "options": {
+                "0": " His happy and smiling demeanor",
+                "1": " His ability to make everyone around him happy",
+                "2": " His ability to live happily at Disney World",
+                "3": " All of the above"
+            },
+            "story_part_id": 3
+        },
+        {
+            "answer_id": 2,
+            "question": "What was the lion's demeanor?",
+            "options": {
+                "0": " Sad",
+                "1": " Angry",
+                "2": " Happy",
+                "3": " Disinterested"
+            },
+            "story_part_id": 4
+        }
+    ]
+}

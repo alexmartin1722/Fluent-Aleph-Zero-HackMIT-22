@@ -1,0 +1,24 @@
+{
+    "id": 20,
+    "story_parts": [
+        {
+            "text": "One day, a lion was walking through the jungle and came across a city. He had never seen a city before and was curious to explore it. The lion walked through the streets, looking at all the tall buildings and busy people. He even saw a few other lions and tigers walking around. The lion thought the city was amazing and he loved it.",
+            "image_url": "PlACEHOLDER",
+            "next_options": [
+                " The lion continues to explore the city and eventually makes a home there",
+                " The lion gets scared by all the people and runs away"
+            ],
+            "selected_option": " The lion continues to explore the city and eventually makes a home there"
+        },
+        {
+            "text": "The lion continues to explore the city and eventually makes a home there. He loves all the sights and sounds of the city and enjoys being around all the people. The lion is happy to have found a new home and is excited to continue exploring all the city has to offer.",
+            "image_url": "PlACEHOLDER",
+            "next_options": [
+                " The lion continues to live in the city and becomes a beloved member of the community",
+                " The lion gets homesick and decides to leave the city to return to the wild"
+            ],
+            "selected_option": null
+        }
+    ],
+    "quiz_parts": []
+}

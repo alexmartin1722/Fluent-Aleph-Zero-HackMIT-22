@@ -1,0 +1,18 @@
+{
+    "id": 96,
+    "story_parts": [
+        {
+            "story_part_id": 0,
+            "text": "The lion had always dreamed of going to Disney World. It was a place where all of his favorite characters came to life. He had seen pictures of it in books and on TV, and it looked like the most magical place on earth. Finally, the day arrived when he was going to make his dream come true. He packed his bags and hopped on a plane to Orlando, Florida.",
+            "image_url": [
+                "https://replicate.com/api/models/stability-ai/stable-diffusion/files/daa3cfb0-e2ae-41d6-9426-8a10ae3a40d2/out-0.png"
+            ],
+            "next_options": {
+                "0": "When the lion arrived at Disney World, he was amazed by all of the sights and sounds",
+                "1": "When the lion arrived at Disney World, he was disappointed to find that it was just a regular theme park"
+            },
+            "selected_option_id": 0
+        }
+    ],
+    "quiz_parts": []
+}

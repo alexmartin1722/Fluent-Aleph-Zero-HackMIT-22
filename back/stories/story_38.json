@@ -1,0 +1,72 @@
+{
+    "id": 38,
+    "story_parts": [
+        {
+            "story_part_id": 0,
+            "text": "A lion was walking through the jungle when he came across a city. He had never seen a city before and was curious to explore. He walked through the streets, taking in all the sights and sounds. He even saw a few people and waved to them. He had a great time exploring the city and even made some new friends.",
+            "image_url": "PlACEHOLDER",
+            "next_options": {
+                "0": " The lion continues to explore the city and has a great time",
+                "1": " The lion gets tired of the city and decides to go back to the jungle"
+            },
+            "selected_option": null,
+            "selected_option_id": 0
+        },
+        {
+            "story_part_id": 1,
+            "text": "The lion continues to explore the city and has a great time. He even finds a place to sleep for the night. In the morning, he continues his exploration and finds some food to eat. He is having a great time in the city and is glad he decided to explore it.",
+            "image_url": "PlACEHOLDER",
+            "next_options": {
+                "0": " The lion continues to explore the city and has a great time",
+                "1": " The lion gets tired of the city and decides to go back to the forest"
+            },
+            "selected_option": null,
+            "selected_option_id": 0
+        },
+        {
+            "story_part_id": 2,
+            "text": "The lion continues to explore the city and has a great time. He even finds a place to sleep for the night. In the morning, he continues his exploration and finds some food to eat. He is having a great time in the city and is glad he decided to explore it.",
+            "image_url": "PlACEHOLDER",
+            "next_options": {
+                "0": " The lion continues to explore the city and has a great time",
+                "1": " The lion gets tired of the city and decides to go back to the jungle"
+            },
+            "selected_option": null,
+            "selected_option_id": 0
+        },
+        {
+            "story_part_id": 3,
+            "text": "The lion continues to explore the city and has a great time. He even finds a place to sleep for the night. In the morning, he continues his exploration and finds some food to eat. He is having a great time in the city and is glad he decided to explore it.",
+            "image_url": "PlACEHOLDER",
+            "next_options": {
+                "0": " The lion continues to explore the city and has a great time",
+                "1": " The lion gets tired and decides to go back to the zoo"
+            },
+            "selected_option": null
+        }
+    ],
+    "quiz_parts": [
+        {
+            "question": "What does the lion do when he first arrives in the city?",
+            "options": {
+                "0": "Finds a place to sleep",
+                "1": "Begins to explore",
+                "2": "Eats some food",
+                "3": "Decides to leave"
+            },
+            "answer_id": 1,
+            "story_part_id": 1
+        },
+        {
+            "question": "What does the lion do when he first enters the city?",
+            "options": {
+                "0": "He sleeps",
+                "1": "He explores",
+                "2": "He eats",
+                "3": "He roars"
+            },
+            "answer_id": 1,
+            "story_part_id": 3
+        }
+    ]
+}

@@ -1,0 +1,42 @@
+{
+    "id": 109,
+    "story_parts": [
+        {
+            "story_part_id": 0,
+            "text": "A space cowboy named Hank was hired to help with a heist. The plan was to steal a valuable gem from a rival gang. Hank and his team of criminals worked together to break into the rival gang's hideout. They were able to get the gem and escape without getting caught.",
+            "image_url": [
+                "https://replicate.com/api/models/stability-ai/stable-diffusion/files/96024417-0973-45ab-b15e-851d7e03587d/out-0.png"
+            ],
+            "next_options": {
+                "0": "Hank and his team deliver the gem to their employer and are paid a hefty sum",
+                "1": "Hank and his team are double-crossed by their employer and are ambushed by the rival gang"
+            },
+            "selected_option_id": "0"
+        },
+        {
+            "story_part_id": 1,
+            "text": "Hank and his team deliver the gem to their employer and are paid a hefty sum. They are all pleased with the outcome of the heist and go their separate ways. Hank decides to retire from a life of crime and heads off into the sunset.",
+            "image_url": [
+                "https://replicate.com/api/models/stability-ai/stable-diffusion/files/8282ff80-2bda-40df-b02b-76c52fe95e2d/out-0.png"
+            ],
+            "next_options": {
+                "0": "Hank lives happily ever after, enjoying his retirement",
+                "1": "Hank's employer is unhappy with the quality of the gem and sends henchmen after Hank to get their money back"
+            },
+            "selected_option_id": "0"
+        },
+        {
+            "story_part_id": 2,
+            "text": "Hank lives happily ever after, enjoying his retirement. He is content with his decision to leave behind a life of crime and is grateful for the successful heist that allowed him to retire comfortably. Hank spends his days exploring his hobbies and spending time with his loved ones, living a peaceful and happy life.",
+            "image_url": [
+                "https://replicate.com/api/models/stability-ai/stable-diffusion/files/d97824e8-4777-457a-8154-515cd0a37157/out-0.png"
+            ],
+            "next_options": {
+                "0": "Hank's peaceful retirement is interrupted when he is tracked down and arrested by the police",
+                "1": "Hank remains in retirement and continues to live a happy life"
+            },
+            "selected_option_id": "0"
+        }
+    ],
+    "quiz_parts": []
+}

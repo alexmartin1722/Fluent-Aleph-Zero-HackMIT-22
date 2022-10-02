@@ -1,0 +1,18 @@
+{
+    "id": 84,
+    "story_parts": [
+        {
+            "story_part_id": 0,
+            "text": "A lion was walking through the jungle when he came across a sign that said \"Disney World: Come for the Fun, Stay for the Adventure!\" The lion thought to himself, \"I've always wanted to go to Disney World! Maybe this is my chance!\" So, he followed the sign and eventually arrived at Disney World.",
+            "image_url": [
+                "https://replicate.com/api/models/stability-ai/stable-diffusion/files/9590aa3e-cd4b-44a9-b0c5-95210f819286/out-0.png"
+            ],
+            "next_options": {
+                "0": "The lion is immediately captured and put on display as a new attraction at the park",
+                "1": "The lion is able to blend in with the other animals at the park and enjoys his time there"
+            },
+            "selected_option_id": 0
+        }
+    ],
+    "quiz_parts": []
+}

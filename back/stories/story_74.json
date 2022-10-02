@@ -1,0 +1,65 @@
+{
+    "id": 74,
+    "story_parts": [
+        {
+            "story_part_id": 0,
+            "text": "Lion was always a bit of an outsider. He was born different than the other lions - with a mane that was more yellow than red. But he never let that stop him from being the best lion he could be. He ran the fastest, hunted the biggest prey, and was always the first to defend his pride from outsiders.\n\nBut Lion had a secret. He was also a spy for the government. His job was to keep an eye on the other animals and report",
+            "image_url": [
+                "https://replicate.com/api/models/stability-ai/stable-diffusion/files/628c4345-202c-4d2a-b7b3-133be970a81b/out-0.png"
+            ],
+            "next_options": {
+                "0": "Lion's secret is discovered and he is forced to leave the pride",
+                "1": "Lion's secret is discovered but he is able to convince the other animals that he is still loyal to the pride"
+            },
+            "selected_option_id": "1"
+        },
+        {
+            "story_part_id": 1,
+            "text": "Lion's secret is discovered but he is able to convince the other animals that he is still loyal to the pride. He is able to do this by showing them how he has always been there for the pride, no matter what.",
+            "image_url": [
+                "https://replicate.com/api/models/stability-ai/stable-diffusion/files/b2a12ebd-c626-4d57-a693-3f3dd2ad0751/out-0.png"
+            ],
+            "next_options": {
+                "0": "Lion is able to convince the other animals that he is still loyal to the pride and they allow him to stay",
+                "1": "Lion is not able to convince the other animals and they banish him from the pride"
+            },
+            "selected_option_id": "1"
+        },
+        {
+            "story_part_id": 2,
+            "text": "Lion is heartbroken as he is forced to leave the only home he has ever known. He knows that he can never come back, no matter how much he wants to. He wanders the plains alone, searching for a new place to call home. But no matter where he goes, he will always be an outsider.",
+            "image_url": [
+                "https://replicate.com/api/models/stability-ai/stable-diffusion/files/9086a74c-28fb-4e11-9abc-e8826bdb8e02/out-0.png"
+            ],
+            "next_options": {
+                "0": "Lion finds a new pride of lions to join and becomes their leader",
+                "1": "Lion befriends a group of animals and they help him find a new place to live"
+            },
+            "selected_option_id": null
+        }
+    ],
+    "quiz_parts": [
+        {
+            "answer_id": 1,
+            "question": "What is Lion's secret?",
+            "options": {
+                "0": " Lion is actually a cowardly lion",
+                "1": " Lion is not really loyal to the pride",
+                "2": " Lion is able to transform into a human",
+                "3": " Lion is able to communicate with other animals"
+            },
+            "story_part_id": 1
+        },
+        {
+            "answer_id": 1,
+            "question": "What does Lion feel as he is forced to leave his home?",
+            "options": {
+                "0": " He is excited to explore the world and find a new home",
+                "1": " He is sad to leave his home and friends behind",
+                "2": " He is angry that he has to leave",
+                "3": " He is scared of the unknown"
+            },
+            "story_part_id": 2
+        }
+    ]
+}

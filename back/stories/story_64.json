@@ -1,0 +1,98 @@
+{
+    "id": 64,
+    "story_parts": [
+        {
+            "story_part_id": 0,
+            "text": "A girl went on an adventure. She climbed a mountain, swam in a river, and flew in an airplane.",
+            "image_url": [
+                "https://replicate.com/api/models/stability-ai/stable-diffusion/files/199c1ee4-02cd-4862-89a3-03b10b17f309/out-0.png"
+            ],
+            "next_options": {
+                "0": "The girl decides to go home",
+                "1": "The girl keeps exploring and finds a cave"
+            },
+            "selected_option_id": "1"
+        },
+        {
+            "story_part_id": 1,
+            "text": "The girl enters the cave and is immediately enveloped in darkness. She feels her way forward, running her hands along the cave walls. Suddenly, she feels something slimy and jumps back. She reaches for her flashlight and turns it on, shining it around the cave. She sees dozens of pairs of beady eyes staring back at her from the darkness and lets out a scream.",
+            "image_url": [
+                "https://replicate.com/api/models/stability-ai/stable-diffusion/files/fc31b40b-c822-49a7-b385-019fca13b5bf/out-0.png"
+            ],
+            "next_options": {
+                "0": "The girl runs towards the entrance of the cave, tripping and scraping her knees on the rocky ground",
+                "1": "The girl stands her ground and points her flashlight towards the creatures"
+            },
+            "selected_option_id": "1"
+        },
+        {
+            "story_part_id": 2,
+            "text": "The girl stands her ground and points her flashlight towards the creatures. She can see that they are bats, and she starts to back away slowly. Suddenly, she hears a noise behind her and shines her flashlight around. She sees a large, furry creature standing in the doorway of the cave. She screams and runs towards it, but it is too late. The creature grabs her and drags her into the darkness.",
+            "image_url": [
+                "https://replicate.com/api/models/stability-ai/stable-diffusion/files/8d3cbe26-3c1e-49d2-9a96-aebb514c5777/out-0.png"
+            ],
+            "next_options": {
+                "0": "The girl pulls out a knife and stabs the creature",
+                "1": "The girl tries to fight back, but the creature is too strong"
+            },
+            "selected_option_id": "1"
+        },
+        {
+            "story_part_id": 3,
+            "text": "The girl tries to fight back, but the creature is too strong. She feels herself being dragged further and further into the darkness. Suddenly, she feels herself falling and she scream. She keeps falling and falling until she finally lands in a pool of water. She tries to swim to the surface, but she is pulled down again. She feels something wrap around her leg and she kicks out, trying to break free. She finally manages to break free and swims to the surface. She gas",
+            "image_url": [
+                "https://replicate.com/api/models/stability-ai/stable-diffusion/files/a1b9605f-30a4-44ac-b3b1-9d84ef329617/out-0.png"
+            ],
+            "next_options": {
+                "0": "The creature drags her back under and she drowns",
+                "1": "She manages to swim to safety and escape the creature"
+            },
+            "selected_option_id": "0"
+        },
+        {
+            "story_part_id": 4,
+            "text": "",
+            "image_url": null,
+            "next_options": {
+                "0": "The girl's mom had to go to work so she couldn't stay home with her",
+                "1": "The girl's mom stayed home with her"
+            },
+            "selected_option_id": null
+        }
+    ],
+    "quiz_parts": [
+        {
+            "answer_id": 1,
+            "question": "What does the girl do when she first enters the cave?",
+            "options": {
+                "0": "She screams",
+                "1": "She turns on her flashlight",
+                "2": "She feels her way forward",
+                "3": "She runs her way forward"
+            },
+            "story_part_id": 1
+        },
+        {
+            "answer_id": 0,
+            "question": "What does the girl see when she points her flashlight towards the creatures?",
+            "options": {
+                "0": "Bats",
+                "1": "A large, furry creature",
+                "2": "Nothing",
+                "3": "A small, furry creature"
+            },
+            "story_part_id": 2
+        },
+        {
+            "answer_id": 3,
+            "question": "What is the primary purpose of the author's text?",
+            "options": {
+                "0": "To inform the reader about the author's personal life",
+                "1": "To provide instructions on how to bake a cake",
+                "2": "To tell a story about the author's childhood",
+                "3": "To persuade the reader to eat more cake"
+            },
+            "story_part_id": 4
+        }
+    ]
+}

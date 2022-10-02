@@ -1,0 +1,18 @@
+{
+    "id": 121,
+    "story_parts": [
+        {
+            "story_part_id": 0,
+            "text": "The giraffe stretched her neck and looked around the Savannah. She had been born here and had never left. She had seen many changes in her lifetime - the trees had grown taller, the animals had changed, and the humans had come and gone. But she was content in her home and didn't see the need to leave.",
+            "image_url": [
+                "https://replicate.com/api/models/stability-ai/stable-diffusion/files/e35491c5-5abc-4c64-9120-0b581da81df0/out-0.png"
+            ],
+            "next_options": {
+                "0": "The giraffe decided to explore the Savannah and see what had changed",
+                "1": "The giraffe saw a lion approaching and ran away"
+            },
+            "selected_option_id": null
+        }
+    ],
+    "quiz_parts": []
+}

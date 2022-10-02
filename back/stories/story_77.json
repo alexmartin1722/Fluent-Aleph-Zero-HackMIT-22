@@ -1,0 +1,40 @@
+{
+    "id": 77,
+    "story_parts": [
+        {
+            "story_part_id": 0,
+            "text": "The lion was always a bit different than the other lions in the pride. He was always asking questions and observing his surroundings. It was clear he was intelligent beyond the average lion. One day, a group of men in suits came to the pride and took the lion away. The other lions didn't know where he went, but they knew he was special.\n\nThe lion was taken to a secret government facility where he was trained to be a spy. He was taught how to use",
+            "image_url": [
+                "https://replicate.com/api/models/stability-ai/stable-diffusion/files/96f71672-9bde-47b4-8c07-a2c65548f148/out-0.png"
+            ],
+            "next_options": {
+                "0": "The lion is successful in his new role and helps the government solve many crimes",
+                "1": "The lion is not cut out for the job and is eventually released back into the wild"
+            },
+            "selected_option_id": "0"
+        },
+        {
+            "story_part_id": 1,
+            "text": "",
+            "image_url": null,
+            "next_options": {
+                "0": "The woman decides to confront her husband about his affair",
+                "1": "The woman decides to confront the other woman her husband is seeing"
+            },
+            "selected_option_id": null
+        }
+    ],
+    "quiz_parts": [
+        {
+            "answer_id": 2,
+            "question": "What does the author say about the relationship between the two friends?",
+            "options": {
+                "0": " The friends were not close",
+                "1": " The friends were close, but had a falling out",
+                "2": " The friends were close, but drifted apart",
+                "3": " The friends were very close"
+            },
+            "story_part_id": 1
+        }
+    ]
+}

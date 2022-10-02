@@ -1,0 +1,157 @@
+{
+    "id": 50,
+    "story_parts": [
+        {
+            "story_part_id": 0,
+            "text": "The lion was so excited to go to Disney World! He had always wanted to go and finally he was going to make his dream come true. He packed his bags and hopped on the plane. When he arrived, he was amazed at all the sights and sounds. He went on all the rides and met all the characters. It was the best trip ever!",
+            "image_url": [
+                "https://replicate.com/api/models/stability-ai/stable-diffusion/files/dd206576-6ce5-407c-a093-1f20a701dbd5/out-0.png"
+            ],
+            "next_options": {
+                "0": "The lion went home and told all his friends about his amazing trip",
+                "1": "The lion decided to stay at Disney World and live there forever"
+            },
+            "selected_option_id": 0
+        },
+        {
+            "story_part_id": 1,
+            "text": "The lion went home and told all his friends about his amazing trip. He said that he had the best time ever and that he would definitely go back. His friends were so jealous and wished they could go too.",
+            "image_url": [
+                "https://replicate.com/api/models/stability-ai/stable-diffusion/files/5ca29ba0-c9e6-45d7-aabc-0515d1e8b1e6/out-0.png"
+            ],
+            "next_options": {
+                "0": "The lion's friends decide to go on their own amazing trip",
+                "1": "The lion's friends decide to stay home and never leave again"
+            },
+            "selected_option_id": 0
+        },
+        {
+            "story_part_id": 2,
+            "text": "The lion's friends decide to go on their own amazing trip. They pack their bags and hop on a plane. When they arrive, they are amazed at all the sights and sounds. They go on all the rides and meet all the characters. It is the best trip ever! They go home and tell all their friends about their amazing trip. They say that they had the best time ever and that they would definitely go back. Their friends are so jealous and wish they could go too.",
+            "image_url": [
+                "https://replicate.com/api/models/stability-ai/stable-diffusion/files/5c3d077b-3011-46e9-afa1-17f109c60f68/out-0.png"
+            ],
+            "next_options": {
+                "0": "The lion's friends go on another trip",
+                "1": "The lion's friends stay home"
+            },
+            "selected_option_id": 0
+        },
+        {
+            "story_part_id": 3,
+            "text": "The lion's friends go on another trip and they are amazed at all the sights and sounds. They go on all the rides and meet all the characters. It is the best trip ever! They go home and tell all their friends about their amazing trip. They say that they had the best time ever and that they would definitely go back. Their friends are so jealous and wish they could go too.",
+            "image_url": [
+                "https://replicate.com/api/models/stability-ai/stable-diffusion/files/b2c597fd-9c93-46b9-8151-98e75d51309f/out-0.png"
+            ],
+            "next_options": {
+                "0": "The lion's friends go on another trip and they are amazed at all the sights and sounds",
+                "1": "The lion's friends go on another trip and they are not impressed"
+            },
+            "selected_option_id": 0
+        },
+        {
+            "story_part_id": 4,
+            "text": "The lion's friends go on another trip and they are amazed at all the sights and sounds. They go on all the rides and meet all the characters. It is the best trip ever! They go home and tell all their friends about their amazing trip. They say that they had the best time ever and that they would definitely go back. Their friends are so jealous and wish they could go too.",
+            "image_url": [
+                "https://replicate.com/api/models/stability-ai/stable-diffusion/files/687812ec-237b-4cd5-925c-95c5b1f60e40/out-0.png"
+            ],
+            "next_options": {
+                "0": "The lion's friends go on another trip and they are amazed at all the sights and sounds",
+                "1": "The lion's friends go on another trip and they are not impressed"
+            },
+            "selected_option_id": 0
+        },
+        {
+            "story_part_id": 5,
+            "text": "The lion's friends go on another trip and they are amazed at all the sights and sounds. They go on all the rides and meet all the characters. It is the best trip ever! They go home and tell all their friends about their amazing trip. They say that they had the best time ever and that they would definitely go back. Their friends are so jealous and wish they could go too.",
+            "image_url": [
+                "https://replicate.com/api/models/stability-ai/stable-diffusion/files/56c8ba84-8d5c-4573-99d0-d07936f22f4a/out-0.png"
+            ],
+            "next_options": {
+                "0": "The lion's friends go on another trip and they are amazed at all the sights and sounds",
+                "1": "The lion's friends go on another trip and they don't have"
+            },
+            "selected_option_id": 0
+        },
+        {
+            "story_part_id": 6,
+            "text": "The lion's friends go on another trip and they are amazed at all the sights and sounds. They go on all the rides and meet all the characters. It is the best trip ever! They go home and tell all their friends about their amazing trip. They say that they had the best time ever and that they would definitely go back. Their friends are so jealous and wish they could go too.",
+            "image_url": [
+                "https://replicate.com/api/models/stability-ai/stable-diffusion/files/4a1d6eda-7c51-4f10-ab74-a4519677e9b0/out-0.png"
+            ],
+            "next_options": {
+                "0": "The lion's friends go back to the park and have another amazing time",
+                "1": "The lion's friends go home and tell all their friends about their amazing trip"
+            },
+            "selected_option_id": 0
+        }
+    ],
+    "quiz_parts": [
+        {
+            "answer_id": 2,
+            "question": "Why did the lion go on the trip?",
+            "options": {
+                "0": "To see new places",
+                "1": "To meet new people",
+                "2": "To have fun",
+                "3": "To learn new things"
+            },
+            "story_part_id": 1
+        },
+        {
+            "answer_id": 0,
+            "question": "What does the lion's friends decide to do?",
+            "options": {
+                "0": "Go on an amazing trip",
+                "1": "Pack their bags",
+                "2": "Hop on a plane",
+                "3": "Meet all the characters"
+            },
+            "story_part_id": 2
+        },
+        {
+            "answer_id": 1,
+            "question": "What does the lion's friends do when they go on their trip?",
+            "options": {
+                "0": "They stay at home",
+                "1": "They go on all the rides",
+                "2": "They meet all the characters",
+                "3": "They tell their friends about their trip"
+            },
+            "story_part_id": 3
+        },
+        {
+            "answer_id": 2,
+            "question": "What does the lion's friends say about their trip?",
+            "options": {
+                "0": "They had a terrible time and would never go back",
+                "1": "It was okay, but they wouldn't recommend it",
+                "2": "They had a great time and would definitely go back",
+                "3": "They didn't go on any rides or meet any characters"
+            },
+            "story_part_id": 4
+        },
+        {
+            "answer_id": 3,
+            "question": "What are the lion's friends amazed by?",
+            "options": {
+                "0": "the sights",
+                "1": "the sounds",
+                "2": "the rides",
+                "3": "the characters"
+            },
+            "story_part_id": 5
+        },
+        {
+            "answer_id": 0,
+            "question": "What are the lion's friends amazed by?",
+            "options": {
+                "0": "the sights",
+                "1": "the sounds",
+                "2": "the rides",
+                "3": "the characters"
+            },
+            "story_part_id": 6
+        }
+    ]
+}

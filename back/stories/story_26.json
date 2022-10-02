@@ -1,0 +1,24 @@
+{
+    "id": 26,
+    "story_parts": [
+        {
+            "text": "A lion went to the city. He saw a lot of people and buildings. He also saw a lot of cars. He was very excited.",
+            "image_url": "PlACEHOLDER",
+            "next_options": [
+                " The lion roars and the people run away in fear",
+                " The lion walks up to a person and asks them for a tour of the city"
+            ],
+            "selected_option": " The lion roars and the people run away in fear"
+        },
+        {
+            "text": "The lion roars and the people run away in fear. The lion is very happy. He has never seen so many people before. He is very excited.",
+            "image_url": "PlACEHOLDER",
+            "next_options": [
+                " The lion continues to roar and the people continue to run away",
+                " The lion stops roaring and the people stop running away"
+            ],
+            "selected_option": null
+        }
+    ],
+    "quiz_parts": []
+}

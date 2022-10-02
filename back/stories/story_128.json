@@ -1,0 +1,42 @@
+{
+    "id": 128,
+    "story_parts": [
+        {
+            "story_part_id": 0,
+            "text": "The girl had always dreamed of going on an adventure. She had read about all sorts of magical places and seen pictures of faraway lands. She asked her parents to take her on a trip, but they always said no. Finally, she saved up enough money and set off on her own. She had many adventures along the way and made new friends. She even found a magical place that she had only read about in books.",
+            "image_url": [
+                "https://replicate.com/api/models/stability-ai/stable-diffusion/files/af51dc2f-d23a-4c75-a5b6-09498ba0959c/out-0.png"
+            ],
+            "next_options": {
+                "0": "The girl continued her journey alone, never looking back",
+                "1": "The girl's parents eventually found out where she was and came to join her on her adventures"
+            },
+            "selected_option_id": "0"
+        },
+        {
+            "story_part_id": 1,
+            "text": "The girl continued her journey alone, never looking back. She crossed many rivers and climbed many mountains. She even found a secret cave that nobody knew about. Inside, she found a treasure that made her very rich. She lived happily ever after, never forgetting her adventures.",
+            "image_url": [
+                "https://replicate.com/api/models/stability-ai/stable-diffusion/files/641fdca7-c2db-433e-a2cd-b5a23ef2bd6a/out-0.png"
+            ],
+            "next_options": {
+                "0": "The girl decides to go back and help her family with the treasure she found",
+                "1": "The girl decides to keep traveling and see what else the world has to offer"
+            },
+            "selected_option_id": null
+        }
+    ],
+    "quiz_parts": [
+        {
+            "answer_id": 0,
+            "question": "What did the girl find in the secret cave?",
+            "options": {
+                "0": " A treasure that made her very happy",
+                "1": " The remains of a previous adventurer",
+                "2": " A map leading to another secret cave",
+                "3": " Nothing, the cave was empty"
+            },
+            "story_part_id": 1
+        }
+    ]
+}

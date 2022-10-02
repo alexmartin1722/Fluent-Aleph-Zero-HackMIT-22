@@ -1,0 +1,52 @@
+{
+    "id": 87,
+    "story_parts": [
+        {
+            "story_part_id": 0,
+            "text": "A lion was going to Disney World. He was very excited to go on all the rides and see all the sights. However, when he got there, he found that the rides were all closed and the sights were all dark. He was very disappointed.",
+            "image_url": [
+                "https://replicate.com/api/models/stability-ai/stable-diffusion/files/3994579e-938b-42a9-9d85-69907eac77e0/out-0.png"
+            ],
+            "next_options": {
+                "0": "The lion is so disappointed that he decides to go home",
+                "1": "The lion decides to stay and explore the park even though there are no rides or sights to see"
+            },
+            "selected_option_id": 0
+        },
+        {
+            "story_part_id": 1,
+            "text": "The lion is so disappointed that he decides to go home. On the way home, he sees a sign for a new amusement park that is opening soon. He decides to check it out and is happy to find that it is open and has many rides and attractions for him to enjoy.",
+            "image_url": [
+                "https://replicate.com/api/models/stability-ai/stable-diffusion/files/ac041327-2901-447b-b679-13845075639c/out-0.png"
+            ],
+            "next_options": {
+                "0": "The lion spends the day at the amusement park and has a great time",
+                "1": "The lion gets bored at the amusement park and decides to leave"
+            },
+            "selected_option_id": 0
+        },
+        {
+            "story_part_id": 2,
+            "text": "",
+            "image_url": null,
+            "next_options": {
+                "0": "The woman decides to ignore the man's advances and goes about her day",
+                "1": "The woman decides to confront the man and tell him to stop harassing her"
+            },
+            "selected_option_id": null
+        }
+    ],
+    "quiz_parts": [
+        {
+            "answer_id": 1,
+            "question": "What does the lion do when he sees the sign for the new amusement park?",
+            "options": {
+                "0": " He decides to go home",
+                "1": " He decides to check it out",
+                "2": " He is happy to find that it is open",
+                "3": " He enjoys the rides and attractions"
+            },
+            "story_part_id": 1
+        }
+    ]
+}

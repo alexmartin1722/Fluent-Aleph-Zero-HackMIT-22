@@ -1,0 +1,18 @@
+{
+    "id": 100,
+    "story_parts": [
+        {
+            "story_part_id": 0,
+            "text": "One day a guy woke up to find himself in candy land. He didn't know how he got there, but he was excited to explore. He started walking and soon came to a chocolate river. He followed the river and came to a giant chocolate factory. He walked inside and saw that it was full of candy! He started exploring the factory and found all kinds of delicious candy. He ate some of the candy, but he was careful not to eat too much because he didn't want to get sick. He explored the factory for hours and then finally left to find his way back home.",
+            "image_url": [
+                "https://replicate.com/api/models/stability-ai/stable-diffusion/files/9c04f0ae-5806-4331-9f21-ac59424b32f7/out-0.png"
+            ],
+            "next_options": {
+                "0": "The guy continues to explore the factory and finds even more delicious candy",
+                "1": "The guy gets sick from eating too much candy and has to go home"
+            },
+            "selected_option_id": null
+        }
+    ],
+    "quiz_parts": []
+}

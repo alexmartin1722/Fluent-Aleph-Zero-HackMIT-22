@@ -1,0 +1,42 @@
+{
+    "id": 117,
+    "story_parts": [
+        {
+            "story_part_id": 0,
+            "text": "The giraffe had always dreamed of going on an adventure. She had heard stories of other animals going on great adventures, and she wanted to have one of her own. One day, she decided to set out on a journey. She didn't know where she was going, but she was excited to see what she would find.\n\nThe giraffe walked for days, seeing new things and meeting new animals. She was having the time of her life. One day, she came to",
+            "image_url": [
+                "https://replicate.com/api/models/stability-ai/stable-diffusion/files/38886511-804c-4fda-8ed8-16f888af0f88/out-0.png"
+            ],
+            "next_options": {
+                "0": "The giraffe continued walking and eventually came to a river",
+                "1": "The giraffe continued walking and eventually came to a forest"
+            },
+            "selected_option_id": "1"
+        },
+        {
+            "story_part_id": 1,
+            "text": "The giraffe continued walking and eventually came to a forest. She had never seen a forest before and was excited to explore it. She walked for hours, admiring the tall trees and the different animals she saw. She eventually came to a clearing in the forest and saw a beautiful lake. She decided to take a break and drink some water. As she was drinking, she heard a noise. She looked up and saw a lion walking towards her. She was scared, but she stood her ground",
+            "image_url": [
+                "https://replicate.com/api/models/stability-ai/stable-diffusion/files/e291cc8c-5695-4ea5-a3e3-2bd5f300df20/out-0.png"
+            ],
+            "next_options": {
+                "0": "The giraffe runs away from the lion",
+                "1": "The giraffe tries to talk to the lion"
+            },
+            "selected_option_id": null
+        }
+    ],
+    "quiz_parts": [
+        {
+            "answer_id": 1,
+            "question": "What was the giraffe's reaction when she saw the lion walking towards her?",
+            "options": {
+                "0": " She was scared and ran away",
+                "1": " She was scared, but she stood her ground",
+                "2": " She was not scared and walked towards the lion",
+                "3": " She was not scared and ran towards the lion"
+            },
+            "story_part_id": 1
+        }
+    ]
+}

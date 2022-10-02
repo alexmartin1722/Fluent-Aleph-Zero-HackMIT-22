@@ -1,0 +1,28 @@
+{
+    "id": 7,
+    "story_parts": [
+        {
+            "text": "A lion was walking through the jungle when he came to a clearing. In the clearing was a city. The lion had never seen a city before. He walked into the city and saw all the buildings and cars. He saw people walking around and heard the noise of the city. The lion liked the city and decided to stay there.",
+            "image_url": [
+                "https://replicate.com/api/models/stability-ai/stable-diffusion/files/cef0b3ec-9f3d-476e-87af-0cd858775b3a/out-0.png"
+            ],
+            "next_options": [
+                " The lion roars and startles the people walking around",
+                " The lion walks around the city and sees all the different sights"
+            ],
+            "selected_option": " The lion roars and startles the people walking around"
+        },
+        {
+            "text": "The lion roars and startles the people walking around. The people scream and run away. The lion is confused and doesn't know what to do. He walks around the city and sees that everyone is gone. He decides to go back to the jungle.",
+            "image_url": [
+                "https://replicate.com/api/models/stability-ai/stable-diffusion/files/07cb0928-6708-4683-bef1-fae7c90b8d70/out-0.png"
+            ],
+            "next_options": [
+                " The lion walks around the city and finds a group of people to eat",
+                " The lion gets tired of walking around and decides to go to sleep"
+            ],
+            "selected_option": null
+        }
+    ],
+    "quiz_parts": []
+}

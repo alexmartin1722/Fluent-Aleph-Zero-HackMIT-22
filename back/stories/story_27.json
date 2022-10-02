@@ -1,0 +1,36 @@
+{
+    "id": 27,
+    "story_parts": [
+        {
+            "text": "The lion was very excited to go to the city. He had always wanted to see what it was like. When he got there, he was amazed at all the sights and sounds. He walked around for a while, taking everything in. Eventually, he got tired and decided to go back home. He was glad he had finally gotten to see the city, and he would definitely be back soon.",
+            "image_url": "PlACEHOLDER",
+            "next_options": [
+                " The lion walked around for a while longer, taking in all the sights and sounds",
+                " The lion saw a group of people walking towards him and decided to follow them"
+            ],
+            "selected_option": " The lion walked around for a while longer, taking in all the sights and sounds"
+        },
+        {
+            "text": "The lion walked around for a while longer, taking in all the sights and sounds. He was amazed at how different the city was from his home. He would definitely be back soon to explore more of this fascinating place.",
+            "image_url": "PlACEHOLDER",
+            "next_options": [
+                " The lion walks back to his home in the jungle",
+                " The lion decides to stay in the city and live among the humans"
+            ],
+            "selected_option": null
+        }
+    ],
+    "quiz_parts": [
+        {
+            "question": "What was the lion's reaction to the city?",
+            "options": {
+                "0": "He was unimpressed and found it boring",
+                "1": "He was scared and wanted to leave",
+                "2": "He was interested and wanted to explore",
+                "3": "He was happy and felt at home"
+            },
+            "answer_id": 2,
+            "story_part_id": 213
+        }
+    ]
+}

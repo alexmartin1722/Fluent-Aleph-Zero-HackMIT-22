@@ -1,0 +1,89 @@
+{
+    "id": 42,
+    "story_parts": [
+        {
+            "story_part_id": 0,
+            "text": "Once upon a time, a lion went to the city. He was very excited to see all the tall buildings and busy people. However, he soon realized that the city was not very friendly to animals. He was chased by a dog and had to run away. He was also scared by the loud noise of the cars. In the end, the lion decided that the city was not for him and went back to the jungle.",
+            "image_url": "PlACEHOLDER",
+            "next_options": {
+                "0": " The lion decided to live in the city and found a place to sleep in a park",
+                "1": " The lion found a family of lions who lived in the city and decided to live with them"
+            },
+            "selected_option_id": 0
+        },
+        {
+            "story_part_id": 1,
+            "text": "The lion decided to live in the city and found a place to sleep in a park. He soon realized that the city was not very friendly to animals. He was chased by a dog and had to run away. He was also scared by the loud noise of the cars. In the end, the lion decided that the city was not for him and went back to the jungle.",
+            "image_url": "PlACEHOLDER",
+            "next_options": {
+                "0": " The lion found a place to sleep in a park",
+                "1": " The lion was chased by a dog and had to run away"
+            },
+            "selected_option_id": 0
+        },
+        {
+            "story_part_id": 2,
+            "text": "The lion found a place to sleep in a park. He was soon discovered by a group of children who were playing in the park. They were very excited to see a real lion and started to pet him. However, the lion got scared and ran away. He realized that the city was not for him and went back to the jungle.",
+            "image_url": "PlACEHOLDER",
+            "next_options": {
+                "0": " The lion is never seen again and the children are disappointed",
+                "1": " The lion comes back the next day and the children are thrilled"
+            },
+            "selected_option_id": 0
+        },
+        {
+            "story_part_id": 3,
+            "text": "The lion is never seen again and the children are disappointed. They had hoped to see the lion again, but he never returned to the park. They soon forgot about the lion and went back to playing in the park.",
+            "image_url": "PlACEHOLDER",
+            "next_options": {
+                "0": " The lion comes back to the park and the children are happy to see him",
+                "1": " The lion does not come back to the park and the children are sad"
+            },
+            "selected_option_id": 0
+        },
+        {
+            "story_part_id": 4,
+            "text": "The lion comes back to the park and the children are happy to see him. They pet him and play with him. The lion is happy to be back in the city and decides to stay.",
+            "image_url": "PlACEHOLDER",
+            "next_options": {
+                "0": " The lion stays in the city and becomes a beloved pet of the children",
+                "1": " The lion gets homesick and decides to leave the city to go back to the jungle"
+            },
+            "selected_option_id": null
+        }
+    ],
+    "quiz_parts": [
+        {
+            "question": "What did the lion do when he first got to the city?",
+            "options": {
+                "0": "He found a place to sleep in a park",
+                "1": "He was chased by a dog",
+                "2": "He was scared by the loud noise of the cars",
+                "3": "He went back to the jungle"
+            },
+            "answer_id": 0,
+            "story_part_id": 1
+        },
+        {
+            "question": "Where did the lion go to sleep?",
+            "options": {
+                "0": "On a bed in a house",
+                "1": "In a jungle",
+                "2": "In a park",
+                "3": "In a cave"
+            },
+            "answer_id": 2,
+            "story_part_id": 2
+        },
+        {
+            "question": "What made the children disappointed?",
+            "options": {
+                "0": "The lion never returned to the park",
+                "1": "They soon forgot about the lion",
+                "2": "The lion was never seen again",
+                "3": "They had hoped to see the lion again"
+            },
+            "story_part_id": 3
+        }
+    ]
+}

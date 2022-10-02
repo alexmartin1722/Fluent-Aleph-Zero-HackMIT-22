@@ -1,0 +1,24 @@
+{
+    "id": 25,
+    "story_parts": [
+        {
+            "text": "The lion was very excited to go to the city. He had always wanted to see all the tall buildings and the busy people. When he arrived, he was amazed at how big and noisy it was. He saw people walking and driving everywhere. He walked around for a while, taking it all in. Then he decided to go to the zoo. He loved seeing all the animals there. After a while, he got tired and decided to go home. He was glad he had finally gotten",
+            "image_url": "PlACEHOLDER",
+            "next_options": [
+                " The lion walks around the city some more",
+                " The lion goes back to the zoo"
+            ],
+            "selected_option": " The lion walks around the city some more"
+        },
+        {
+            "text": "The lion walked around the city some more, taking in all the sights and sounds. He saw people walking and driving everywhere. He walked around for a while, taking it all in. Then he decided to go to the zoo. He loved seeing all the animals there. After a while, he got tired and decided to go home. He was glad he had finally gotten to see the city and all its wonders.",
+            "image_url": "PlACEHOLDER",
+            "next_options": [
+                " The lion decides to go to the zoo and see all the animals there",
+                " The lion gets tired and decides to go home"
+            ],
+            "selected_option": null
+        }
+    ],
+    "quiz_parts": []
+}

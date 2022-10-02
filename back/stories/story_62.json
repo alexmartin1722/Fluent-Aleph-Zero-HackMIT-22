@@ -1,0 +1,54 @@
+{
+    "id": 62,
+    "story_parts": [
+        {
+            "story_part_id": 0,
+            "text": "The girl had always wanted to go on an adventure. She had read about all sorts of fantastic places and dreamed of visiting them. Finally, she took the plunge and packed her bags for a journey.",
+            "image_url": [
+                "https://replicate.com/api/models/stability-ai/stable-diffusion/files/030db589-6c51-4797-b8ed-2a9194ca6b7d/out-0.png"
+            ],
+            "next_options": {
+                "0": "She went to the airport and boarded a plane",
+                "1": "She went to the train station and boarded a train"
+            },
+            "selected_option_id": "1"
+        },
+        {
+            "story_part_id": 1,
+            "text": "The girl had always wanted to go on an adventure. She had read about all sorts of fantastic places and dreamed of visiting them. Finally, she took the plunge and packed her bags for a journey. She went to the train station and boarded a train.",
+            "image_url": [
+                "https://replicate.com/api/models/stability-ai/stable-diffusion/files/9fb43e05-a6ac-4088-bf66-da847cfbee0f/out-0.png"
+            ],
+            "next_options": {
+                "0": "She ended up going to a small town that she had never heard of before",
+                "1": "She met a stranger on the train who told her about a place that she had never heard of before"
+            },
+            "selected_option_id": "1"
+        },
+        {
+            "story_part_id": 2,
+            "text": "The stranger told her about a place called the Land of Oz. He said it was a place where anything was possible and she would be able to have any adventure she wanted. The girl was intrigued and decided to get off the train with the stranger to go to this Land of Oz.",
+            "image_url": [
+                "https://replicate.com/api/models/stability-ai/stable-diffusion/files/51df9bdc-a8b7-4624-aeac-14236ac60be7/out-0.png"
+            ],
+            "next_options": {
+                "0": "The stranger showed her the way to the Land of Oz",
+                "1": "The girl got back on the train"
+            },
+            "selected_option_id": null
+        }
+    ],
+    "quiz_parts": [
+        {
+            "answer_id": 1,
+            "question": "Where was the stranger going when he told the girl about the Land of Oz?",
+            "options": {
+                "0": "Nowhere, he was just making things up to try and get the girl to leave with him",
+                "1": "The Land of Oz",
+                "2": "Home",
+                "3": "A friends house"
+            },
+            "story_part_id": 2
+        }
+    ]
+}

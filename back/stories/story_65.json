@@ -1,0 +1,54 @@
+{
+    "id": 65,
+    "story_parts": [
+        {
+            "story_part_id": 0,
+            "text": "A girl went on an adventure to find a lost city. She had to travel through a jungle and cross a river to get there.",
+            "image_url": [
+                "https://replicate.com/api/models/stability-ai/stable-diffusion/files/cd18e24b-7142-4863-a4bb-b7fd28ed6ffa/out-0.png"
+            ],
+            "next_options": {
+                "0": "The girl gets lost in the jungle and is never seen again",
+                "1": "The girl finds the lost city and is hailed as a hero"
+            },
+            "selected_option_id": "1"
+        },
+        {
+            "story_part_id": 1,
+            "text": "The girl finds the lost city and is hailed as a hero. She is given a key to the city and is given a tour of the city. She is shown to a room where she can stay and is given a bed. The next day, she is given a map of the city and is shown where she can find food and water.",
+            "image_url": [
+                "https://replicate.com/api/models/stability-ai/stable-diffusion/files/5d51c6ac-372b-4d0a-9d16-594862892c3f/out-0.png"
+            ],
+            "next_options": {
+                "0": "The girl is given a map of the city and is shown where she can find food and water",
+                "1": "The girl is given a key to the city and is given a tour of the city"
+            },
+            "selected_option_id": "0"
+        },
+        {
+            "story_part_id": 2,
+            "text": "The girl is given a map of the city and is shown where she can find food and water. She is also shown where the city's library is. She spends the next few days exploring the city and learning about its history.",
+            "image_url": [
+                "https://replicate.com/api/models/stability-ai/stable-diffusion/files/f96df68d-87f0-412d-b0d4-767fd0288825/out-0.png"
+            ],
+            "next_options": {
+                "0": "The girl spends her days exploring the city and learning about its history",
+                "1": "The girl meets a boy who shows her around the city"
+            },
+            "selected_option_id": "0"
+        },
+        {
+            "story_part_id": 3,
+            "text": "She quickly becomes bored with this and sets off to explore the city on her own. She gets lost a few times but eventually finds her way back to her room. She starts to feel like the city is her home and starts to make friends with the people who live there.",
+            "image_url": [
+                "https://replicate.com/api/models/stability-ai/stable-diffusion/files/4f739634-7ae8-4820-9b83-fe108f10a78d/out-0.png"
+            ],
+            "next_options": {
+                "0": "The girl continues to explore the city and eventually finds a group of friends who show her around",
+                "1": "The girl gets homesick and decides to leave the city"
+            },
+            "selected_option_id": null
+        }
+    ],
+    "quiz_parts": []
+}

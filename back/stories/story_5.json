@@ -1,0 +1,28 @@
+{
+    "id": 5,
+    "story_parts": [
+        {
+            "text": "The lion was very excited to go to the city. He had never been there before and he had heard so many good things about it. He was especially excited to see all of the different animals that lived there.\n\nWhen he arrived, he was amazed at how big and bustling the city was. He saw all sorts of animals walking and running around, and he even saw some humans too. He walked around for a while, taking everything in.\n\nEventually, he started to",
+            "image_url": [
+                "https://replicate.com/api/models/stability-ai/stable-diffusion/files/b81e48d1-af4d-4b24-a51a-7979f46c31ce/out-0.png"
+            ],
+            "next_options": [
+                " The lion gets tired and decides to go home",
+                " The lion sees a juicy steak and decides to eat it"
+            ],
+            "selected_option": " The lion gets tired and decides to go home"
+        },
+        {
+            "text": "The lion gets tired and decides to go home. He is very happy with what he saw and can't wait to come back again.",
+            "image_url": [
+                "https://replicate.com/api/models/stability-ai/stable-diffusion/files/24b5a17f-dcd1-489c-8791-9900d349e317/out-0.png"
+            ],
+            "next_options": [
+                " The lion falls asleep on the way home",
+                " The lion gets lost on the way home"
+            ],
+            "selected_option": null
+        }
+    ],
+    "quiz_parts": []
+}

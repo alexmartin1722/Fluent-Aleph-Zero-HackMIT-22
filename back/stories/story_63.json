@@ -1,0 +1,18 @@
+{
+    "id": 63,
+    "story_parts": [
+        {
+            "story_part_id": 0,
+            "text": "The girl had always wanted to go on an adventure. She had read about all sorts of exciting places in her books and dreamed of visiting them someday. Her parents always told her that she could go on any adventure she wanted, as long as she was careful.\n\nOne day, she saw an advertisement in a magazine for a contest to win a free trip to an exotic location. The girl entered the contest and won! She was so excited to tell her parents the good news.",
+            "image_url": [
+                "https://replicate.com/api/models/stability-ai/stable-diffusion/files/f746a797-a9c4-4439-99a1-6d939e607e66/out-0.png"
+            ],
+            "next_options": {
+                "0": "She packed her bags and set off on her adventure",
+                "1": "She was so excited that she couldn't sleep the night before her trip"
+            },
+            "selected_option_id": "0"
+        }
+    ],
+    "quiz_parts": []
+}

@@ -1,0 +1,28 @@
+{
+    "id": 17,
+    "story_parts": [
+        {
+            "text": "The lion went to the city. He saw the tall buildings and the busy people. He saw the cars and the buses. He saw the animals in the zoo. He saw the monkeys in the trees. He saw the birds in the sky. He saw the fish in the aquarium. He saw the people in the park. He saw the children playing. He saw the flowers in the garden. He saw the trees in the forest.",
+            "image_url": [
+                "https://replicate.com/api/models/stability-ai/stable-diffusion/files/00ffb2b7-0888-433b-a16d-1da3a6a14df0/out-0.png"
+            ],
+            "next_options": [
+                " The lion was scared of all the people and ran away",
+                " The lion was curious about all the people and stayed to watch"
+            ],
+            "selected_option": " The lion was scared of all the people and ran away"
+        },
+        {
+            "text": "The lion was scared of all the people and ran away. He saw the tall buildings and the busy people. He saw the cars and the buses. He saw the animals in the zoo. He saw the monkeys in the trees. He saw the birds in the sky. He saw the fish in the aquarium. He saw the people in the park. He saw the children playing. He saw the flowers in the garden. He saw the trees in the forest.",
+            "image_url": [
+                "https://replicate.com/api/models/stability-ai/stable-diffusion/files/329285b1-f017-4f0a-a237-7d05f209fb12/out-0.png"
+            ],
+            "next_options": [
+                " The lion ran away and hid in the forest",
+                " The lion ran away and hid in the zoo"
+            ],
+            "selected_option": null
+        }
+    ],
+    "quiz_parts": []
+}

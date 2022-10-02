@@ -1,0 +1,65 @@
+{
+    "id": 103,
+    "story_parts": [
+        {
+            "story_part_id": 0,
+            "text": "Gina felt hopeless. She was tired all the time and had no interest in the things she used to enjoy. She stopped hanging out with her friends and stopped going to her job as a cashier at the grocery store. Gina's family and friends tried to reach out to her, but she just pushed them away. She didn't want to burden them with her problems. Gina felt like she was a burden to everyone and that everyone would be better off without her. She thought about suicide",
+            "image_url": [
+                "https://replicate.com/api/models/stability-ai/stable-diffusion/files/e5279023-0fcc-4c6b-9265-24f75d1d5e37/out-0.png"
+            ],
+            "next_options": {
+                "0": "Gina's family and friends find her just in time and get her the help she needs",
+                "1": "Gina goes through with her suicide plan and dies"
+            },
+            "selected_option_id": "1"
+        },
+        {
+            "story_part_id": 1,
+            "text": "Gina goes through with her suicide plan and dies. Her family and friends are devastated. They all wish they had been there for her and could have helped her through her depression.",
+            "image_url": [
+                "https://replicate.com/api/models/stability-ai/stable-diffusion/files/8749bda0-1ae2-46b8-b23a-67354dff7482/out-0.png"
+            ],
+            "next_options": {
+                "0": "Gina's loved ones are left to grieve her loss and try to move on with their lives",
+                "1": "Gina's loved ones find her suicide note and realize that they could have done more to help her"
+            },
+            "selected_option_id": "1"
+        },
+        {
+            "story_part_id": 2,
+            "text": "Gina's loved ones find her suicide note and realize that they could have done more to help her. They all wish they had been there for her and could have helped her through her depression. They all feel guilty for not being there for her when she needed them the most.",
+            "image_url": [
+                "https://replicate.com/api/models/stability-ai/stable-diffusion/files/1b73d04a-ad72-4c1b-915f-15186639a507/out-0.png"
+            ],
+            "next_options": {
+                "0": "Gina's loved ones vow to never let anyone feel as alone as she did",
+                "1": "Gina's loved ones blame themselves for her death"
+            },
+            "selected_option_id": null
+        }
+    ],
+    "quiz_parts": [
+        {
+            "answer_id": 0,
+            "question": "What was Gina's plan?",
+            "options": {
+                "0": " To kill herself",
+                "1": " To get help for her depression",
+                "2": " To tell her family and friends about her depression",
+                "3": " To spend time with her family and friends"
+            },
+            "story_part_id": 1
+        },
+        {
+            "answer_id": 2,
+            "question": "What do Gina's loved ones feel after finding her suicide note?",
+            "options": {
+                "0": " They are happy that she is finally at peace",
+                "1": " They are relieved that she is no longer suffering",
+                "2": " They are regretful that they couldn't do more to help her",
+                "3": " They are angry at her for not reaching out to them for help"
+            },
+            "story_part_id": 2
+        }
+    ]
+}

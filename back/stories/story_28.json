@@ -1,0 +1,38 @@
+{
+    "id": 28,
+    "story_parts": [
+        {
+            "story_part_id": 0,
+            "text": "A lion was walking through the jungle when he came to a clearing. In the clearing was a city. The lion had never seen a city before. He walked into the city and saw all the tall buildings and the people walking around. The lion liked the city and decided to stay there.",
+            "image_url": "PlACEHOLDER",
+            "next_options": [
+                " The lion roams the city and becomes its king",
+                " The lion is captured by humans and put in a zoo"
+            ],
+            "selected_option": " The lion roams the city and becomes its king"
+        },
+        {
+            "story_part_id": 1,
+            "text": "The lion roams the city and becomes its king. He is loved by the people and he rules the city with wisdom and strength. The lion is happy in his new home and he knows that he will never be alone again.",
+            "image_url": "PlACEHOLDER",
+            "next_options": [
+                " The lion continues to live happily in the city, ruling with wisdom and strength",
+                " The lion is challenged by a new lion who wants to take over the city"
+            ],
+            "selected_option": null
+        }
+    ],
+    "quiz_parts": [
+        {
+            "question": "Why does the lion leave the jungle?",
+            "options": {
+                "0": "To find a new home",
+                "1": "To become king of the city",
+                "2": "To be loved by the people",
+                "3": "To rule the city with wisdom and strength"
+            },
+            "answer_id": 1,
+            "story_part_id": 1
+        }
+    ]
+}

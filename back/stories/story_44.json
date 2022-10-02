@@ -1,0 +1,70 @@
+{
+    "id": 44,
+    "story_parts": [
+        {
+            "story_part_id": 0,
+            "text": "The lion was very excited to go to the city. He had never been there before and he had heard so many wonderful things about it. He was especially excited to see all of the different animals that lived there.\n\nWhen he arrived, he was amazed at how big and bustling the city was. He saw all sorts of animals walking and running around, and he even saw some humans! He walked around for a while, taking everything in.\n\nEventually, he started to get",
+            "image_url": "PlACEHOLDER",
+            "next_options": {
+                "0": " The lion gets tired and decides to go home",
+                "1": " The lion sees a delicious looking steak and decides to try to get it",
+                "2": ""
+            },
+            "selected_option_id": 0
+        },
+        {
+            "story_part_id": 1,
+            "text": "The lion gets tired and decides to go home. He is very happy to have seen the city and all of the different animals that live there. He knows that he will always remember his visit and he can't wait to come back again soon.",
+            "image_url": "PlACEHOLDER",
+            "next_options": {
+                "0": " The lion goes back to his pride and tells them all about his visit to the city",
+                "1": " The lion decides to stay in the city and becomes the new king"
+            },
+            "selected_option_id": 0
+        },
+        {
+            "story_part_id": 2,
+            "text": "The lion goes back to his pride and tells them all about his visit to the city. He is very excited to have seen all of the different animals and he can't wait to come back again soon.",
+            "image_url": "PlACEHOLDER",
+            "next_options": {
+                "0": " The lion decides to go back to the city every day to visit the different animals",
+                "1": " The lion decides to stay in the wilderness and never go back to the city again"
+            },
+            "selected_option_id": 0
+        },
+        {
+            "story_part_id": 3,
+            "text": "The lion decides to go back to the city every day to visit the different animals. He is fascinated by all of the different creatures that he sees and he even starts to make some friends. He loves learning about all of the different animals and their habits.\n\nOne day, he even sees a human! He is curious about this strange creature and follows it around for a while. He soon learns that humans are actually quite interesting and he enjoys watching them.\n\nThe lion continues",
+            "image_url": "PlACEHOLDER",
+            "next_options": {
+                "0": " The lion continues to visit the city every day, learning more about the different animals and making new friends",
+                "1": " The lion decides that he doesn't like the city and decides to go back to the jungle"
+            },
+            "selected_option_id": null
+        }
+    ],
+    "quiz_parts": [
+        {
+            "answer_id": 1,
+            "question": "Why does the lion decide to go home?",
+            "options": {
+                "0": "He is very happy to have seen the city and all of the different animals that live there",
+                "1": "He gets tired",
+                "2": "He knows that he will always remember his visit and he can't wait to come back again soon",
+                "3": "He wants to see the different animals again"
+            },
+            "story_part_id": 1
+        },
+        {
+            "answer_id": 0,
+            "question": "What is the lion's pride?",
+            "options": {
+                "0": "A group of lions he lives with",
+                "1": "A group of animals he visited in the city",
+                "2": "His family",
+                "3": "His friends"
+            },
+            "story_part_id": 2
+        }
+    ]
+}

@@ -1,0 +1,42 @@
+{
+    "id": 91,
+    "story_parts": [
+        {
+            "story_part_id": 0,
+            "text": "A lion was lying on the grass, basking in the warm sun. He was dreaming about going to Disney World, where he would ride on all the rides and eat all the food. He could see himself walking down Main Street, USA, with Mickey Mouse and Donald Duck. He could smell the popcorn and cotton candy, and he could hear the laughter of children. The lion sighed and rolled over, dreaming of the day when he would finally go to Disney World.",
+            "image_url": [
+                "https://replicate.com/api/models/stability-ai/stable-diffusion/files/14646cd2-3174-46c3-9a4b-1cf8e98d6cac/out-0.png"
+            ],
+            "next_options": {
+                "0": "The lion gets up and walks to the nearest zoo, where he hops into the first cage he sees",
+                "1": "The lion continues to lie in the sun, dreaming of Disney World"
+            },
+            "selected_option_id": 0
+        },
+        {
+            "story_part_id": 1,
+            "text": "The lion gets up and walks to the nearest zoo, where he hops into the first cage he sees. He immediately regrets his decision when he sees the sign that reads \"Do not feed the animals.\"",
+            "image_url": [
+                "https://replicate.com/api/models/stability-ai/stable-diffusion/files/b2011584-11cc-49f7-b3c6-bc2c57d377e1/out-0.png"
+            ],
+            "next_options": {
+                "0": "The lion is not fed and eventually starves to death",
+                "1": "The lion is fed by zoo staff and lives a long and happy life"
+            },
+            "selected_option_id": 0
+        }
+    ],
+    "quiz_parts": [
+        {
+            "answer_id": 0,
+            "question": "What does the lion see when he enters the zoo?",
+            "options": {
+                "0": " A sign that reads \"Do not feed the animals",
+                "1": " A group of animals in cages",
+                "2": " A group of lions in cages",
+                "3": " A group of animals that are not in cages"
+            },
+            "story_part_id": 1
+        }
+    ]
+}

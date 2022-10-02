@@ -1,0 +1,153 @@
+{
+    "id": 48,
+    "story_parts": [
+        {
+            "story_part_id": 0,
+            "text": "A lion goes to Disney World. He is very excited to see all of the rides and the characters. He goes on all of the rides and meets all of the characters. He has a great time and doesn't want to leave.",
+            "image_url": "PlACEHOLDER",
+            "next_options": {
+                "0": "The lion gets tired and decides to go home",
+                "1": "The lion decides to stay at Disney World forever"
+            },
+            "selected_option_id": 0
+        },
+        {
+            "story_part_id": 1,
+            "text": "The lion gets tired and decides to go home. He is very happy with his experience at Disney World and can't wait to come back again.",
+            "image_url": "PlACEHOLDER",
+            "next_options": {
+                "0": "The lion walks back to his home in Africa",
+                "1": "The lion stays at Disney World and becomes a character"
+            },
+            "selected_option_id": 0
+        },
+        {
+            "story_part_id": 2,
+            "text": "The lion walks back to his home in Africa. He is very happy with his experience at Disney World and can't wait to come back again. He tells all of his friends about the rides and the characters he met. They are all very excited to go to Disney World too.",
+            "image_url": "PlACEHOLDER",
+            "next_options": {
+                "0": "The lion and his friends all go to Disney World together and have a great time",
+                "1": "The lion decides to go back to Disney World by himself and has an even better time"
+            },
+            "selected_option_id": 0
+        },
+        {
+            "story_part_id": 3,
+            "text": "The lion and his friends all go to Disney World together and have a great time. They go on all of the rides and meet all of the characters. They are all very happy with their experience at Disney World and can't wait to come back again.",
+            "image_url": "PlACEHOLDER",
+            "next_options": {
+                "0": "The lion and his friends all go home and tell their families about their great time at Disney World",
+                "1": "The lion and his friends stay at Disney World and continue to enjoy all of the rides and attractions"
+            },
+            "selected_option_id": 0
+        },
+        {
+            "story_part_id": 4,
+            "text": "The lion and his friends all go home and tell their families about their great time at Disney World. They are all very excited to go and can't wait to come back again.",
+            "image_url": "PlACEHOLDER",
+            "next_options": {
+                "0": "The family decides to go to Disney World every year",
+                "1": "The family decides to go to a different theme park every year"
+            },
+            "selected_option_id": 0
+        },
+        {
+            "story_part_id": 5,
+            "text": "The family decides to go to Disney World every year. They have a great time every time they go. They go on all of the rides and meet all of the characters. They are all very happy with their experience at Disney World and can't wait to come back again.",
+            "image_url": "PlACEHOLDER",
+            "next_options": {
+                "0": "They come back the next year and have an even better time",
+                "1": "They come back the next year but find that it's not as much fun as it used to be"
+            },
+            "selected_option_id": 0
+        },
+        {
+            "story_part_id": 6,
+            "text": "The lion and his family come back to Disney World the next year and have an even better time. They go on all of the rides and meet all of the characters. They are all very happy with their experience at Disney World and can't wait to come back again.",
+            "image_url": "PlACEHOLDER",
+            "next_options": {
+                "0": "The lion and his family come back to Disney World the next year and have an even better time",
+                "1": "The lion and his family come back to Disney World the next year, but they have a terrible time"
+            },
+            "selected_option_id": 0
+        },
+        {
+            "story_part_id": 7,
+            "text": "The lion and his family come back to Disney World the next year and have an even better time. They go on all of the rides and meet all of the characters. They are all very happy with their experience at Disney World and can't wait to come back again.\n\nThe next year, the lion and his family come back to Disney World and have an even better time. They go on all of the rides and meet all of the characters. They are all very happy with",
+            "image_url": "PlACEHOLDER",
+            "next_options": {
+                "0": "The family decides to move to Disney World so they can be closer to the magic",
+                "1": "The family continues to visit Disney World every year and always has a great time"
+            },
+            "selected_option_id": null
+        }
+    ],
+    "quiz_parts": [
+        {
+            "answer_id": 0,
+            "question": "What does the lion do when he gets tired?",
+            "options": {
+                "0": "go home",
+                "1": "keep walking around Disney World",
+                "2": "take a nap",
+                "3": "eat something"
+            },
+            "story_part_id": 1
+        },
+        {
+            "answer_id": 2,
+            "question": "What is the lion's home?",
+            "options": {
+                "0": "America",
+                "1": "Disney World",
+                "2": "Africa",
+                "3": "Europe"
+            },
+            "story_part_id": 2
+        },
+        {
+            "answer_id": 3,
+            "question": "What is the lion's mood throughout the passage?",
+            "options": {
+                "0": "angry",
+                "1": "sad",
+                "2": "scared",
+                "3": "happy"
+            },
+            "story_part_id": 3
+        },
+        {
+            "answer_id": 0,
+            "question": "What are the lion and his friends telling their families?",
+            "options": {
+                "0": "They are telling their families about their great time at Disney World.",
+                "1": "They are telling their families about their bad time at Disney World.",
+                "2": "They are telling their families about their time at the zoo.",
+                "3": "They are telling their families about their time at the park."
+            },
+            "story_part_id": 4
+        },
+        {
+            "answer_id": 0,
+            "question": "Why does the family go to Disney World every year?",
+            "options": {
+                "0": "They have a great time every time they go.",
+                "1": "They go on all of the rides.",
+                "2": "They meet all of the characters.",
+                "3": "They are all very happy with their experience at Disney World."
+            },
+            "story_part_id": 5
+        },
+        {
+            "answer_id": 2,
+            "question": "What is the lion's family doing at Disney World?",
+            "options": {
+                "0": "They are going on all of the rides",
+                "1": "They are meeting all of the characters",
+                "2": "They are having an even better time",
+                "3": "They are all very happy with their experience at Disney World"
+            },
+            "story_part_id": 6
+        }
+    ]
+}

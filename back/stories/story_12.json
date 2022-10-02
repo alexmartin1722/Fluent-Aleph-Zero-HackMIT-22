@@ -1,0 +1,40 @@
+{
+    "id": 12,
+    "story_parts": [
+        {
+            "text": "The lion was very excited to go to the city. He had always wanted to see what it was like. When he got there, he was amazed at all the sights and sounds. He walked around for a while, taking it all in. He even got to see some people up close. They didn't seem to be afraid of him, which he found strange. After a while, he started to get tired and decided to go back to his home in the jungle. He was glad",
+            "image_url": [
+                "https://replicate.com/api/models/stability-ai/stable-diffusion/files/bb0d5a41-a8d4-4cad-85b1-5a1a7fb68f4b/out-0.png"
+            ],
+            "next_options": [
+                " The lion gets tired of the city and decides to go back to the jungle",
+                " The lion decides to stay in the city and live there permanently"
+            ],
+            "selected_option": " The lion gets tired of the city and decides to go back to the jungle"
+        },
+        {
+            "text": "The lion got tired of the city and decided to go back to the jungle. He was glad he did because he missed the peace and quiet of the jungle.",
+            "image_url": [
+                "https://replicate.com/api/models/stability-ai/stable-diffusion/files/61f02473-3fec-4581-9a7a-484948bd1efb/out-0.png"
+            ],
+            "next_options": [
+                " The lion roars and the animals all scatter",
+                " The lion finds a mate and they live happily ever after",
+                " The lion roars and the animals all scatter"
+            ],
+            "selected_option": null
+        }
+    ],
+    "quiz_parts": [
+        [
+            " What made the lion want to leave the city?",
+            " He missed the peace and quiet of the jungle",
+            " He was tired of the city",
+            " He didn't like the other animals in the city",
+            " There was not enough food in the city",
+            " How did the lion feel once he got back to the jungle?",
+            " He felt happy",
+            " He felt sad"
+        ]
+    ]
+}

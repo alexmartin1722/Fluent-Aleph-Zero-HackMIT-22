@@ -1,0 +1,63 @@
+{
+    "id": 76,
+    "story_parts": [
+        {
+            "story_part_id": 0,
+            "text": "Lion was always a bit of an outsider. He was born different than the other lions - with a mane that was more yellow than red. He was always teased and made fun of because of it. But Lion didn't care. He was content to spend his days lounging in the sun and eating his share of the kill.\n\nOne day, Lion was approached by a stranger. The stranger was a man, dressed in all black. He had a briefcase in",
+            "image_url": [
+                "https://replicate.com/api/models/stability-ai/stable-diffusion/files/1854574d-21cb-4802-a7a2-5575d03ad61c/out-0.png"
+            ],
+            "next_options": {
+                "0": "The stranger offers Lion a job",
+                "1": "The stranger offers to make Lion's mane red"
+            },
+            "selected_option_id": "0"
+        },
+        {
+            "story_part_id": 1,
+            "text": "The stranger offers Lion a job. Lion is hesitant at first, but the stranger is persistent. He says that Lion is perfect for the job and that he will be well-compensated. Lion decides to take the job and follows the stranger into the darkness.",
+            "image_url": [
+                "https://replicate.com/api/models/stability-ai/stable-diffusion/files/a3bfdff3-439f-453e-8824-8984665366d9/out-0.png"
+            ],
+            "next_options": {
+                "0": "The stranger leads Lion to a dark room and tells him to sit in the corner",
+                "1": "The stranger leads Lion to a brightly lit room and tells him to sit in the corner"
+            },
+            "selected_option_id": "0"
+        },
+        {
+            "story_part_id": 2,
+            "text": "",
+            "image_url": null,
+            "next_options": {
+                "0": "The woman decides to stay at the house and try to figure out what is going on",
+                "1": "The woman decides to leave the house and never come back"
+            },
+            "selected_option_id": null
+        }
+    ],
+    "quiz_parts": [
+        {
+            "answer_id": 0,
+            "question": "What does the stranger say to convince Lion to take the job?",
+            "options": {
+                "0": " Lion is perfect for the job",
+                "1": " Lion will be well-compensated",
+                "2": " The job is very easy",
+                "3": " There is no risk involved"
+            },
+            "story_part_id": 1
+        },
+        {
+            "answer_id": 2,
+            "question": "What does the author say about the relationship between the two countries?",
+            "options": {
+                "0": " The two countries are friends",
+                "1": " The two countries are enemies",
+                "2": " The two countries are allies",
+                "3": " The two countries are neutral"
+            },
+            "story_part_id": 2
+        }
+    ]
+}

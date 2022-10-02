@@ -1,0 +1,59 @@
+{
+    "id": 31,
+    "story_parts": [
+        {
+            "story_part_id": 0,
+            "text": "A lion went to the city. He saw all the tall buildings and the cars. He saw the people walking around. He saw the animals in the zoo. He saw the food in the restaurants. He saw the clothes in the stores. He saw the paintings in the museums. He saw the music in the concerts. He saw the lights in the theater. He saw the happy people in the park. He saw the city was a beautiful place.",
+            "image_url": "PlACEHOLDER",
+            "next_options": [
+                " The lion roars and the people run away in fear",
+                " The lion calmly walks back to his home in the forest"
+            ],
+            "selected_option": " The lion roars and the people run away in fear"
+        },
+        {
+            "story_part_id": 1,
+            "text": "The lion roars and the people run away in fear. The lion is happy to have found such a beautiful place.",
+            "image_url": "PlACEHOLDER",
+            "next_options": [
+                " The lion continues to roam around the jungle, looking for something to eat",
+                " The lion finds a deer and starts to chase it"
+            ],
+            "selected_option": " The lion continues to roam around the jungle, looking for something to eat",
+            "quiz": {
+                "question": "What does the lion do when it sees the people?",
+                "options": {
+                    "0": "It roars and they run away in fear",
+                    "1": "It roars and they come closer",
+                    "2": "It walks away",
+                    "3": "It lays down"
+                },
+                "answer_id": 0,
+                "story_part_id": 1
+            }
+        },
+        {
+            "story_part_id": 2,
+            "text": "The lion continues to roam around the jungle, looking for something to eat. He finds a zebra and devours it. He is happy to have found such a beautiful place.",
+            "image_url": "PlACEHOLDER",
+            "next_options": [
+                " The lion continues to roam around the jungle, looking for something to eat",
+                " The lion finds a mate and they live together in the jungle"
+            ],
+            "selected_option": " The lion continues to roam around the jungle, looking for something to eat"
+        }
+    ],
+    "quiz_parts": [
+        {
+            "question": "What does the lion do when it sees the people?",
+            "options": {
+                "0": "It roars and they run away in fear",
+                "1": "It roars and they come closer",
+                "2": "It walks away",
+                "3": "It lays down"
+            },
+            "answer_id": 0,
+            "story_part_id": 1
+        }
+    ]
+}

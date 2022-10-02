@@ -1,0 +1,249 @@
+{
+    "id": 52,
+    "story_parts": [
+        {
+            "story_part_id": 0,
+            "text": "A lion was going to Disney World. He was so excited to go on all the rides and see all the characters. He was going to have so much fun. On the way to Disney World, the lion saw a sign that said \"NO LIONS ALLOWED.\" He was so sad and disappointed. He turned around and went home.",
+            "image_url": [
+                "https://replicate.com/api/models/stability-ai/stable-diffusion/files/efe4714c-c64d-45dc-a1d0-647d984dd255/out-0.png"
+            ],
+            "next_options": {
+                "0": "The lion decides to go to Disney World anyways and sneaks in",
+                "1": "The lion is so sad and disappointed that he decides to never go to Disney World again"
+            },
+            "selected_option_id": 0
+        },
+        {
+            "story_part_id": 1,
+            "text": "The lion decides to go to Disney World anyways and sneaks in. He has so much fun on all the rides and sees all the characters. He is so happy that he was able to go to Disney World.",
+            "image_url": [
+                "https://replicate.com/api/models/stability-ai/stable-diffusion/files/d710cdb0-3dca-4e64-98d0-ab6a0b7e2772/out-0.png"
+            ],
+            "next_options": {
+                "0": "The lion is caught by security and is escorted out of the park",
+                "1": "The lion continues to have fun at Disney World and lives there happily ever after"
+            },
+            "selected_option_id": 0
+        },
+        {
+            "story_part_id": 2,
+            "text": "The lion is caught by security and is escorted out of the park. He is so sad and disappointed. He turns around and goes home.",
+            "image_url": [
+                "https://replicate.com/api/models/stability-ai/stable-diffusion/files/ae70ee9e-db24-4396-b87a-f99288a4d57c/out-0.png"
+            ],
+            "next_options": {
+                "0": "The lion is taken to a zoo where he lives out the rest of his days",
+                "1": "The lion is released back into the wild"
+            },
+            "selected_option_id": 0
+        },
+        {
+            "story_part_id": 3,
+            "text": "The lion is taken to a zoo where he lives out the rest of his days. He is so sad and disappointed. He turns around and goes home.",
+            "image_url": [
+                "https://replicate.com/api/models/stability-ai/stable-diffusion/files/6d2e6ec9-76c7-41ee-859d-fa376701c084/out-0.png"
+            ],
+            "next_options": {
+                "0": "The lion is taken to a zoo where he lives out the rest of his days",
+                "1": "The lion escapes from the zoo and returns to the wild"
+            },
+            "selected_option_id": 0
+        },
+        {
+            "story_part_id": 4,
+            "text": "The lion is taken to a zoo where he lives out the rest of his days. He is so sad and disappointed. He turns around and goes home.",
+            "image_url": [
+                "https://replicate.com/api/models/stability-ai/stable-diffusion/files/61821a29-0b01-4815-9da7-ce4ed5feef2a/out-0.png"
+            ],
+            "next_options": {
+                "0": "The lion is content in his new home and slowly starts to make new friends",
+                "1": "The lion is so unhappy in the zoo that he escapes and roams the city freely"
+            },
+            "selected_option_id": 0
+        },
+        {
+            "story_part_id": 5,
+            "text": "The lion is content in his new home and slowly starts to make new friends. He is no longer sad and disappointed. He is happy in his new home.",
+            "image_url": [
+                "https://replicate.com/api/models/stability-ai/stable-diffusion/files/d5369ec5-e1f1-4d43-863f-3bf7ae76eee5/out-0.png"
+            ],
+            "next_options": {
+                "0": "The lion becomes the king of the jungle and rules over all the animals",
+                "1": "The lion befriends a group of animals and they all live happily together"
+            },
+            "selected_option_id": 0
+        },
+        {
+            "story_part_id": 6,
+            "text": "The lion is content in his new home and slowly starts to make new friends. He is no longer sad and disappointed. He is happy in his new home. The lion becomes the king of the jungle and rules over all the animals. He is happy and content in his new home.",
+            "image_url": [
+                "https://replicate.com/api/models/stability-ai/stable-diffusion/files/22b76416-b0e6-4037-9cb3-34a5ad211cbf/out-0.png"
+            ],
+            "next_options": {
+                "0": "The lion remains happy and content in his new home",
+                "1": "The lion becomes sad and frustrated in his new home"
+            },
+            "selected_option_id": 0
+        },
+        {
+            "story_part_id": 7,
+            "text": "The lion remains happy and content in his new home. He is the king of the jungle and rules over all the animals. He is happy and content in his new home.",
+            "image_url": [
+                "https://replicate.com/api/models/stability-ai/stable-diffusion/files/345be720-ea06-4d85-8bc5-741386fbe2e5/out-0.png"
+            ],
+            "next_options": {
+                "0": "The lion is content in his new home and remains there for the rest of his days",
+                "1": "The lion becomes restless and decides to leave his new home in search of new adventures"
+            },
+            "selected_option_id": 0
+        },
+        {
+            "story_part_id": 8,
+            "text": "The lion is content in his new home and remains there for the rest of his days. He is the king of the jungle and rules over all the animals. He is happy and content in his new home.",
+            "image_url": [
+                "https://replicate.com/api/models/stability-ai/stable-diffusion/files/df7e5452-d777-490c-973b-b4a32d81b9e5/out-0.png"
+            ],
+            "next_options": {
+                "0": "The lion remains content in his new home and rules over all the animals for the rest of his days",
+                "1": "The lion gets bored in his new home and decides to explore the world beyond the jungle"
+            },
+            "selected_option_id": 0
+        },
+        {
+            "story_part_id": 9,
+            "text": "The lion remains content in his new home and rules over all the animals for the rest of his days. He is happy and content in his new home.",
+            "image_url": [
+                "https://replicate.com/api/models/stability-ai/stable-diffusion/files/11547df5-ae1e-4367-bf81-29882544dd4e/out-0.png"
+            ],
+            "next_options": {
+                "0": "The lion remains content in his new home and rules over all the animals for the rest of his days",
+                "1": "The lion becomes restless and longs to return to the wild"
+            },
+            "selected_option_id": 0
+        },
+        {
+            "story_part_id": 10,
+            "text": "The lion remains content in his new home and rules over all the animals for the rest of his days. He is happy and content in his new home.",
+            "image_url": [
+                "https://replicate.com/api/models/stability-ai/stable-diffusion/files/10847cc9-1160-4eb3-b7c2-f90ec884a1be/out-0.png"
+            ],
+            "next_options": {
+                "0": "The lion remains content in his new home and rules over all the animals for the rest of his days",
+                "1": "The lion gets bored of his new home and decides to go on a new adventure"
+            },
+            "selected_option_id": null
+        }
+    ],
+    "quiz_parts": [
+        {
+            "answer_id": 0,
+            "question": "Why did the lion go to Disney World?",
+            "options": {
+                "0": "To have fun",
+                "1": "To see the characters",
+                "2": "To be happy",
+                "3": "To sneak in"
+            },
+            "story_part_id": 1
+        },
+        {
+            "answer_id": 1,
+            "question": "Why was the lion escorted out of the park?",
+            "options": {
+                "0": "He was sad and disappointed",
+                "1": "He was caught by security",
+                "2": "He turned around and went home",
+                "3": "None of the above"
+            },
+            "story_part_id": 2
+        },
+        {
+            "answer_id": 0,
+            "question": "Why is the lion taken to the zoo?",
+            "options": {
+                "0": "to live out the rest of his days",
+                "1": "to be happy",
+                "2": "to be with other lions",
+                "3": "to be sad"
+            },
+            "story_part_id": 3
+        },
+        {
+            "answer_id": 0,
+            "question": "Where does the lion go after he leaves the zoo?",
+            "options": {
+                "0": "Home",
+                "1": "To a different zoo",
+                "2": "To the jungle",
+                "3": "To a farm"
+            },
+            "story_part_id": 4
+        },
+        {
+            "answer_id": 0,
+            "question": "What made the lion content in his new home?",
+            "options": {
+                "0": "His new friends",
+                "1": "The other animals",
+                "2": "His size",
+                "3": "His new home"
+            },
+            "story_part_id": 5
+        },
+        {
+            "answer_id": 0,
+            "question": "What does the lion feel in his new home?",
+            "options": {
+                "0": "content",
+                "1": "sad",
+                "2": "disappointed",
+                "3": "happy"
+            },
+            "story_part_id": 6
+        },
+        {
+            "answer_id": 2,
+            "question": "What does the lion do in his new home?",
+            "options": {
+                "0": "He roams around and explores",
+                "1": "He sleeps all day",
+                "2": "He rules over all the animals",
+                "3": "He is unhappy"
+            },
+            "story_part_id": 7
+        },
+        {
+            "answer_id": 2,
+            "question": "Where does the lion live?",
+            "options": {
+                "0": "In a house",
+                "1": "In a cave",
+                "2": "In the jungle",
+                "3": "In the zoo"
+            },
+            "story_part_id": 8
+        },
+        {
+            "answer_id": 3,
+            "question": "What does the lion do in his new home?",
+            "options": {
+                "0": "He is happy and content",
+                "1": "He rules over all the animals",
+                "2": "He leaves his new home",
+                "3": "He is content and rules over all the animals"
+            },
+            "story_part_id": 9
+        },
+        {
+            "answer_id": 0,
+            "question": "What does the lion do when he moves to his new home?",
+            "options": {
+                "0": "He remains content and rules over all the animals",
+                "1": "He is happy and content",
+                "2": "He is content and rules over some of the animals",
+                "3": "He is happy and contented"
+            },
+            "story_part_id": 10
+        }
+    ]
+}

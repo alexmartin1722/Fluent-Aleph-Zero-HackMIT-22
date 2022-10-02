@@ -1,0 +1,18 @@
+{
+    "id": 94,
+    "story_parts": [
+        {
+            "story_part_id": 0,
+            "text": "The lion had always dreamed of going to Disney World. It seemed like the happiest place on Earth, and he wanted to experience it for himself. Finally, he saved up enough money and took the plunge. He packed his bags and hopped on a plane, excited for the adventure that awaited him.",
+            "image_url": [
+                "https://replicate.com/api/models/stability-ai/stable-diffusion/files/ceaca9ca-4e25-430f-8752-2c5e374b8d6d/out-0.png"
+            ],
+            "next_options": {
+                "0": "The lion was thrilled to finally be at Disney World",
+                "1": "The lion was disappointed to find that Disney World was not as magical as he thought it would be"
+            },
+            "selected_option_id": 0
+        }
+    ],
+    "quiz_parts": []
+}

@@ -1,0 +1,18 @@
+{
+    "id": 55,
+    "story_parts": [
+        {
+            "story_part_id": 0,
+            "text": "It was the first day of second grade and Timmy was so excited. He had waited all summer to see his friends and learn new things. When he walked into his classroom, he saw his friends sitting at their desks. He ran to his desk and sat down, ready to learn. His teacher, Mrs. Smith, welcomed everyone back and Timmy knew it was going to be a great year.",
+            "image_url": [
+                "https://replicate.com/api/models/stability-ai/stable-diffusion/files/d17bb4ea-df24-4384-8861-5c38d6782390/out-0.png"
+            ],
+            "next_options": {
+                "0": "Timmy's friends were excited to see him too, and they all talked about what they did over the summer",
+                "1": "Timmy's friends ignored him, and he felt left out"
+            },
+            "selected_option_id": null
+        }
+    ],
+    "quiz_parts": []
+}

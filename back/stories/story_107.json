@@ -1,0 +1,42 @@
+{
+    "id": 107,
+    "story_parts": [
+        {
+            "story_part_id": 0,
+            "text": "A space cowboy named Jake was hired by a group of space pirates to help them with a heist. They were going to rob a space station that was full of valuable minerals. Jake was to help them get in and out without being caught.",
+            "image_url": [
+                "https://replicate.com/api/models/stability-ai/stable-diffusion/files/940c2597-fc05-482a-a0ff-40d3b78ef54e/out-0.png"
+            ],
+            "next_options": {
+                "0": "Jake helps the pirates and they successfully rob the space station",
+                "1": "Jake betrays the pirates and leads the authorities to them, leading to their arrest"
+            },
+            "selected_option_id": "1"
+        },
+        {
+            "story_part_id": 1,
+            "text": "Jake betrays the pirates and leads the authorities to them, leading to their arrest. Jake is hailed as a hero and is given a large reward. The pirates are sent to prison for a long time.",
+            "image_url": [
+                "https://replicate.com/api/models/stability-ai/stable-diffusion/files/2615aed8-f5fa-4986-bdab-9e8b770b09c5/out-0.png"
+            ],
+            "next_options": {
+                "0": "Jake shares his reward with the pirates",
+                "1": "Jake keeps the reward for himself"
+            },
+            "selected_option_id": null
+        }
+    ],
+    "quiz_parts": [
+        {
+            "answer_id": 2,
+            "question": "What does it mean to \"betray\" someone?",
+            "options": {
+                "0": " To help them",
+                "1": " To backstab them",
+                "2": " To turn them in to the authorities",
+                "3": " To lie to them"
+            },
+            "story_part_id": 1
+        }
+    ]
+}

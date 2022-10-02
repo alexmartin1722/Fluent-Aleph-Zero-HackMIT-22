@@ -1,0 +1,30 @@
+{
+    "id": 57,
+    "story_parts": [
+        {
+            "story_part_id": 0,
+            "text": "The girl went to Disney with her family. They stayed in a hotel and went to the parks. The girl loved seeing the characters and riding the rides. She had a great time with her family.",
+            "image_url": [
+                "https://replicate.com/api/models/stability-ai/stable-diffusion/files/dede0738-5538-4c08-8274-cc4300b465a4/out-0.png"
+            ],
+            "next_options": {
+                "0": "The family goes home and the girl is happy to have made so many memories",
+                "1": "The family decides to stay an extra day and go to Universal Studios"
+            },
+            "selected_option_id": "1"
+        },
+        {
+            "story_part_id": 1,
+            "text": "I remember 2nd grade very well. It was the year that I finally began to understand multiplication and division. I was so proud of myself when I could solve problems like 8x7 in my head. My teacher was always impressed with my math skills and would often ask me to help my classmates when they were struggling. I was happy to help, but I also loved showing off my abilities.\n\nIn reading and writing, I was also ahead of my classmates. I loved to read",
+            "image_url": [
+                "https://replicate.com/api/models/stability-ai/stable-diffusion/files/9a8ee63e-b1c9-4685-92fb-d49ad41b3136/out-0.png"
+            ],
+            "next_options": {
+                "0": "The girl continues to help her classmates, even when she doesn't want to",
+                "1": "The girl starts showing off her abilities to her classmates"
+            },
+            "selected_option_id": null
+        }
+    ],
+    "quiz_parts": []
+}

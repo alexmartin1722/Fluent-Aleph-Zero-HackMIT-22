@@ -1,0 +1,145 @@
+{
+    "id": 43,
+    "story_parts": [
+        {
+            "story_part_id": 0,
+            "text": "A lion was walking through the jungle when he came to a clearing. In the clearing was a city. The lion had never seen a city before and he was curious. He walked into the city and he saw all kinds of animals. He saw monkeys, elephants, and even a few lions. He walked around the city all day and he loved it.",
+            "image_url": "PlACEHOLDER",
+            "next_options": {
+                "0": " The lion walks around the city all day and he loves it",
+                "1": " The lion gets bored of the city and he leaves"
+            },
+            "selected_option_id": 0
+        },
+        {
+            "story_part_id": 1,
+            "text": "The lion walks around the city all day and he loves it. He sees all kinds of animals and he is curious about them. He even sees a few lions and he is curious about them too. He walks around the city all day and he loves it.",
+            "image_url": "PlACEHOLDER",
+            "next_options": {
+                "0": " The lion walks around the city all day and he sees a lot of animals",
+                "1": " The lion walks around the city all day and he sees a lot of animals"
+            },
+            "selected_option_id": 0
+        },
+        {
+            "story_part_id": 2,
+            "text": "The lion walks around the city all day and he sees a lot of animals. He is curious about them all and he wants to learn more about them. He even sees a few lions and he is curious about them too. He walks around the city all day and he loves it.",
+            "image_url": "PlACEHOLDER",
+            "next_options": {
+                "0": " The lion sees a lot of animals and he is curious about them all",
+                "1": " The lion sees a lot of animals and he is curious about them all"
+            },
+            "selected_option_id": 0
+        },
+        {
+            "story_part_id": 3,
+            "text": "The lion sees a lot of animals and he is curious about them all. He wants to learn more about them and he even sees a few lions. He walks around the city all day and he loves it.",
+            "image_url": "PlACEHOLDER",
+            "next_options": {
+                "0": " The lion continues to explore the city and he sees a lot of different animals",
+                "1": " The lion goes back to his home and he sleeps"
+            },
+            "selected_option_id": 0
+        },
+        {
+            "story_part_id": 4,
+            "text": "The lion continues to explore the city and he sees a lot of different animals. He sees monkeys, elephants, and even a few lions. He is curious about all of them and he wants to learn more about them. He continues to walk around the city all day and he loves it.",
+            "image_url": "PlACEHOLDER",
+            "next_options": {
+                "0": " The lion continues to explore the city and he sees a lot of different animals",
+                "1": " The lion gets tired of exploring the city and he decides to go back to the jungle"
+            },
+            "selected_option_id": 0
+        },
+        {
+            "story_part_id": 5,
+            "text": "The lion continues to explore the city and he sees a lot of different animals. He sees monkeys, elephants, and even a few lions. He is curious about all of them and he wants to learn more about them. He continues to walk around the city all day and he loves it.",
+            "image_url": "PlACEHOLDER",
+            "next_options": {
+                "0": " The lion continues to explore the city and he sees a lot of different animals",
+                "1": " The lion gets tired of walking around the city and he decides to go back to the zoo"
+            },
+            "selected_option_id": 0
+        },
+        {
+            "story_part_id": 6,
+            "text": "The lion continues to explore the city and he sees a lot of different animals. He sees monkeys, elephants, and even a few lions. He is curious about all of them and he wants to learn more about them. He continues to walk around the city all day and he loves it.",
+            "image_url": "PlACEHOLDER",
+            "next_options": {
+                "0": " The lion continues to explore the city and he sees a lot of different animals",
+                "1": " The lion gets tired of exploring the city and he decides to go back to the jungle"
+            },
+            "selected_option_id": 0
+        }
+    ],
+    "quiz_parts": [
+        {
+            "question": "What does the lion see in the city?",
+            "options": {
+                "0": "other lions",
+                "1": "a variety of animals",
+                "2": "only animals he is curious about",
+                "3": "only animals that he knows",
+                "4": "What is the lion's reaction to the other lions he sees?",
+                "5": "he is curious about them",
+                "6": "he is scared of them",
+                "7": "he is happy to see them"
+            },
+            "story_part_id": 1
+        },
+        {
+            "question": "What does the lion see in the city?",
+            "options": {
+                "0": "A lot of animals",
+                "1": "A few lions",
+                "2": "He loves it",
+                "3": "He is curious about them all"
+            },
+            "answer_id": 0,
+            "story_part_id": 2
+        },
+        {
+            "question": "What does the lion see in the city?",
+            "options": {
+                "0": "other lions",
+                "1": "a lot of animals",
+                "2": "not many animals",
+                "3": "no animals"
+            },
+            "story_part_id": 3
+        },
+        {
+            "question": "What does the lion see in the city?",
+            "options": {
+                "0": "monkeys",
+                "1": "elephants",
+                "2": "lions",
+                "3": "all of the above"
+            },
+            "answer_id": 3,
+            "story_part_id": 4
+        },
+        {
+            "question": "What does the lion see in the city?",
+            "options": {
+                "0": "monkeys",
+                "1": "elephants",
+                "2": "lions",
+                "3": "all of the above"
+            },
+            "answer_id": 3,
+            "story_part_id": 5
+        },
+        {
+            "question": "What does the lion see in the city?",
+            "options": {
+                "0": "monkeys",
+                "1": "elephants",
+                "2": "lions",
+                "3": "all of the above"
+            },
+            "answer_id": 3,
+            "story_part_id": 6
+        }
+    ]
+}

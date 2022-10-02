@@ -1,0 +1,30 @@
+{
+    "id": 68,
+    "story_parts": [
+        {
+            "story_part_id": 0,
+            "text": "The girl had always dreamed of going on an adventure. She had read about all sorts of daring feats in her books and longed to have her own adventures. One day, she decided to set out on her own. She packed her bags and set off into the wide world, not knowing what she would find.",
+            "image_url": [
+                "https://replicate.com/api/models/stability-ai/stable-diffusion/files/bed30e45-8e34-4e27-ba88-e3ab5d238413/out-0.png"
+            ],
+            "next_options": {
+                "0": "The girl had many adventures, meeting new people and seeing new places",
+                "1": "The girl didn't have any adventures and soon became bored, wishing she had stayed home"
+            },
+            "selected_option_id": "0"
+        },
+        {
+            "story_part_id": 1,
+            "text": "The girl had many adventures, meeting new people and seeing new places. She soon found herself in a land far from home, and she had to find her way back. With the help of her new friends, she was able to find her way home and she was very happy to be back.",
+            "image_url": [
+                "https://replicate.com/api/models/stability-ai/stable-diffusion/files/a77c09f6-d09e-445e-b51e-c037994fbcdd/out-0.png"
+            ],
+            "next_options": {
+                "0": "The girl's adventures continue and she soon finds herself in another land far from home",
+                "1": "The girl decides to stay in the new land and make a life for herself there"
+            },
+            "selected_option_id": null
+        }
+    ],
+    "quiz_parts": []
+}

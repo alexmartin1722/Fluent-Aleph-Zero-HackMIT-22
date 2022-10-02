@@ -1,0 +1,66 @@
+{
+    "id": 53,
+    "story_parts": [
+        {
+            "story_part_id": 0,
+            "text": "I was so excited to start 2nd grade. I had heard all about how much fun it would be and how I would learn so many new things. I couldn't wait to make new friends too.\n\nOn my first day, I walked into my new classroom and saw all of the other kids. Everyone was so friendly and I instantly felt at home. We started the day by learning all about our new teacher, Mrs. Smith. She was so nice and I could tell she",
+            "image_url": [
+                "https://replicate.com/api/models/stability-ai/stable-diffusion/files/5023f0c1-176d-4d0f-86b0-7675ca1ec830/out-0.png"
+            ],
+            "next_options": {
+                "0": "She told us that we were going to have a lot of fun this year",
+                "1": "She told us that we were going to learn a lot this year"
+            },
+            "selected_option_id": "0"
+        },
+        {
+            "story_part_id": 1,
+            "text": "She told us that we were going to have a lot of fun this year and learn so many new things. I was so excited and couldn't wait to get started. Throughout the year, I made so many new friends and learned so much. I loved 2nd grade and am so glad I had such a great experience.",
+            "image_url": [
+                "https://replicate.com/api/models/stability-ai/stable-diffusion/files/fbdcb00b-2cd0-43ad-9a06-4ea79aafd6f6/out-0.png"
+            ],
+            "next_options": {
+                "0": "She was right, I had so much fun and learned so many new things",
+                "1": "I didn't like 2nd grade as much as I thought I would"
+            },
+            "selected_option_id": "1"
+        },
+        {
+            "story_part_id": 2,
+            "text": "I thought 2nd grade would be so much fun, but I didn't like it as much as I thought I would. I didn't make any new friends and I found the work to be really hard. I was so disappointed and didn't want to go to school. I'm glad I stuck it out though, because now I love school and have made so many friends.",
+            "image_url": [
+                "https://replicate.com/api/models/stability-ai/stable-diffusion/files/72db4815-8008-4a44-a74e-971f163a8fe5/out-0.png"
+            ],
+            "next_options": {
+                "0": "I was so disappointed and didn't want to go to school",
+                "1": "I was so disappointed and didn't want to go to school, so I decided to talk to my teacher"
+            },
+            "selected_option_id": "1"
+        },
+        {
+            "story_part_id": 3,
+            "text": "I was so disappointed and didn't want to go to school, so I decided to talk to my teacher about it. She was really understanding and helped me to see that 2nd grade wasn't as bad as I thought it was. She encouraged me to keep trying and to reach out to make friends. I'm so glad I did, because now I love 2nd grade and have made so many great friends.",
+            "image_url": [
+                "https://replicate.com/api/models/stability-ai/stable-diffusion/files/b3ba8d84-395f-43d0-bc92-cf84dc1a8a5d/out-0.png"
+            ],
+            "next_options": {
+                "0": "The teacher told me that I should try to reach out to make friends",
+                "1": "The teacher told me that I should keep trying and not give up"
+            },
+            "selected_option_id": null
+        }
+    ],
+    "quiz_parts": [
+        {
+            "answer_id": 0,
+            "question": "What did the protagonist do when she was feeling disappointed about school?",
+            "options": {
+                "0": "She decided to talk to her teacher about it",
+                "1": "She decided to stop going to school",
+                "2": "She decided to make friends",
+                "3": "She decided to try harder"
+            },
+            "story_part_id": 3
+        }
+    ]
+}

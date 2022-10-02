@@ -1,0 +1,111 @@
+{
+    "id": 47,
+    "story_parts": [
+        {
+            "story_part_id": 0,
+            "text": "Once upon a time, a lion went to Disney World. He had a blast riding all the rides and meeting all the characters. He even got to meet Mickey Mouse! The lion had the time of his life and he would definitely go back again.",
+            "image_url": "PlACEHOLDER",
+            "next_options": {
+                "0": "The lion goes on more rides and has a lot of fun",
+                "1": "The lion gets homesick and decides to go back home"
+            },
+            "selected_option_id": 0
+        },
+        {
+            "story_part_id": 1,
+            "text": "The lion goes on more rides and has a lot of fun. He goes on the roller coaster and the Ferris wheel. He has a blast!",
+            "image_url": "PlACEHOLDER",
+            "next_options": {
+                "0": "The lion gets scared on the roller coaster and decides to go home",
+                "1": "The lion loves the roller coaster and rides it again and again"
+            },
+            "selected_option_id": 0
+        },
+        {
+            "story_part_id": 2,
+            "text": "The lion gets scared on the roller coaster and decides to go home. He is really happy that he got to go to Disney World and ride all the rides. He will definitely come back again!",
+            "image_url": "PlACEHOLDER",
+            "next_options": {
+                "0": "The lion goes back to his pride and tells them all about his adventures at Disney World",
+                "1": "The lion decides to stay at Disney World and becomes a character there"
+            },
+            "selected_option_id": 0
+        },
+        {
+            "story_part_id": 3,
+            "text": "The lion goes back to his pride and tells them all about his adventures at Disney World. His pride is very impressed and they all wish they could go to Disney World too.",
+            "image_url": "PlACEHOLDER",
+            "next_options": {
+                "0": "The lion decides to take his pride to Disney World",
+                "1": "The lion decides to stay in his pride and live out his days in Africa"
+            },
+            "selected_option_id": 0
+        },
+        {
+            "story_part_id": 4,
+            "text": "The lion decides to take his pride to Disney World. They all have a blast riding the rides and meeting the characters. They even get to meet Mickey Mouse! They all have the time of their lives and they would definitely go back again.",
+            "image_url": "PlACEHOLDER",
+            "next_options": {
+                "0": "The lion and his pride go on more rides and have a great time",
+                "1": "The lion and his pride get tired and decide to go back to the zoo"
+            },
+            "selected_option_id": 0
+        },
+        {
+            "story_part_id": 5,
+            "text": "The lion and his pride go on more rides and have a great time. They go on the roller coaster and the Ferris wheel. They have a blast! They all get scared on the roller coaster but they still have a lot of fun. They all decide that they want to come back to Disney World again.",
+            "image_url": "PlACEHOLDER",
+            "next_options": {
+                "0": "The lion's pride goes on more rides and has a great time",
+                "1": "The lion's pride goes home"
+            },
+            "selected_option_id": null
+        }
+    ],
+    "quiz_parts": [
+        {
+            "answer_id": 1,
+            "question": "What does the lion do on rides?",
+            "options": {
+                "0": "He goes on more rides",
+                "1": "He has a lot of fun",
+                "2": "He goes on the roller coaster",
+                "3": "He goes on the Ferris wheel"
+            },
+            "story_part_id": 1
+        },
+        {
+            "answer_id": 1,
+            "question": "Why does the lion go home?",
+            "options": {
+                "0": "He is tired",
+                "1": "He is scared",
+                "2": "He is happy",
+                "3": "He is sick"
+            },
+            "story_part_id": 2
+        },
+        {
+            "answer_id": 2,
+            "question": "What does the lion's pride think of his adventures at Disney World?",
+            "options": {
+                "0": "They are very interested and want to know more",
+                "1": "They are unimpressed and think he is making things up",
+                "2": "They are very impressed and wish they could go to Disney World too",
+                "3": "They are happy for him but do not want to hear about it"
+            },
+            "story_part_id": 3
+        },
+        {
+            "answer_id": 2,
+            "question": "What does the lion decide to do?",
+            "options": {
+                "0": "take his pride to the zoo",
+                "1": "take his pride to the circus",
+                "2": "take his pride to Disney World",
+                "3": "take his pride to the movies"
+            },
+            "story_part_id": 4
+        }
+    ]
+}

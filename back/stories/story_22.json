@@ -1,0 +1,24 @@
+{
+    "id": 22,
+    "story_parts": [
+        {
+            "text": "The lion went to the city. He saw the tall buildings and the cars. He saw the people walking on the sidewalks. He saw the dogs running and playing. He saw the birds flying in the sky. He saw the flowers blooming. He saw the trees blowing in the wind. He saw the sun shining. He saw the moon and the stars. He saw the city lights. He saw everything.",
+            "image_url": "PlACEHOLDER",
+            "next_options": [
+                " The lion was so amazed by everything he saw that he decided to stay in the city",
+                " The lion was so scared of everything he saw that he ran away"
+            ],
+            "selected_option": " The lion was so amazed by everything he saw that he decided to stay in the city"
+        },
+        {
+            "text": "The lion was so amazed by everything he saw that he decided to stay in the city. He found a place to sleep in a park and started to explore the city more. He found that he liked the city and the people in it. He made some friends and even found a job. The lion was happy in the city and decided to stay there forever.",
+            "image_url": "PlACEHOLDER",
+            "next_options": [
+                " The lion continued to live in the city and was happy there",
+                " The lion missed the wilderness and decided to leave the city"
+            ],
+            "selected_option": null
+        }
+    ],
+    "quiz_parts": []
+}

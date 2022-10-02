@@ -1,0 +1,77 @@
+{
+    "id": 49,
+    "story_parts": [
+        {
+            "story_part_id": 0,
+            "text": "A lion was going to Disney World. He was so excited to see all the rides and meet all the characters. He was especially excited to meet Mickey Mouse. When he got to Disney World, he went on all the rides and met all the characters. He had a great time.",
+            "image_url": [
+                "https://replicate.com/api/models/stability-ai/stable-diffusion/files/06a199a7-7f6b-4537-aafe-6e65ccd9ba68/out-0.png"
+            ],
+            "next_options": {
+                "0": "The lion gets to meet Mickey Mouse and they become friends",
+                "1": "The lion does not get to meet Mickey Mouse and he is very sad"
+            },
+            "selected_option_id": 0
+        },
+        {
+            "story_part_id": 1,
+            "text": "The lion gets to meet Mickey Mouse and they become friends. The lion is so happy that he gets to meet his hero. Mickey is just as happy to meet the lion. They become fast friends and have a great time together. The lion is so happy that he gets to meet his hero.",
+            "image_url": [
+                "https://replicate.com/api/models/stability-ai/stable-diffusion/files/b53c2e9f-bf2c-4662-b4fa-cc932c68b74c/out-0.png"
+            ],
+            "next_options": {
+                "0": "The lion and Mickey Mouse continue to be friends and have many more adventures together",
+                "1": "The lion gets scared and runs away"
+            },
+            "selected_option_id": 0
+        },
+        {
+            "story_part_id": 2,
+            "text": "The lion and Mickey Mouse continue to be friends and have many more adventures together. They go on all sorts of rides and have a lot of fun together. The lion is always happy to see Mickey and Mickey is always happy to see the lion. They are great friends and have a lot of fun together.",
+            "image_url": [
+                "https://replicate.com/api/models/stability-ai/stable-diffusion/files/9a5b2429-cee5-4bda-9406-7052bea0fa5c/out-0.png"
+            ],
+            "next_options": {
+                "0": "They go on a safari together and see all sorts of animals",
+                "1": "They go to the circus and see all sorts of animals and performers"
+            },
+            "selected_option_id": 0
+        },
+        {
+            "story_part_id": 3,
+            "text": "The lion and Mickey Mouse go on a safari together and see all sorts of animals. They are both excited to see all the different animals and to learn about them. They have a great time together and learn a lot about the different animals. They are both happy to have had the experience and to have been able to share it with each other.",
+            "image_url": [
+                "https://replicate.com/api/models/stability-ai/stable-diffusion/files/33ee48e5-0941-4894-8910-7b2e1745759a/out-0.png"
+            ],
+            "next_options": {
+                "0": "The lion and Mickey Mouse continue to explore the different animals on the safari and learn more about them",
+                "1": "The lion and Mickey Mouse get tired and decide to go back to their respective homes"
+            },
+            "selected_option_id": null
+        }
+    ],
+    "quiz_parts": [
+        {
+            "answer_id": 3,
+            "question": "Why is the lion happy?",
+            "options": {
+                "0": "He gets to meet Mickey Mouse",
+                "1": "Mickey is his hero",
+                "2": "They become fast friends",
+                "3": "All of the above"
+            },
+            "story_part_id": 1
+        },
+        {
+            "answer_id": 0,
+            "question": "What kind of animal is Mickey Mouse's friend?",
+            "options": {
+                "0": "A lion",
+                "1": "A zebra",
+                "2": "A monkey",
+                "3": "A giraffe"
+            },
+            "story_part_id": 2
+        }
+    ]
+}

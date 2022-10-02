@@ -1,0 +1,77 @@
+{
+    "id": 97,
+    "story_parts": [
+        {
+            "story_part_id": 0,
+            "text": "The lion was very excited to go to Disney World. He had always wanted to go there and see all the characters. He was especially excited to meet Mickey Mouse.",
+            "image_url": [
+                "https://replicate.com/api/models/stability-ai/stable-diffusion/files/a25aaaa4-cd78-401b-9afa-c38b3da5ad4c/out-0.png"
+            ],
+            "next_options": {
+                "0": "The lion was so excited to meet Mickey Mouse that he couldn't contain himself and started hugging him",
+                "1": "The lion was so excited to meet Mickey Mouse that he started roaring and jumping around"
+            },
+            "selected_option_id": 0
+        },
+        {
+            "story_part_id": 1,
+            "text": "The lion was so excited to meet Mickey Mouse that he couldn't contain himself and started hugging him. Mickey Mouse was a little bit surprised at first, but then he saw how happy the lion was and he hugged him back.",
+            "image_url": [
+                "https://replicate.com/api/models/stability-ai/stable-diffusion/files/62acb3fc-72bd-488e-a98d-0065e36bda46/out-0.png"
+            ],
+            "next_options": {
+                "0": "The lion was so happy to finally meet Mickey Mouse that he started hugging him and wouldn't let go",
+                "1": "Mickey Mouse was so surprised by the lion's enthusiasm that he hugged him back"
+            },
+            "selected_option_id": 0
+        },
+        {
+            "story_part_id": 2,
+            "text": "The lion was so happy to finally meet Mickey Mouse that he started hugging him and wouldn't let go. Mickey Mouse was a little bit surprised at first, but then he saw how happy the lion was and he hugged him back. The lion was so excited to meet Mickey Mouse that he couldn't contain himself and kept hugging him. Mickey Mouse was a little bit surprised at first, but then he saw how happy the lion was and he hugged him back.",
+            "image_url": [
+                "https://replicate.com/api/models/stability-ai/stable-diffusion/files/61f5c3f3-9875-4793-8b61-a5fe19a50e94/out-0.png"
+            ],
+            "next_options": {
+                "0": "The lion was so happy to finally meet Mickey Mouse that he started hugging him and wouldn't let go",
+                "1": "The lion was so excited to meet Mickey Mouse that he couldn't contain himself and kept hugging him"
+            },
+            "selected_option_id": 0
+        },
+        {
+            "story_part_id": 3,
+            "text": "The lion was so happy to finally meet Mickey Mouse that he started hugging him and wouldn't let go. Mickey Mouse was a little bit surprised at first, but then he saw how happy the lion was and he hugged him back. The lion was so excited to meet Mickey Mouse that he couldn't contain himself and kept hugging him. Mickey Mouse was a little bit surprised at first, but then he saw how happy the lion was and he hugged him back.",
+            "image_url": [
+                "https://replicate.com/api/models/stability-ai/stable-diffusion/files/18781c58-0888-42d5-909d-446e195cefa7/out-0.png"
+            ],
+            "next_options": {
+                "0": "The lion is so happy to finally meet Mickey Mouse that he starts hugging him and won't let go",
+                "1": "The lion is so excited to meet Mickey Mouse that he can't contain himself and keeps hugging him"
+            },
+            "selected_option_id": null
+        }
+    ],
+    "quiz_parts": [
+        {
+            "answer_id": 0,
+            "question": "What was the lion's initial reaction upon meeting Mickey Mouse?",
+            "options": {
+                "0": " The lion was happy and started hugging Mickey Mouse.",
+                "1": " The lion was scared and ran away.",
+                "2": " The lion was sad and started crying.",
+                "3": " The lion was surprised and just stood there."
+            },
+            "story_part_id": 1
+        },
+        {
+            "answer_id": 1,
+            "question": "What was Mickey Mouse's reaction when he first saw the lion hugging him?",
+            "options": {
+                "0": " Mickey Mouse was happy to see the lion hugging him",
+                "1": " Mickey Mouse was surprised to see the lion hugging him",
+                "2": " Mickey Mouse was scared to see the lion hugging him",
+                "3": " Mickey Mouse was confused to see the lion hugging him"
+            },
+            "story_part_id": 2
+        }
+    ]
+}

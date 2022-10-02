@@ -1,0 +1,17 @@
+{
+    "id": 36,
+    "story_parts": [
+        {
+            "story_part_id": 0,
+            "text": "A lion was walking through the jungle when he came across a city. He had never seen a city before and was curious to explore. He walked through the streets, taking in all the sights and sounds. He saw people walking and driving around, and he even saw a few animals. He was so fascinated by everything he saw that he forgot to be careful. Suddenly, he was surrounded by a group of people with guns. They were pointing the guns at him and shouting. The lion was",
+            "image_url": "PlACEHOLDER",
+            "next_options": {
+                "0": " The lion was so scared that he ran away as fast as he could",
+                "1": " The lion stood his ground and roared at the people"
+            },
+            "selected_option": null,
+            "selected_option_id": 0
+        }
+    ],
+    "quiz_parts": []
+}

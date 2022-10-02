@@ -1,0 +1,40 @@
+{
+    "id": 70,
+    "story_parts": [
+        {
+            "story_part_id": 0,
+            "text": "The girl had always wanted to go on an adventure. She had read about all sorts of adventures in books and dreamed of having her own someday. Finally, the day arrived. She packed her bags, said goodbye to her family, and set off into the unknown. She had no idea what was in store for her, but she was excited to find out.",
+            "image_url": [
+                "https://replicate.com/api/models/stability-ai/stable-diffusion/files/03e1b2aa-5a31-43d3-ab90-3551bc05ba4f/out-0.png"
+            ],
+            "next_options": {
+                "0": "The girl's adventure took her to a faraway land where she met new friends and had many exciting experiences",
+                "1": "The girl's adventure was cut short when she ran into some trouble and had to turn back"
+            },
+            "selected_option_id": "0"
+        },
+        {
+            "story_part_id": 1,
+            "text": "",
+            "image_url": null,
+            "next_options": {
+                "0": "The next day, Sarah tried again",
+                "1": "The next day, Sarah tried again but she was not successful"
+            },
+            "selected_option_id": null
+        }
+    ],
+    "quiz_parts": [
+        {
+            "answer_id": 0,
+            "question": "What does the author say is a result of the increase in the use of air travel?",
+            "options": {
+                "0": " More people are able to travel to different parts of the world",
+                "1": " Air travel has become more expensive",
+                "2": " Air travel has become more dangerous",
+                "3": " Air travel has become more convenient"
+            },
+            "story_part_id": 1
+        }
+    ]
+}

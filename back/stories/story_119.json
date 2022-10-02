@@ -1,0 +1,18 @@
+{
+    "id": 119,
+    "story_parts": [
+        {
+            "story_part_id": 0,
+            "text": "The giraffe was very tired. It had been walking for hours, ever since it had seen the huge herd of elephants. The herd was so large, it seemed impossible for the giraffe to get around them. But the giraffe kept walking, until it finally saw an opening. It stepped through and the herd was gone.",
+            "image_url": [
+                "https://replicate.com/api/models/stability-ai/stable-diffusion/files/34a01b5c-3d00-43b4-9ace-286ba98b0800/out-0.png"
+            ],
+            "next_options": {
+                "0": "The giraffe kept walking until it found a place to rest",
+                "1": "The giraffe stepped back through the opening and joined the herd"
+            },
+            "selected_option_id": null
+        }
+    ],
+    "quiz_parts": []
+}

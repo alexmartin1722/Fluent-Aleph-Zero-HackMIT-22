@@ -1,0 +1,42 @@
+{
+    "id": 110,
+    "story_parts": [
+        {
+            "story_part_id": 0,
+            "text": "A stormtrooper in the Empire always follows orders, no matter what. But one day, a mission goes wrong, and the stormtrooper is left questioning everything he's ever known. With the help of some unlikely allies, the stormtrooper embarks on a heist adventure to steal back what the Empire has taken from him.",
+            "image_url": [
+                "https://replicate.com/api/models/stability-ai/stable-diffusion/files/e599feca-98ad-43c0-ab3c-d93cfe1015ff/out-0.png"
+            ],
+            "next_options": {
+                "0": "The stormtrooper and his allies succeed in their heist and manage to escape with their lives",
+                "1": "The stormtrooper and his allies are captured by the Empire and are executed for their crimes"
+            },
+            "selected_option_id": "1"
+        },
+        {
+            "story_part_id": 1,
+            "text": "The stormtrooper and his allies are captured by the Empire and are executed for their crimes.",
+            "image_url": [
+                "https://replicate.com/api/models/stability-ai/stable-diffusion/files/dbbc0c50-6fb3-42b0-a752-3a7405dc1509/out-0.png"
+            ],
+            "next_options": {
+                "0": "The stormtrooper and his allies are captured by the Empire and are executed for their crimes",
+                "1": "The stormtrooper and his allies are captured by the Empire, but they manage to escape and continue their fight against the Empire"
+            },
+            "selected_option_id": null
+        }
+    ],
+    "quiz_parts": [
+        {
+            "answer_id": 1,
+            "question": "What is the noun in the sentence \"The stormtrooper and his allies are captured by the Empire and are executed for their crimes\"?",
+            "options": {
+                "0": " Stormtrooper",
+                "1": " Empire",
+                "2": " Crimes",
+                "3": " Allies"
+            },
+            "story_part_id": 1
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "id": 4,
+    "story_parts": [
+        {
+            "text": "I was never very good at school. My mom always had to help me with my homework and I always felt like I was behind everyone else. So, when I was told I was being held back in 2nd grade, I wasn't too surprised. I was actually kind of relieved. I thought maybe this would be a chance for me to catch up. But things didn't go the way I wanted them to. Instead of getting better, I just got worse. My grades slipped and",
+            "image_url": [
+                "https://replicate.com/api/models/stability-ai/stable-diffusion/files/41aba886-f4b6-48f8-bb3f-f2a93f700b79/out-0.png"
+            ],
+            "next_options": [
+                " I was eventually held back again in 3rd grade",
+                " I was never held back again, but I never felt like I was really good at school either"
+            ],
+            "selected_option": null
+        }
+    ]
+}

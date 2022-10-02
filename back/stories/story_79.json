@@ -1,0 +1,178 @@
+{
+    "id": 79,
+    "story_parts": [
+        {
+            "story_part_id": 0,
+            "text": "The lion was very excited to go to Disney World. He had always wanted to go there and finally his dream was coming true. He packed his bags and got on the plane, ready to have the time of his life.",
+            "image_url": [
+                "https://replicate.com/api/models/stability-ai/stable-diffusion/files/9ebac05c-6b28-4368-83e6-4c41599f846e/out-0.png"
+            ],
+            "next_options": {
+                "0": "The lion was thrilled to finally be at Disney World",
+                "1": "The lion was disappointed when he got to Disney World"
+            },
+            "selected_option_id": 0
+        },
+        {
+            "story_part_id": 1,
+            "text": "He walked around the park, taking in all the sights and sounds. He went on all the rides and ate all the food. He had a blast.",
+            "image_url": [
+                "https://replicate.com/api/models/stability-ai/stable-diffusion/files/2d511733-e590-4bb7-9a31-5df4344fb536/out-0.png"
+            ],
+            "next_options": {
+                "0": "He went home and went to bed",
+                "1": "He stayed at the park until it closed"
+            },
+            "selected_option_id": 0
+        },
+        {
+            "story_part_id": 2,
+            "text": "The next day, he woke up and went back to Disney World. He had so much fun that he didn't want to leave. He went home and went to bed, dreaming of all the fun he had had.",
+            "image_url": [
+                "https://replicate.com/api/models/stability-ai/stable-diffusion/files/4b391a51-0000-44c2-96d6-0a936fb4bd45/out-0.png"
+            ],
+            "next_options": {
+                "0": "The next day, he went back to Disney World and had even more fun",
+                "1": "The next day, he went home and didn't go back to Disney World again"
+            },
+            "selected_option_id": 0
+        },
+        {
+            "story_part_id": 3,
+            "text": "The next day, he went back to Disney World and had even more fun. He went on all the rides again and ate all the food. He had a blast. The next day, he woke up and went back to Disney World. He had so much fun that he didn't want to leave. He went home and went to bed, dreaming of all the fun he had had.",
+            "image_url": [
+                "https://replicate.com/api/models/stability-ai/stable-diffusion/files/52bda649-b9c4-4097-b072-ddeb8f1380d0/out-0.png"
+            ],
+            "next_options": {
+                "0": "The next day, he went back to Disney World and had even more fun",
+                "1": "The next day, he woke up and went back to Disney World"
+            },
+            "selected_option_id": 0
+        },
+        {
+            "story_part_id": 4,
+            "text": "He went on all the rides again and ate all the food. He had a blast. The next day, he woke up and went back to Disney World. He had so much fun that he didn't want to leave. He went home and went to bed, dreaming of all the fun he had had.",
+            "image_url": [
+                "https://replicate.com/api/models/stability-ai/stable-diffusion/files/50966c0e-2915-4758-9a70-fce273f4a0ea/out-0.png"
+            ],
+            "next_options": {
+                "0": "The next day, he went back to Disney World and had an even better time",
+                "1": "The next day, he woke up and realized it had all been a dream"
+            },
+            "selected_option_id": 0
+        },
+        {
+            "story_part_id": 5,
+            "text": "The next day, he went back to Disney World and had an even better time. He went on all the rides again and ate all the food. He had a blast. The next day, he woke up and went back to Disney World. He had so much fun that he didn't want to leave. He went home and went to bed, dreaming of all the fun he had had.",
+            "image_url": [
+                "https://replicate.com/api/models/stability-ai/stable-diffusion/files/ccf8d586-5668-4688-88ce-9efaa8a63054/out-0.png"
+            ],
+            "next_options": {
+                "0": "The next day, he went back to Disney World and had an even better time",
+                "1": "The next day, he woke up and went back to Disney World"
+            },
+            "selected_option_id": 0
+        },
+        {
+            "story_part_id": 6,
+            "text": "He went on all the rides again and ate all the food. He had a blast. The next day, he woke up and went back to Disney World. He had so much fun that he didn't want to leave. He went home and went to bed, dreaming of all the fun he had had.",
+            "image_url": [
+                "https://replicate.com/api/models/stability-ai/stable-diffusion/files/6f21339c-1f9d-472e-90d2-0009e6f60211/out-0.png"
+            ],
+            "next_options": {
+                "0": "The next day, he woke up and went back to Disney World",
+                "1": "He went home and went to bed, dreaming of all the fun he had had"
+            },
+            "selected_option_id": 0
+        },
+        {
+            "story_part_id": 7,
+            "text": "",
+            "image_url": null,
+            "next_options": {
+                "0": "The woman decides to ignore the man's advances and walks away",
+                "1": "The woman flirts back with the man and they exchange phone numbers"
+            },
+            "selected_option_id": 0
+        }
+    ],
+    "quiz_parts": [
+        {
+            "answer_id": 0,
+            "question": "What did the boy do at the park?",
+            "options": {
+                "0": " He went on the rides and ate the food",
+                "1": " He played games and won prizes",
+                "2": " He walked around and looked at the sights",
+                "3": " He sat down and rested"
+            },
+            "story_part_id": 1
+        },
+        {
+            "answer_id": 0,
+            "question": "What did the boy do when he woke up the next day?",
+            "options": {
+                "0": " He went back to Disney World",
+                "1": " He went home and went to bed",
+                "2": " He went to school",
+                "3": " He went out to play"
+            },
+            "story_part_id": 2
+        },
+        {
+            "answer_id": 0,
+            "question": "What did the boy do when he woke up the day after his first visit to Disney World?",
+            "options": {
+                "0": " He went back to Disney World",
+                "1": " He went on all the rides again",
+                "2": " He ate all the food",
+                "3": " He went home and went to bed"
+            },
+            "story_part_id": 3
+        },
+        {
+            "answer_id": 0,
+            "question": "What did the boy do when he woke up the next day?",
+            "options": {
+                "0": " Go back to Disney World",
+                "1": " Stay in bed",
+                "2": " Eat breakfast",
+                "3": " Go to school"
+            },
+            "story_part_id": 4
+        },
+        {
+            "answer_id": 2,
+            "question": "How many days in a row did the boy go to Disney World?",
+            "options": {
+                "0": " One day",
+                "1": " Two days",
+                "2": " Three days",
+                "3": " More than three days"
+            },
+            "story_part_id": 5
+        },
+        {
+            "answer_id": 0,
+            "question": "What did the boy do when he woke up the next day?",
+            "options": {
+                "0": " He went back to Disney World",
+                "1": " He went to school",
+                "2": " He went home and went to bed",
+                "3": " He went to the park"
+            },
+            "story_part_id": 6
+        },
+        {
+            "answer_id": 1,
+            "question": "What does the author say about the use of cell phones?",
+            "options": {
+                "0": " The author thinks cell phones are beneficial",
+                "1": " The author thinks cell phones are harmful",
+                "2": " The author is indifferent to cell phones",
+                "3": " The author provides no opinion on cell phones"
+            },
+            "story_part_id": 7
+        }
+    ]
+}

@@ -1,0 +1,42 @@
+{
+    "id": 124,
+    "story_parts": [
+        {
+            "story_part_id": 0,
+            "text": "A cat named Socks lived in a house with a family. One day, Socks saw a bird outside and wanted to catch it. She chased the bird around the yard until she finally caught it. The bird was injured and couldn't fly away. Socks killed the bird and brought it into the house. The family was not happy to see the dead bird and Socks was not allowed to keep it.",
+            "image_url": [
+                "https://replicate.com/api/models/stability-ai/stable-diffusion/files/f0e09982-4a19-4658-9915-ac323d81616b/out-0.png"
+            ],
+            "next_options": {
+                "0": "Socks is scolded by the family and told never to bring a dead bird into the house again",
+                "1": "Socks is praised by the family for her hunting skills and is given a special treat"
+            },
+            "selected_option_id": "0"
+        },
+        {
+            "story_part_id": 1,
+            "text": "Socks is scolded by the family and told never to bring a dead bird into the house again. Socks is very sorry and promises to never do it again.",
+            "image_url": [
+                "https://replicate.com/api/models/stability-ai/stable-diffusion/files/6d6c4dc9-3409-46f0-a273-1ff4c8cae879/out-0.png"
+            ],
+            "next_options": {
+                "0": "Socks decides to bury the bird in the backyard",
+                "1": "Socks secretly buries the bird in the backyard"
+            },
+            "selected_option_id": null
+        }
+    ],
+    "quiz_parts": [
+        {
+            "answer_id": 1,
+            "question": "What does Socks promise never to do again?",
+            "options": {
+                "0": " Never play with dead birds again",
+                "1": " Never bring a dead bird into the house again",
+                "2": " Never eat a dead bird",
+                "3": " Never hunt for birds again"
+            },
+            "story_part_id": 1
+        }
+    ]
+}

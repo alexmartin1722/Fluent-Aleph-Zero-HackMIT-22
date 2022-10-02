@@ -1,0 +1,180 @@
+{
+    "id": 98,
+    "story_parts": [
+        {
+            "story_part_id": 0,
+            "text": "The lion was very excited to go to Disney World. He had always wanted to go there and finally had the chance. He packed his bags and got on the plane.",
+            "image_url": [
+                "https://replicate.com/api/models/stability-ai/stable-diffusion/files/6d907798-efd2-4003-9126-cc71fcd23be2/out-0.png"
+            ],
+            "next_options": {
+                "0": "The lion had a great time at Disney World",
+                "1": "The lion didn't have a great time at Disney World"
+            },
+            "selected_option_id": 0
+        },
+        {
+            "story_part_id": 1,
+            "text": "The lion had a great time at Disney World. He went on all the rides and met all the characters. He even got to see the fireworks show. It was a dream come true for him and he was so happy.",
+            "image_url": [
+                "https://replicate.com/api/models/stability-ai/stable-diffusion/files/2072ba43-57a9-4408-a95b-4938caf106f3/out-0.png"
+            ],
+            "next_options": {
+                "0": "The lion woke up from his dream and was sad that he was not really at Disney World",
+                "1": "The lion continued to have a great time at Disney World and went on even more rides"
+            },
+            "selected_option_id": 0
+        },
+        {
+            "story_part_id": 2,
+            "text": "The lion woke up from his dream and was sad that he was not really at Disney World. He was disappointed that it was all just a dream. However, he was still happy that he got to experience it in his mind.",
+            "image_url": [
+                "https://replicate.com/api/models/stability-ai/stable-diffusion/files/a28feb24-8bcb-4741-a7e8-475642f2102c/out-0.png"
+            ],
+            "next_options": {
+                "0": "The lion decides to go to Disney World for real and makes plans to go there",
+                "1": "The lion forgets about his dream and goes back to sleep"
+            },
+            "selected_option_id": 0
+        },
+        {
+            "story_part_id": 3,
+            "text": "The lion decides to go to Disney World for real and makes plans to go there. He packs his bags and gets on a plane. When he arrives, he is amazed by all the sights and sounds. He goes on all the rides and meets all the characters. He even gets to see the fireworks show. It is a dream come true for him and he is so happy.",
+            "image_url": [
+                "https://replicate.com/api/models/stability-ai/stable-diffusion/files/3886a8a0-5b11-4d4f-95b4-8a3ce377bdea/out-0.png"
+            ],
+            "next_options": {
+                "0": "The lion has a great time at Disney World and goes home happy",
+                "1": "The lion gets homesick and decides to go back to Africa"
+            },
+            "selected_option_id": 0
+        },
+        {
+            "story_part_id": 4,
+            "text": "The lion has a great time at Disney World and goes home happy. He is so excited to tell all his friends about his amazing adventure.",
+            "image_url": [
+                "https://replicate.com/api/models/stability-ai/stable-diffusion/files/81d8bf52-dd3f-4f24-891e-df9c550fdf56/out-0.png"
+            ],
+            "next_options": {
+                "0": "The lion's friends are so jealous and wish they could have gone too",
+                "1": "The lion's friends are happy for him and can't wait to hear all about his trip"
+            },
+            "selected_option_id": 0
+        },
+        {
+            "story_part_id": 5,
+            "text": "The lion's friends are so jealous and wish they could have gone too. They all want to know what it was like and if he had a good time. The lion tells them all about his adventure and how much fun he had. His friends are so happy for him and are glad that he got to experience it.",
+            "image_url": [
+                "https://replicate.com/api/models/stability-ai/stable-diffusion/files/718f68da-56ab-49a9-a4f7-82d7dd0d43b6/out-0.png"
+            ],
+            "next_options": {
+                "0": "The lion's friends are happy for him, but also a little jealous",
+                "1": "The lion's friends are so jealous and wish they could have gone too"
+            },
+            "selected_option_id": 0
+        },
+        {
+            "story_part_id": 6,
+            "text": "The lion's friends are happy for him, but also a little jealous. They all want to know what it was like and if he had a good time. The lion tells them all about his adventure and how much fun he had. His friends are so happy for him and are glad that he got to experience it.",
+            "image_url": [
+                "https://replicate.com/api/models/stability-ai/stable-diffusion/files/c5000171-5d03-49a8-a2ae-42bb3ada6de5/out-0.png"
+            ],
+            "next_options": {
+                "0": "The lion's friends are happy for him, but also a little jealous",
+                "1": "The lion's friends are not happy for him"
+            },
+            "selected_option_id": 0
+        },
+        {
+            "story_part_id": 7,
+            "text": "The lion's friends are happy for him, but also a little jealous. They all want to know what it was like and if he had a good time. The lion tells them all about his adventure and how much fun he had. His friends are so happy for him and are glad that he got to experience it.",
+            "image_url": [
+                "https://replicate.com/api/models/stability-ai/stable-diffusion/files/bdc32f67-175d-4f5f-96d1-57547acc9b06/out-0.png"
+            ],
+            "next_options": {
+                "0": "The lion's friends are happy for him, but also a little jealous",
+                "1": "The lion's friends are not happy for him"
+            },
+            "selected_option_id": 0
+        }
+    ],
+    "quiz_parts": [
+        {
+            "answer_id": 3,
+            "question": "What was the lion's favorite part of Disney World?",
+            "options": {
+                "0": " Going on the rides",
+                "1": " Meeting the characters",
+                "2": " Seeing the fireworks show",
+                "3": " All of the above"
+            },
+            "story_part_id": 1
+        },
+        {
+            "answer_id": 3,
+            "question": "What did the lion feel after waking up from his dream?",
+            "options": {
+                "0": " He was happy that he was at Disney World",
+                "1": " He was disappointed that it was all just a dream",
+                "2": " He was happy that he got to experience it in his mind",
+                "3": " He was sad that he was not really at Disney World"
+            },
+            "story_part_id": 2
+        },
+        {
+            "answer_id": 2,
+            "question": "What is the lion's reaction to Disney World?",
+            "options": {
+                "0": " He is scared and wants to leave",
+                "1": " He is bored and wants to go home",
+                "2": " He is excited and happy",
+                "3": " He is angry and wants to fight"
+            },
+            "story_part_id": 3
+        },
+        {
+            "answer_id": 1,
+            "question": "What does the lion do at Disney World?",
+            "options": {
+                "0": " He goes on rides",
+                "1": " He meets characters",
+                "2": " He eats",
+                "3": " He sleeps"
+            },
+            "story_part_id": 4
+        },
+        {
+            "answer_id": 1,
+            "question": "What was the lion's adventure?",
+            "options": {
+                "0": " Going to the zoo",
+                "1": " Going on a safari",
+                "2": " Going to the circus",
+                "3": " Going to the beach"
+            },
+            "story_part_id": 5
+        },
+        {
+            "answer_id": 2,
+            "question": "What did the lion's friends feel when he told them about his adventure?",
+            "options": {
+                "0": " They were happy for him",
+                "1": " They were jealous of him",
+                "2": " They were both happy for him and jealous of him",
+                "3": " They were not happy for him"
+            },
+            "story_part_id": 6
+        },
+        {
+            "answer_id": 2,
+            "question": "What was the lion's adventure?",
+            "options": {
+                "0": " Going to the zoo",
+                "1": " Going to the circus",
+                "2": " Going on a safari",
+                "3": " Going to the beach"
+            },
+            "story_part_id": 7
+        }
+    ]
+}

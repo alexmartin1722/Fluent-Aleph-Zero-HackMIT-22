@@ -1,0 +1,28 @@
+{
+    "id": 16,
+    "story_parts": [
+        {
+            "text": "The lion was very excited to go to the city. He had always wanted to see what it was like. When he got there, he was amazed at all the tall buildings and the busy people. He walked around for a while, taking everything in. Eventually, he got tired and decided to go back to his home in the jungle. He was glad he had finally gotten to see the city, but he was happy to be back in his own territory.",
+            "image_url": [
+                "https://replicate.com/api/models/stability-ai/stable-diffusion/files/a01e5db2-333d-43b2-9738-4b08b52e2f5c/out-0.png"
+            ],
+            "next_options": [
+                " The lion continues to explore the city and eventually gets lost",
+                " The lion decides he's had enough of the city and goes back to the jungle"
+            ],
+            "selected_option": " The lion continues to explore the city and eventually gets lost"
+        },
+        {
+            "text": "The lion continues to explore the city and eventually gets lost. He doesn't know how to get back to his home in the jungle. He wanders around for days, getting more and more tired and hungry. Finally, he comes across a group of people who help him find his way back to the jungle. He is happy to be home and has learned a lot from his adventure in the city.",
+            "image_url": [
+                "https://replicate.com/api/models/stability-ai/stable-diffusion/files/bf420880-4b51-4894-8ec1-da74f99394a6/out-0.png"
+            ],
+            "next_options": [
+                " The lion continues to live in the jungle and is happy to be home",
+                " The lion misses the city and decides to go back to explore it some more"
+            ],
+            "selected_option": null
+        }
+    ],
+    "quiz_parts": []
+}

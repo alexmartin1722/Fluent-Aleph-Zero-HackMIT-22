@@ -1,0 +1,88 @@
+{
+    "id": 116,
+    "story_parts": [
+        {
+            "story_part_id": 0,
+            "text": "The stormtrooper was on a mission to steal some valuable data from the enemy base. He was armed with a blaster and a thermal detonator. He had to be careful not to be seen by the enemy guards. He managed to sneak into the base and find the data. He was about to leave when he heard someone coming. He hid behind a crate and waited for the person to pass.",
+            "image_url": [
+                "https://replicate.com/api/models/stability-ai/stable-diffusion/files/b1fca35f-0c87-4080-a6be-7f42afff306f/out-0.png"
+            ],
+            "next_options": {
+                "0": "The stormtrooper waits for the person to pass, then makes a run for it",
+                "1": "The stormtrooper jumps out and blasts the person"
+            },
+            "selected_option_id": "0"
+        },
+        {
+            "story_part_id": 1,
+            "text": "The stormtrooper waits for the person to pass, then makes a run for it. He is able to make it back to his ship and leaves the area.",
+            "image_url": [
+                "https://replicate.com/api/models/stability-ai/stable-diffusion/files/9bcb9ffa-768b-4fe2-89fe-50155e1a1f9b/out-0.png"
+            ],
+            "next_options": {
+                "0": "The stormtrooper is quickly apprehended by the authorities and is taken into custody",
+                "1": "The stormtrooper is able to make it back to his ship and leaves the area"
+            },
+            "selected_option_id": "1"
+        },
+        {
+            "story_part_id": 2,
+            "text": "The stormtrooper is able to make it back to his ship and leaves the area.",
+            "image_url": [
+                "https://replicate.com/api/models/stability-ai/stable-diffusion/files/ef79d12f-625a-4e8f-bef9-1eefffd22a5f/out-0.png"
+            ],
+            "next_options": {
+                "0": "The stormtrooper reports back to his commander, who then sends out a larger force to capture the rebels",
+                "1": "The stormtrooper decides to go back and warn the rebels, despite the risk"
+            },
+            "selected_option_id": "0"
+        },
+        {
+            "story_part_id": 3,
+            "text": "The stormtrooper reports back to his commander, who then sends out a larger force to capture the rebels. The rebels are eventually captured and brought back to the base.",
+            "image_url": [
+                "https://replicate.com/api/models/stability-ai/stable-diffusion/files/7c74d873-da50-42da-a8e2-91daadc874bf/out-0.png"
+            ],
+            "next_options": {
+                "0": "The rebels are interrogated and then executed",
+                "1": "The rebels are interrogated and then imprisoned"
+            },
+            "selected_option_id": "0"
+        }
+    ],
+    "quiz_parts": [
+        {
+            "answer_id": 0,
+            "question": "What is a stormtrooper?",
+            "options": {
+                "0": " A soldier in the Imperial army who is stationed on the Death Star",
+                "1": " A soldier in the Imperial army who is tasked with patrolling the streets",
+                "2": " A soldier in the Imperial army who is responsible for keeping the peace",
+                "3": " A soldier in the Imperial army who is responsible for fighting against the Rebellion"
+            },
+            "story_part_id": 1
+        },
+        {
+            "answer_id": 0,
+            "question": "What is a stormtrooper?",
+            "options": {
+                "0": " A soldier in the Imperial stormtrooper corps.",
+                "1": " A soldier in the Rebel Alliance.",
+                "2": " A type of spaceship.",
+                "3": " A laser gun."
+            },
+            "story_part_id": 2
+        },
+        {
+            "answer_id": 1,
+            "question": "What is the definition of the word \"force\" in the context of the above text?",
+            "options": {
+                "0": " An organized body of people with a common purpose",
+                "1": " The use of physical or legal coercion to achieve a desired outcome",
+                "2": " The ability to do work or cause change",
+                "3": " A group of individuals with a common goal or purpose"
+            },
+            "story_part_id": 3
+        }
+    ]
+}

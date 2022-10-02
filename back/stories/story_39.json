@@ -1,0 +1,72 @@
+{
+    "id": 39,
+    "story_parts": [
+        {
+            "story_part_id": 0,
+            "text": "One day, a lion went to the city. He was very excited to see all the tall buildings and busy people. He walked around for a while, taking everything in. Suddenly, he heard a loud noise. It was a car horn! The lion was so startled that he ran away. He didn't want to be in the city anymore. He was happy to be back in the safety of the jungle.",
+            "image_url": "PlACEHOLDER",
+            "next_options": {
+                "0": " The lion decided he liked the city and decided to stay",
+                "1": " The lion was so scared that he vowed never to come back"
+            },
+            "selected_option": null,
+            "selected_option_id": 0
+        },
+        {
+            "story_part_id": 1,
+            "text": "The lion decided he liked the city and decided to stay. He found a nice spot to sleep in and watch the people. He liked the hustle and bustle of the city and felt at home there.",
+            "image_url": "PlACEHOLDER",
+            "next_options": {
+                "0": " The lion soon got tired of the city and missed the open plains",
+                "1": " The lion became a local celebrity"
+            },
+            "selected_option": null,
+            "selected_option_id": 0
+        },
+        {
+            "story_part_id": 2,
+            "text": "The lion soon got tired of the city and missed the open plains. He missed the sound of the wind and the smell of the grass. One day, he walked out of the city and never looked back. He was happy to be back in the wild where he belonged.",
+            "image_url": "PlACEHOLDER",
+            "next_options": {
+                "0": " The lion found a mate and started a family",
+                "1": " The lion met a group of other lions and formed a pride"
+            },
+            "selected_option": null,
+            "selected_option_id": 0
+        },
+        {
+            "story_part_id": 3,
+            "text": "The lion found a mate and started a family. He was happy to have a family of his own and to be back in the wild. His family was happy too, and they all lived happily ever after.",
+            "image_url": "PlACEHOLDER",
+            "next_options": {
+                "0": " The lion and his family live happily ever after in the wild",
+                "1": " The lion's family is captured by humans and taken to a zoo"
+            },
+            "selected_option": null
+        }
+    ],
+    "quiz_parts": [
+        {
+            "question": "What did the lion find in the city?",
+            "options": {
+                "0": "a place to sleep",
+                "1": "a place to watch the people",
+                "2": "the hustle and bustle of the city",
+                "3": "all of the above"
+            },
+            "answer_id": 3,
+            "story_part_id": 1
+        },
+        {
+            "question": "What did the lion find?",
+            "options": {
+                "0": "A family",
+                "1": "A mate",
+                "2": "His family",
+                "3": "Happiness"
+            },
+            "answer_id": 1,
+            "story_part_id": 3
+        }
+    ]
+}

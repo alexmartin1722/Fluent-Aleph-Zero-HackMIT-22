@@ -1,0 +1,18 @@
+{
+    "id": 120,
+    "story_parts": [
+        {
+            "story_part_id": 0,
+            "text": "A giraffe was walking through the African plains when he spotted a lion in the distance.",
+            "image_url": [
+                "https://replicate.com/api/models/stability-ai/stable-diffusion/files/d0bf38c2-c075-4f30-a164-71d3b400e46a/out-0.png"
+            ],
+            "next_options": {
+                "0": "The giraffe ran away from the lion",
+                "1": "The giraffe stood its ground and faced the lion"
+            },
+            "selected_option_id": null
+        }
+    ],
+    "quiz_parts": []
+}

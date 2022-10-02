@@ -1,0 +1,18 @@
+{
+    "id": 114,
+    "story_parts": [
+        {
+            "story_part_id": 0,
+            "text": "A stormtrooper in the Star Wars universe finds himself bored with his day-to-day duties. He's been itching for some excitement and decides to go on a heist adventure. He plans and execute a daring robbery of a valuable shipment. During the heist, things go awry and the stormtrooper find himself in a battle for his life. Ultimately, he escapes with his life and the loot. This adventure is just the beginning of a new life of crime for the",
+            "image_url": [
+                "https://replicate.com/api/models/stability-ai/stable-diffusion/files/fdef00bc-3e71-4744-8b57-3704dd4db292/out-0.png"
+            ],
+            "next_options": {
+                "0": "The stormtrooper makes a clean getaway and decides to retire from crime",
+                "1": "The stormtrooper is captured by the authorities and thrown in prison"
+            },
+            "selected_option_id": null
+        }
+    ],
+    "quiz_parts": []
+}

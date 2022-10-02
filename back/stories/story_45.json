@@ -1,0 +1,143 @@
+{
+    "id": 45,
+    "story_parts": [
+        {
+            "story_part_id": 0,
+            "text": "The lion was very excited to go to the city. He had always wanted to see what it was like. When he got there, he was amazed at all the sights and sounds. He walked around for a while, taking it all in. He even got to eat some food from a restaurant. It was a great day for the lion and he was very happy to have finally gotten to see the city.",
+            "image_url": "PlACEHOLDER",
+            "next_options": {
+                "0": "The lion continues to explore the city and has a great time",
+                "1": "The lion gets lost and can't find his way back to his home"
+            },
+            "selected_option_id": 0
+        },
+        {
+            "story_part_id": 1,
+            "text": "The lion continues to explore the city and has a great time. He walks around for hours, taking in all the sights and sounds. He even gets to eat some food from a restaurant. It is a great day for the lion and he is very happy to have finally gotten to see the city.",
+            "image_url": "PlACEHOLDER",
+            "next_options": {
+                "0": "The lion continues to explore the city and has a great time",
+                "1": "The lion gets tired and decides to go back to his home"
+            },
+            "selected_option_id": 0
+        },
+        {
+            "story_part_id": 2,
+            "text": "The lion continues to explore the city and has a great time. He walks around for hours, taking in all the sights and sounds. He even gets to eat some food from a restaurant. It is a great day for the lion and he is very happy to have finally gotten to see the city.",
+            "image_url": "PlACEHOLDER",
+            "next_options": {
+                "0": "The lion continues to explore the city and has a great time",
+                "1": "The lion gets tired and decides to go back to the zoo"
+            },
+            "selected_option_id": 0
+        },
+        {
+            "story_part_id": 3,
+            "text": "The lion continues to explore the city and has a great time. He walks around for hours, taking in all the sights and sounds. He even gets to eat some food from a restaurant. It is a great day for the lion and he is very happy to have finally gotten to see the city.",
+            "image_url": "PlACEHOLDER",
+            "next_options": {
+                "0": "The lion continues to explore the city and has a great time",
+                "1": "The lion gets tired and decides to go back to the zoo"
+            },
+            "selected_option_id": 0
+        },
+        {
+            "story_part_id": 4,
+            "text": "The lion continues to explore the city and has a great time. He walks around for hours, taking in all the sights and sounds. He even gets to eat some food from a restaurant. It is a great day for the lion and he is very happy to have finally gotten to see the city.",
+            "image_url": "PlACEHOLDER",
+            "next_options": {
+                "0": "The lion gets tired and decides to go back to his home in the zoo",
+                "1": "The lion continues to explore the city and gets to see some more amazing sights"
+            },
+            "selected_option_id": 0
+        },
+        {
+            "story_part_id": 5,
+            "text": "The lion gets tired and decides to go back to his home in the zoo. He has had a great time exploring the city, but he is ready to go home now. He walks back to the zoo and goes into his cage. He is happy to be home and can't wait to tell all his friends about his great adventure in the city.",
+            "image_url": "PlACEHOLDER",
+            "next_options": {
+                "0": "The lion falls asleep and starts to dream about his adventure in the city",
+                "1": "The lion stays awake and thinks about all the fun he had in the city"
+            },
+            "selected_option_id": 0
+        },
+        {
+            "story_part_id": 6,
+            "text": "The lion falls asleep and starts to dream about his adventure in the city. He walks around for hours, taking in all the sights and sounds. He even gets to eat some food from a restaurant. It is a great day for the lion and he is very happy to have finally gotten to see the city.",
+            "image_url": "PlACEHOLDER",
+            "next_options": {
+                "0": "The lion continues to explore the city and has a great time",
+                "1": "The lion gets lost and can't find his way back to his home"
+            },
+            "selected_option_id": 0
+        }
+    ],
+    "quiz_parts": [
+        {
+            "answer_id": 0,
+            "question": "What is the lion doing in the city?",
+            "options": {
+                "0": "He is walking around and taking in the sights and sounds",
+                "1": "He is eating food from a restaurant",
+                "2": "He is lying down and sleeping",
+                "3": "He is playing with a toy"
+            },
+            "story_part_id": 1
+        },
+        {
+            "answer_id": 1,
+            "question": "What does the lion do in the city?",
+            "options": {
+                "0": "Eats from a restaurant",
+                "1": "Takes in the sights and sounds",
+                "2": "Sleep",
+                "3": "Walks around for hours"
+            },
+            "story_part_id": 2
+        },
+        {
+            "answer_id": 3,
+            "question": "What does the lion do in the city?",
+            "options": {
+                "0": "Eats food from a restaurant",
+                "1": "Walks around for hours",
+                "2": "Takes in all the sights and sounds",
+                "3": "All of the above"
+            },
+            "story_part_id": 3
+        },
+        {
+            "answer_id": 3,
+            "question": "What does the lion do in the city?",
+            "options": {
+                "0": "Eats at a restaurant",
+                "1": "Takes in the sights and sounds",
+                "2": "Walks around for hours",
+                "3": "All of the above"
+            },
+            "story_part_id": 4
+        },
+        {
+            "answer_id": 0,
+            "question": "What does the lion do when he gets tired?",
+            "options": {
+                "0": "He walks back to the zoo",
+                "1": "He stays in the city",
+                "2": "He goes home",
+                "3": "He tells all his friends about his great adventure"
+            },
+            "story_part_id": 5
+        },
+        {
+            "answer_id": 1,
+            "question": "What does the lion do when he first gets to the city?",
+            "options": {
+                "0": "He roars",
+                "1": "He walks around",
+                "2": "He sleeps",
+                "3": "He eats"
+            },
+            "story_part_id": 6
+        }
+    ]
+}

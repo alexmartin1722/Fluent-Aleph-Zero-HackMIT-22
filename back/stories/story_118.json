@@ -1,0 +1,18 @@
+{
+    "id": 118,
+    "story_parts": [
+        {
+            "story_part_id": 0,
+            "text": "I was never one for staying in one place for too long. As soon as I turned 18, I packed my bags and set off on an adventure. I had no idea where I was going or what I was looking for, but I knew I would find it. I hitchhiked my way across the country, hopping from one ride to the next. I slept in fields and on couches, never staying in one place for more than a few days. I met some interesting people",
+            "image_url": [
+                "https://replicate.com/api/models/stability-ai/stable-diffusion/files/d2383cd7-ce46-4f78-8d58-8997f5fbe515/out-0.png"
+            ],
+            "next_options": {
+                "0": "What did you find?",
+                "1": "What happened next?"
+            },
+            "selected_option_id": null
+        }
+    ],
+    "quiz_parts": []
+}

@@ -1,0 +1,65 @@
+{
+    "id": 104,
+    "story_parts": [
+        {
+            "story_part_id": 0,
+            "text": "In the vast emptiness of space, there are those who live outside the law. They are the space cowboys, and they make their living doing whatever they can to get by. Sometimes that means taking on heist jobs that are too risky for anyone else.\n\nOne space cowboy, who goes by the name of Ace, has been planning a heist for months. He's going to target a valuable shipment that is being transported by a rival gang. Ace has put together a team",
+            "image_url": [
+                "https://replicate.com/api/models/stability-ai/stable-diffusion/files/e293475b-b8e6-466b-8e07-4208d195517f/out-0.png"
+            ],
+            "next_options": {
+                "0": "Ace and his team successfully hijacked the rival gang's shipment",
+                "1": "Ace and his team were caught by the rival gang during the heist"
+            },
+            "selected_option_id": "1"
+        },
+        {
+            "story_part_id": 1,
+            "text": "Ace and his team were caught by the rival gang during the heist. They were outnumbered and outgunned, and they knew that they were in for a fight. Ace tried to talk his way out of it, but the rival gang wasn't interested in listening. They wanted blood, and Ace and his team were going to give it to them.",
+            "image_url": [
+                "https://replicate.com/api/models/stability-ai/stable-diffusion/files/416e808c-c626-461a-bc41-511f38570003/out-0.png"
+            ],
+            "next_options": {
+                "0": "Ace and his team try to fight their way out",
+                "1": "Ace and his team surrender"
+            },
+            "selected_option_id": "0"
+        },
+        {
+            "story_part_id": 2,
+            "text": "Ace and his team tried to fight their way out, but they were outnumbered and outgunned. They didn't stand a chance against the rival gang. They were all captured and beaten. Ace was left for dead, but he managed to survive. He swore revenge on the rival gang and vowed to take them down.",
+            "image_url": [
+                "https://replicate.com/api/models/stability-ai/stable-diffusion/files/3c997640-6ee1-4c3e-84e6-1d3f61b13540/out-0.png"
+            ],
+            "next_options": {
+                "0": "Ace gathers his team and comes up with a plan to take down the rival gang",
+                "1": "Ace goes after the rival gang members one by one, taking them out until there's nobody left"
+            },
+            "selected_option_id": null
+        }
+    ],
+    "quiz_parts": [
+        {
+            "answer_id": 1,
+            "question": "What was the result of the heist?",
+            "options": {
+                "0": " Ace and his team were successful in stealing the rival gang's money",
+                "1": " Ace and his team were caught by the rival gang and outnumbered",
+                "2": " Ace and his team managed to talk their way out of the situation",
+                "3": " The rival gang was successful in stealing Ace and his team's money"
+            },
+            "story_part_id": 1
+        },
+        {
+            "answer_id": 1,
+            "question": "Who Ace and his team fought against?",
+            "options": {
+                "0": " The police",
+                "1": " A rival gang",
+                "2": " Aliens",
+                "3": " The government"
+            },
+            "story_part_id": 2
+        }
+    ]
+}

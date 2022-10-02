@@ -1,0 +1,111 @@
+{
+    "id": 101,
+    "story_parts": [
+        {
+            "story_part_id": 0,
+            "text": "The guy had always wanted to go to candy land. He had heard so many stories about the amazing candy there. Finally, he took the plunge and went on an adventure to candy land. He was not disappointed. The candy was everything he had imagined and more. He ate so much candy that he got a sugar high and had to be carried out of candy land. It was a great adventure and he vowed to come back again.",
+            "image_url": [
+                "https://replicate.com/api/models/stability-ai/stable-diffusion/files/cb277db2-a660-4308-af53-125cd9e66dbe/out-0.png"
+            ],
+            "next_options": {
+                "0": "The guy comes back to candy land and eats even more candy",
+                "1": "The guy gets sick of candy and decides to never come back"
+            },
+            "selected_option_id": "1"
+        },
+        {
+            "story_part_id": 1,
+            "text": "The guy gets sick of candy and decides to never come back. He finds that the constant sugar high is too much for him and that he doesn't enjoy feeling sick all the time.",
+            "image_url": [
+                "https://replicate.com/api/models/stability-ai/stable-diffusion/files/b5ac3043-01dc-46c0-a56b-35f96039bef2/out-0.png"
+            ],
+            "next_options": {
+                "0": "The guy decides to find a new hobby that doesn't involve eating candy",
+                "1": "The guy decides to eat healthier foods and cut candy out of his diet altogether"
+            },
+            "selected_option_id": "1"
+        },
+        {
+            "story_part_id": 2,
+            "text": "The guy decides to eat healthier foods and cut candy out of his diet altogether. He finds that he feels much better without all the sugar and that he enjoys the challenge of eating healthier. He still thinks about candy sometimes, but he knows that it's not good for him and that he doesn't need it in his life.",
+            "image_url": [
+                "https://replicate.com/api/models/stability-ai/stable-diffusion/files/42d5cc73-adc2-4ff3-b6c8-b60416b1b79f/out-0.png"
+            ],
+            "next_options": {
+                "0": "The guy continues to eat healthy and feels great, but he starts to crave candy more and more",
+                "1": "The guy continues to eat healthy and feels great"
+            },
+            "selected_option_id": "0"
+        },
+        {
+            "story_part_id": 3,
+            "text": "The guy continues to eat healthy and feels great, but he starts to crave candy more and more.He starts to think about it all the time and wonders if maybe he should have just a little bit.He tries to resist, but eventually gives in and has a piece of candy. he feels guilty afterwards, but tells himself that it's not a big deal and that he can control his intake.He continues to eat healthy most of the time, but allows himself the occasional treat of candy.",
+            "image_url": [
+                "https://replicate.com/api/models/stability-ai/stable-diffusion/files/533a3f29-b941-4cd1-844d-1cb282f819e8/out-0.png"
+            ],
+            "next_options": {
+                "0": "The guy finds himself eating more and more candy, and starts to feel like he's out of control",
+                "1": "The guy finds himself eating more and more candy, but tells himself that it's not a big deal"
+            },
+            "selected_option_id": "1"
+        },
+        {
+            "story_part_id": 4,
+            "text": "The guy finds himself eating more and more candy, but tells himself that it's not a big deal. He says that he can control his intake and that he's not addicted to candy. However, the guy finds that he's eating candy more and more often and starts to feel guilty about it. He knows that it's not good for him, but he can't seem to stop himself. The guy decides to cut back on the candy, but finds it difficult. He tells himself that he",
+            "image_url": [
+                "https://replicate.com/api/models/stability-ai/stable-diffusion/files/78a709eb-ee78-48eb-8ef2-3e78b05d8e67/out-0.png"
+            ],
+            "next_options": {
+                "0": "The guy tries to cut back on candy, but finds it difficult and eventually gives up",
+                "1": "The guy is able to successfully cut back on candy and is proud of himself"
+            },
+            "selected_option_id": null
+        }
+    ],
+    "quiz_parts": [
+        {
+            "answer_id": 0,
+            "question": "What does the guy find too much for him?",
+            "options": {
+                "0": " The constant sugar high",
+                "1": " The sick feeling all the time",
+                "2": " The candy",
+                "3": " The decision to never come back"
+            },
+            "story_part_id": 1
+        },
+        {
+            "answer_id": 2,
+            "question": "What does the guy find after he decides to eat healthier foods and cut candy out of his diet?",
+            "options": {
+                "0": " He feels worse than before.",
+                "1": " He misses candy a lot.",
+                "2": " He feels better without all the sugar.",
+                "3": " He has more energy."
+            },
+            "story_part_id": 2
+        },
+        {
+            "answer_id": 2,
+            "question": "What does the guy in the paragraph eventually do?",
+            "options": {
+                "0": " He gives up on eating healthy and goes back to his old ways",
+                "1": " He continues to eat healthy and resist the temptation of candy",
+                "2": " He starts to eat healthy, but allows himself the occasional treat of candy",
+                "3": " He gives in and eats candy all the time"
+            },
+            "story_part_id": 3
+        },
+        {
+            "answer_id": 1,
+            "question": "What does the guy in the paragraph eventually do about his candy addiction?",
+            "options": {
+                "0": " He continues to eat candy regularly, but feels guilty about it",
+                "1": " He decides to cut back on the candy, but finds it difficult",
+                "2": " He completely gives up candy and doesn't eat it anymore",
+                "3": " He eats even more candy than before and doesn't feel guilty about it"
+            },
+            "story_part_id": 4
+        }
+    ]
+}

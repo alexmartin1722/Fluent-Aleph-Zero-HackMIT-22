@@ -1,0 +1,65 @@
+{
+    "id": 82,
+    "story_parts": [
+        {
+            "story_part_id": 0,
+            "text": "The lion had always dreamed of going to Disney World. It was a place where all his favorite characters came to life and he could have the time of his life. Finally, the day had arrived and he was on his way to the happiest place on Earth.",
+            "image_url": [
+                "https://replicate.com/api/models/stability-ai/stable-diffusion/files/d73e37bb-c7d0-4d48-85d7-03f2243e0972/out-0.png"
+            ],
+            "next_options": {
+                "0": "The lion was so excited to finally be at Disney World",
+                "1": "The lion slowly walked around Disney World, taking time to enjoy each ride and attraction"
+            },
+            "selected_option_id": 0
+        },
+        {
+            "story_part_id": 1,
+            "text": "The lion was so excited to finally be at Disney World. He had been dreaming of this day for months, and now it was finally here. He couldn't wait to meet all his favorite characters and ride all the best rides.",
+            "image_url": [
+                "https://replicate.com/api/models/stability-ai/stable-diffusion/files/62b9eb1d-b6c1-4d54-a09a-8630d3002999/out-0.png"
+            ],
+            "next_options": {
+                "0": "The lion spends the day meeting all his favorite characters and riding all the best rides",
+                "1": "The lion gets homesick and decides to go back to his home in the zoo"
+            },
+            "selected_option_id": 0
+        },
+        {
+            "story_part_id": 2,
+            "text": "The lion had a blast meeting all his favorite characters and riding all the best rides. He even got to meet Mickey Mouse himself! It was the best day ever and he couldn't wait to come back again soon.",
+            "image_url": [
+                "https://replicate.com/api/models/stability-ai/stable-diffusion/files/fb48760e-71d6-4b0f-a50d-e367a05a2106/out-0.png"
+            ],
+            "next_options": {
+                "0": "The next day, the lion went back to the park and rode all the rides again",
+                "1": "The next day, the lion went back to the park and met more characters"
+            },
+            "selected_option_id": 0
+        }
+    ],
+    "quiz_parts": [
+        {
+            "answer_id": 2,
+            "question": "What was the lion dreaming of for months?",
+            "options": {
+                "0": " Meeting all his favorite characters",
+                "1": " Riding all the best rides",
+                "2": " Both of the above",
+                "3": " Neither of the above"
+            },
+            "story_part_id": 1
+        },
+        {
+            "answer_id": 0,
+            "question": "What was the lion's favorite part of his day at Disney?",
+            "options": {
+                "0": " Meeting Mickey Mouse",
+                "1": " Riding the best rides",
+                "2": " Eating his favorite food",
+                "3": " Spending time with his friends"
+            },
+            "story_part_id": 2
+        }
+    ]
+}

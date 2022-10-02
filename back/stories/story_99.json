@@ -1,0 +1,18 @@
+{
+    "id": 99,
+    "story_parts": [
+        {
+            "story_part_id": 0,
+            "text": "The lion had always been interested in government work. He had followed every election closely and always had strong opinions on the candidates. When he was approached by the government to be a spy, he didn't hesitate to accept. The lion was given a false identity and started to gather information on the inner workings of the government. He quickly became one of the most valuable spies in the country.",
+            "image_url": [
+                "https://replicate.com/api/models/stability-ai/stable-diffusion/files/b40434de-da23-4e06-8e88-b52560cbcc34/out-0.png"
+            ],
+            "next_options": {
+                "0": "The lion is caught and sent to prison",
+                "1": "The lion continues to work as a spy and helps to overthrow the corrupt government"
+            },
+            "selected_option_id": null
+        }
+    ],
+    "quiz_parts": []
+}

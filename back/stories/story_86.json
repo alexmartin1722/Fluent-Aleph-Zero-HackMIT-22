@@ -1,0 +1,30 @@
+{
+    "id": 86,
+    "story_parts": [
+        {
+            "story_part_id": 0,
+            "text": "The lion was very excited to go to Disney World. He had always wanted to go there and see all the sights. When he arrived, he was amazed at all the different things to see and do. He went on all the rides and met all the characters. He had a great time and wouldn't want to leave.",
+            "image_url": [
+                "https://replicate.com/api/models/stability-ai/stable-diffusion/files/f8297721-fcc7-40ee-ba87-8b673461ea22/out-0.png"
+            ],
+            "next_options": {
+                "0": "The lion decides to stay at Disney World and live there forever",
+                "1": "The lion goes home and tells all his friends about his amazing adventure"
+            },
+            "selected_option_id": 0
+        },
+        {
+            "story_part_id": 1,
+            "text": "The lion decides to stay at Disney World and live there forever. He is happy there and loves all the different rides and attractions. He never gets bored and always has something new to do. He is also happy to meet new people and make new friends.",
+            "image_url": [
+                "https://replicate.com/api/models/stability-ai/stable-diffusion/files/c5be2c59-ecad-4048-bab4-97c258e5ab49/out-0.png"
+            ],
+            "next_options": {
+                "0": "The lion rides all the rides at Disney World and then goes to live in the jungle",
+                "1": "The lion becomes a character at Disney World and entertains guests for the rest of his life"
+            },
+            "selected_option_id": null
+        }
+    ],
+    "quiz_parts": []
+}

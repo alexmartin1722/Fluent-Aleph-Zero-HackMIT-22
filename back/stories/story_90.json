@@ -1,0 +1,40 @@
+{
+    "id": 90,
+    "story_parts": [
+        {
+            "story_part_id": 0,
+            "text": "The lion was very excited to go to Disney World. He had always wanted to go there and finally had the chance. He was going to go with his family and stay for a week. He was going to go on all the rides and see all the sights. He was going to have the time of his life.",
+            "image_url": [
+                "https://replicate.com/api/models/stability-ai/stable-diffusion/files/2ccbe69c-c0e1-4a24-8f3b-9900fdcfb81f/out-0.png"
+            ],
+            "next_options": {
+                "0": "The lion enjoyed his time at Disney World and went on all the rides",
+                "1": "The lion didn't have a good time at Disney World and didn't go on any of the rides"
+            },
+            "selected_option_id": 0
+        },
+        {
+            "story_part_id": 1,
+            "text": "",
+            "image_url": null,
+            "next_options": {
+                "0": "The woman decides to trust the man and goes with him",
+                "1": "The woman decides not to trust the man and tries to run away"
+            },
+            "selected_option_id": 0
+        }
+    ],
+    "quiz_parts": [
+        {
+            "answer_id": 1,
+            "question": "What is the primary purpose of the article?",
+            "options": {
+                "0": " To provide an overview of the current state of the economy",
+                "1": " To provide an analysis of the article's findings",
+                "2": " To provide a history of the article's findings",
+                "3": " To provide an opinion on the article's findings"
+            },
+            "story_part_id": 1
+        }
+    ]
+}

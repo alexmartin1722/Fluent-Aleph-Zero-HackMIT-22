@@ -1,0 +1,40 @@
+{
+    "id": 88,
+    "story_parts": [
+        {
+            "story_part_id": 0,
+            "text": "The lion was very excited to go to Disney World. He had always wanted to go there and see all the sights. He was especially excited to see Mickey Mouse. When he got there, he was amazed by all the sights and sounds. He went on all the rides and met all the characters. He had a great time and was very happy to have finally gone to Disney World.",
+            "image_url": [
+                "https://replicate.com/api/models/stability-ai/stable-diffusion/files/6edc7a1c-b1d4-4d56-b2c5-e415b1da9d63/out-0.png"
+            ],
+            "next_options": {
+                "0": "The lion enjoyed his time at Disney World and went home happy",
+                "1": "The lion didn't enjoy his time at Disney World and went home sad"
+            },
+            "selected_option_id": 0
+        },
+        {
+            "story_part_id": 1,
+            "text": "",
+            "image_url": null,
+            "next_options": {
+                "0": "The woman decides to ignore the man and keep walking",
+                "1": "The woman turns around and yells at the man"
+            },
+            "selected_option_id": 0
+        }
+    ],
+    "quiz_parts": [
+        {
+            "answer_id": 1,
+            "question": "What is the best way to learn new vocabulary?",
+            "options": {
+                "0": " By memorizing definitions",
+                "1": " By reading a lot",
+                "2": " By listening to audio books",
+                "3": " By speaking with native speakers"
+            },
+            "story_part_id": 1
+        }
+    ]
+}

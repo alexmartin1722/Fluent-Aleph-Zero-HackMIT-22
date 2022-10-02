@@ -1,0 +1,28 @@
+{
+    "id": 14,
+    "story_parts": [
+        {
+            "text": "Once there was a lion who went to the city. While he was there, he saw many sights and sounds that he had never seen before. He saw tall buildings, cars, and people walking around everywhere. The lion was so fascinated by everything he saw that he decided to stay in the city for a while and explore.",
+            "image_url": [
+                "https://replicate.com/api/models/stability-ai/stable-diffusion/files/7241db3b-5144-4425-85f4-06f6323ab3a0/out-0.png"
+            ],
+            "next_options": [
+                " The lion roars loudly, attracting the attention of a nearby zookeeper",
+                " The lion begins to follow a group of people, hoping to learn more about them"
+            ],
+            "selected_option": " The lion roars loudly, attracting the attention of a nearby zookeeper"
+        },
+        {
+            "text": "The lion roars loudly, attracting the attention of a nearby zookeeper. The zookeeper comes over and sees that the lion is not in his enclosure. The zookeeper tries to catch the lion, but the lion is too fast and escapes. The lion continues to explore the city, and he is never seen again.",
+            "image_url": [
+                "https://replicate.com/api/models/stability-ai/stable-diffusion/files/c8b5b7ea-4f14-41ad-a189-1bbd5e098e2c/out-0.png"
+            ],
+            "next_options": [
+                " The zookeeper continues to try to catch the lion, but the lion is too fast and escapes",
+                " The lion is caught by the zookeeper and is returned to his enclosure"
+            ],
+            "selected_option": null
+        }
+    ],
+    "quiz_parts": []
+}

@@ -1,0 +1,28 @@
+{
+    "id": 13,
+    "story_parts": [
+        {
+            "text": "Once upon a time, a lion went to the city. He was so excited to see all the tall buildings and busy people. He walked around for a while, taking everything in. Suddenly, he heard a loud noise. It was a fire truck! He watched as it raced down the street with its sirens blaring. He was so fascinated by everything he saw in the city.",
+            "image_url": [
+                "https://replicate.com/api/models/stability-ai/stable-diffusion/files/2a050930-f406-44b7-bfd9-a87b46ba614a/out-0.png"
+            ],
+            "next_options": [
+                " The lion continues to explore the city and sees many more interesting things",
+                " The lion gets scared by the noise and runs away"
+            ],
+            "selected_option": " The lion continues to explore the city and sees many more interesting things"
+        },
+        {
+            "text": "The lion continues to explore the city and sees many more interesting things. He sees a man in a suit walking down the street and wonders what he does. He sees a woman carrying a baby and wonders what it would be like to have a family. He sees a cat walking on a leash and wonders what it would be like to be domesticated. The lion continues to explore the city until it is time to go home.",
+            "image_url": [
+                "https://replicate.com/api/models/stability-ai/stable-diffusion/files/0e9c5ef8-9ea7-479a-acb3-d87d32ccf70a/out-0.png"
+            ],
+            "next_options": [
+                " The lion goes home to his family",
+                " The lion stays in the city and becomes the king of the jungle"
+            ],
+            "selected_option": null
+        }
+    ],
+    "quiz_parts": []
+}

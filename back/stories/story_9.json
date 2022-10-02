@@ -1,0 +1,28 @@
+{
+    "id": 9,
+    "story_parts": [
+        {
+            "text": "The lion was very excited to go to the city. He had always wanted to see what it was like. When he got there, he was amazed at all the sights and sounds. He walked around for a while, taking it all in. After a while, he started to get hungry. He saw a food stand and went over to it. The person working there was very friendly and gave him a delicious sandwich. The lion was so happy that he decided to stay in the city for",
+            "image_url": [
+                "https://replicate.com/api/models/stability-ai/stable-diffusion/files/5a380b35-d5f7-46bb-8264-72da5cb647b4/out-0.png"
+            ],
+            "next_options": [
+                " The lion stays in the city and becomes a famous attraction",
+                " The lion gets homesick and decides to go back to the jungle"
+            ],
+            "selected_option": " The lion stays in the city and becomes a famous attraction"
+        },
+        {
+            "text": "The lion stays in the city and becomes a famous attraction. He is loved by everyone and becomes very popular. He enjoys his life in the city and is very happy there.",
+            "image_url": [
+                "https://replicate.com/api/models/stability-ai/stable-diffusion/files/96f27de9-da1d-4cf3-b84b-84ae3a3dff65/out-0.png"
+            ],
+            "next_options": [
+                " The lion gets bored of the city life and decides to leave in search of new adventures",
+                " The lion becomes restless and starts to attack people in the city"
+            ],
+            "selected_option": null
+        }
+    ],
+    "quiz_parts": []
+}

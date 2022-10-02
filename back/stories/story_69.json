@@ -1,0 +1,42 @@
+{
+    "id": 69,
+    "story_parts": [
+        {
+            "story_part_id": 0,
+            "text": "The girl had always dreamed of going on an adventure. She had read about all sorts of daring explorers and their exciting escapades, and she longed to have her own adventures. Finally, when she was old enough, she set out on her own journey. She had no specific destination in mind, but she was sure that she would find something interesting along the way.",
+            "image_url": [
+                "https://replicate.com/api/models/stability-ai/stable-diffusion/files/7e5f06fe-52be-4602-b2f1-f366da2bfedd/out-0.png"
+            ],
+            "next_options": {
+                "0": "The girl traveled for many days, but she didn't find anything that she considered to be an adventure",
+                "1": "The girl traveled for many days, and she had all sorts of adventures"
+            },
+            "selected_option_id": "1"
+        },
+        {
+            "story_part_id": 1,
+            "text": "The girl traveled for many days, and she had all sorts of adventures. She climbed mountains, forded rivers, and explored dark caves. She met new people and saw new places. It was everything she had dreamed of, and more.",
+            "image_url": [
+                "https://replicate.com/api/models/stability-ai/stable-diffusion/files/6de5ec4e-379d-453b-9f7c-67433c8bb21b/out-0.png"
+            ],
+            "next_options": {
+                "0": "The girl continued her journey, meeting new people and seeing new places",
+                "1": "The girl's journey came to an end, and she returned home"
+            },
+            "selected_option_id": null
+        }
+    ],
+    "quiz_parts": [
+        {
+            "answer_id": 1,
+            "question": "What did the girl do on her journey?",
+            "options": {
+                "0": "1. She slept.",
+                "1": "2. She climbed mountains, forded rivers, and explored dark caves.",
+                "2": "3. She ate.",
+                "3": "4. She met new people and saw new places."
+            },
+            "story_part_id": 1
+        }
+    ]
+}

@@ -1,0 +1,65 @@
+{
+    "id": 80,
+    "story_parts": [
+        {
+            "story_part_id": 0,
+            "text": "The lion was very excited to go to Disney World. He had always wanted to go there and see all the sights. He was especially excited to see Mickey Mouse.",
+            "image_url": [
+                "https://replicate.com/api/models/stability-ai/stable-diffusion/files/d0d0c5a1-eb63-4c83-bbf0-d102055d1fcb/out-0.png"
+            ],
+            "next_options": {
+                "0": "The lion enjoyed his time at Disney World, especially seeing Mickey Mouse",
+                "1": "The lion was disappointed with Disney World and thought it was overrated"
+            },
+            "selected_option_id": 0
+        },
+        {
+            "story_part_id": 1,
+            "text": "The lion enjoyed his time at Disney World, especially seeing Mickey Mouse. He loved all the rides and attractions, and he especially loved the food. He was so happy that he got to experience everything that he had always wanted to see.",
+            "image_url": [
+                "https://replicate.com/api/models/stability-ai/stable-diffusion/files/2a5ff3d5-f585-4700-be95-b6462e2e76f3/out-0.png"
+            ],
+            "next_options": {
+                "0": "The lion continued to enjoy his time at Disney World, going on more rides and trying more food",
+                "1": "The lion's time at Disney World came to an end and he had to go home"
+            },
+            "selected_option_id": 0
+        },
+        {
+            "story_part_id": 2,
+            "text": "The lion continued to enjoy his time at Disney World, going on more rides and trying more food. He loved everything about the park and he was especially excited to meet some of the characters. He was thrilled to meet Mickey Mouse and he even got to have his picture taken with him. The lion was having the time of his life and he was so glad that he had finally gotten to experience Disney World.",
+            "image_url": [
+                "https://replicate.com/api/models/stability-ai/stable-diffusion/files/27b43ae5-43b9-49f4-9b77-3dcac2ac33c3/out-0.png"
+            ],
+            "next_options": {
+                "0": "The lion continued to enjoy his time at Disney World, going on more rides and trying more food",
+                "1": "The lion's fun came to an end when he was"
+            },
+            "selected_option_id": 0
+        }
+    ],
+    "quiz_parts": [
+        {
+            "answer_id": 2,
+            "question": "What was the lion's favorite part of Disney World?",
+            "options": {
+                "0": " Seeing Mickey Mouse",
+                "1": " Going on the rides",
+                "2": " Eating the food",
+                "3": " Experiencing everything"
+            },
+            "story_part_id": 1
+        },
+        {
+            "answer_id": 1,
+            "question": "What was the lion's reaction to meeting Mickey Mouse?",
+            "options": {
+                "0": " He was indifferent",
+                "1": " He was excited",
+                "2": " He was nervous",
+                "3": " He was scared"
+            },
+            "story_part_id": 2
+        }
+    ]
+}

@@ -1,0 +1,98 @@
+{
+    "id": 81,
+    "story_parts": [
+        {
+            "story_part_id": 0,
+            "text": "A lion was going to Disney World. He was so excited to go on all of the rides and see all of the characters. He had never been to a place like this before. When he got there, he saw that there were no lions. He was the only one. He felt a little bit out of place, but he still had a great time.",
+            "image_url": [
+                "https://replicate.com/api/models/stability-ai/stable-diffusion/files/50506a86-d8cf-46c4-8bbb-797cc3511fee/out-0.png"
+            ],
+            "next_options": {
+                "0": "The lion goes on all of the rides and has a great time",
+                "1": "The lion feels out of place and decides to leave"
+            },
+            "selected_option_id": 0
+        },
+        {
+            "story_part_id": 1,
+            "text": "The lion goes on all of the rides and has a great time. He gets to meet all of the characters and go on all of the rides. He has a blast and is so happy that he got to go to Disney World.",
+            "image_url": [
+                "https://replicate.com/api/models/stability-ai/stable-diffusion/files/fcb6ca53-20d3-4ed6-a0b8-ff3718ccb638/out-0.png"
+            ],
+            "next_options": {
+                "0": "The lion gets to meet all of the characters and go on all of the rides",
+                "1": "The lion gets to meet all of the characters, but he doesn't get to go on any of the rides"
+            },
+            "selected_option_id": 0
+        },
+        {
+            "story_part_id": 2,
+            "text": "The lion is so happy that he gets to meet all of the characters and go on all of the rides. He feels like he is part of the Disney family. He has a great time and is so happy that he got to go to Disney World.",
+            "image_url": [
+                "https://replicate.com/api/models/stability-ai/stable-diffusion/files/18a98f74-0407-4baf-ad84-7d83268f0678/out-0.png"
+            ],
+            "next_options": {
+                "0": "The lion gets to meet Mickey Mouse and go on all of the rides with him",
+                "1": "The lion gets to meet all of the characters and go on all of the rides, but he is not allowed to go on the rides with Mickey Mouse"
+            },
+            "selected_option_id": 0
+        },
+        {
+            "story_part_id": 3,
+            "text": "The lion is so excited to meet Mickey Mouse and go on all of the rides with him. He feels like he is part of the Disney family. He has a great time and is so happy that he got to go to Disney World.",
+            "image_url": [
+                "https://replicate.com/api/models/stability-ai/stable-diffusion/files/a33c6a29-8240-434a-b48c-cd7d447cb8e6/out-0.png"
+            ],
+            "next_options": {
+                "0": "The lion goes on all of the rides with Mickey Mouse and has a great time",
+                "1": "The lion gets scared and decides to go home"
+            },
+            "selected_option_id": 0
+        },
+        {
+            "story_part_id": 4,
+            "text": "",
+            "image_url": null,
+            "next_options": {
+                "0": "The next day, John went back to the store and found the same woman",
+                "1": "John never saw the woman again and often wondered what could have been"
+            },
+            "selected_option_id": null
+        }
+    ],
+    "quiz_parts": [
+        {
+            "answer_id": 1,
+            "question": "What does the lion do at Disney World?",
+            "options": {
+                "0": " He stays in his hotel room the whole time",
+                "1": " He goes on all of the rides and has a great time",
+                "2": " He only goes on a few of the rides",
+                "3": " He doesn't have a good time and leaves early"
+            },
+            "story_part_id": 1
+        },
+        {
+            "answer_id": 0,
+            "question": "What does the lion feel like while at Disney World?",
+            "options": {
+                "0": " The lion feels like he is part of the Disney family",
+                "1": " The lion feels like he is being treated like a family member",
+                "2": " The lion feels like he is being treated like a king",
+                "3": " The lion feels like he is on a family vacation"
+            },
+            "story_part_id": 2
+        },
+        {
+            "answer_id": 2,
+            "question": "What is the lion feeling in the paragraph?",
+            "options": {
+                "0": " Sad",
+                "1": " Angry",
+                "2": " Excited",
+                "3": " Scared"
+            },
+            "story_part_id": 3
+        }
+    ]
+}

@@ -1,0 +1,65 @@
+{
+    "id": 126,
+    "story_parts": [
+        {
+            "story_part_id": 0,
+            "text": "Gerald the giraffe was very excited to be going to Candy Land. He had always wanted to go there and see all of the different types of candy. When he arrived, he was amazed at all of the different colors and shapes of the candy. He immediately started to eat some of the candy, and it was delicious!",
+            "image_url": [
+                "https://replicate.com/api/models/stability-ai/stable-diffusion/files/dfcd4221-f650-464d-95b9-185b601b8f13/out-0.png"
+            ],
+            "next_options": {
+                "0": "Gerald continues to eat the candy and enjoys it",
+                "1": "Gerald starts to feel sick from eating too much candy and decides to stop"
+            },
+            "selected_option_id": "0"
+        },
+        {
+            "story_part_id": 1,
+            "text": "Gerald continues to eat the candy and enjoys it. He is really happy that he finally get to experience Candy Land and all of the delicious candy.",
+            "image_url": [
+                "https://replicate.com/api/models/stability-ai/stable-diffusion/files/563da3bf-1c87-4d2c-82bf-aec1abcda2a2/out-0.png"
+            ],
+            "next_options": {
+                "0": "Gerald finishes his candy and goes to explore the rest of Candy Land",
+                "1": "Gerald continues to eat the candy until he feels sick"
+            },
+            "selected_option_id": "0"
+        },
+        {
+            "story_part_id": 2,
+            "text": "Gerald finishes his candy and goes to explore the rest of Candy Land. He is amazed at all of the different types of candy and wonders what else there is to do in Candy Land. He sees a sign for a candy factory tour and decides to go on it. He learns about how the candy is made and is even able to try some of the candy that is being made. He has a great time and is really glad that he got to experience Candy Land.",
+            "image_url": [
+                "https://replicate.com/api/models/stability-ai/stable-diffusion/files/76d2e297-3c00-4c09-9b92-b853379770ec/out-0.png"
+            ],
+            "next_options": {
+                "0": "Gerald decides to go on a tour of the chocolate factory",
+                "1": "Gerald decides to go on a tour of the candy store"
+            },
+            "selected_option_id": null
+        }
+    ],
+    "quiz_parts": [
+        {
+            "answer_id": 1,
+            "question": "What does Gerald do when he finally gets to experience Candy Land?",
+            "options": {
+                "0": " He cries because he misses his family.",
+                "1": " He eats all of the candy and enjoys it.",
+                "2": " He hides from the other children.",
+                "3": " He runs around and plays games."
+            },
+            "story_part_id": 1
+        },
+        {
+            "answer_id": 0,
+            "question": "What does Gerald do when he is finished with his candy?",
+            "options": {
+                "0": " He goes to explore the rest of Candy Land",
+                "1": " He stays in the same spot and eats more candy",
+                "2": " He leaves Candy Land and goes home",
+                "3": " He goes on a tour of the candy factory"
+            },
+            "story_part_id": 2
+        }
+    ]
+}

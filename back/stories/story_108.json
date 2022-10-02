@@ -1,0 +1,42 @@
+{
+    "id": 108,
+    "story_parts": [
+        {
+            "story_part_id": 0,
+            "text": "Space Cowboy, aka SC, was born on the wrong side of the space station. His mom was a smuggler and his dad was a thief. SC learned all he could from them and eventually became a thief himself. One day, SC decides to pull off the ultimate heist. He's going to rob the space station's casino.",
+            "image_url": [
+                "https://replicate.com/api/models/stability-ai/stable-diffusion/files/4509cbae-526c-40c5-aea3-c014e0bafc01/out-0.png"
+            ],
+            "next_options": {
+                "0": "SC's plan goes off without a hitch and he makes off with a huge haul of chips",
+                "1": "SC's plan goes awry and he's caught by security"
+            },
+            "selected_option_id": "0"
+        },
+        {
+            "story_part_id": 1,
+            "text": "SC's plan goes off without a hitch and he makes off with a huge haul of chips. He is about to make his escape when he is stopped by the security guards. SC knows that he is outnumbered and outgunned, but he is not going to go down without a fight. He pulls out his blaster and starts firing at the guards.",
+            "image_url": [
+                "https://replicate.com/api/models/stability-ai/stable-diffusion/files/2cbb3f7d-1c5c-431b-a7c8-f43e5854592a/out-0.png"
+            ],
+            "next_options": {
+                "0": "SC continues firing at the security guards, trying to take as many of them down as possible before he is finally overwhelmed",
+                "1": "SC decides that it's not worth getting killed over and surrenders to the guards"
+            },
+            "selected_option_id": null
+        }
+    ],
+    "quiz_parts": [
+        {
+            "answer_id": 2,
+            "question": "What does SC do when he is stopped by the security guards?",
+            "options": {
+                "0": " He surrenders and goes with them peacefully",
+                "1": " He tries to talk his way out of it",
+                "2": " He pulls out his blaster and starts firing at the guards",
+                "3": " He runs away as fast as he can"
+            },
+            "story_part_id": 1
+        }
+    ]
+}

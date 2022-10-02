@@ -1,0 +1,18 @@
+{
+    "id": 72,
+    "story_parts": [
+        {
+            "story_part_id": 0,
+            "text": "The girl had always dreamed of going on an adventure. She had read about so many different places and seen so many different things in her books, and she wanted to see them all for herself. She had always been a bit of a daredevil, and she was always up for anything. So, when she was finally old enough to go on her own adventure, she didn't hesitate. She packed her bags and set off into the wide open world, ready to see everything it had to",
+            "image_url": [
+                "https://replicate.com/api/models/stability-ai/stable-diffusion/files/e127c03f-e62f-4e01-822b-dd2f3fe84ace/out-0.png"
+            ],
+            "next_options": {
+                "0": "She soon found herself in trouble, however, and wished she had stayed at home",
+                "1": "She had the time of her life and saw more than she ever could have imagined"
+            },
+            "selected_option_id": null
+        }
+    ],
+    "quiz_parts": []
+}

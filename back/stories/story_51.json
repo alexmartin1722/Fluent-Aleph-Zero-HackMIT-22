@@ -1,0 +1,54 @@
+{
+    "id": 51,
+    "story_parts": [
+        {
+            "story_part_id": 0,
+            "text": "Once upon a time there was a lion who went to Disney World. He had a great time riding the rides and meeting all the characters. He even got to go on stage and dance with Mickey Mouse!",
+            "image_url": [
+                "https://replicate.com/api/models/stability-ai/stable-diffusion/files/d6c7b483-7014-4223-a857-4528e9c540a4/out-0.png"
+            ],
+            "next_options": {
+                "0": "The lion went home and lived happily ever after",
+                "1": "The lion got homesick and missed Disney World"
+            },
+            "selected_option_id": 0
+        },
+        {
+            "story_part_id": 1,
+            "text": "The lion went home and lived happily ever after. He was so excited to tell all his friends about his amazing adventure at Disney World.",
+            "image_url": [
+                "https://replicate.com/api/models/stability-ai/stable-diffusion/files/3cbd3fb9-43e5-45eb-9e80-efdfa2245567/out-0.png"
+            ],
+            "next_options": {
+                "0": "The next day, he went back to Disney World and rode all the rides again",
+                "1": "The next day, he went back to the zoo"
+            },
+            "selected_option_id": 0
+        },
+        {
+            "story_part_id": 2,
+            "text": "The next day, he went back to Disney World and rode all the rides again. He had so much fun! He even got to go on stage and dance with Mickey Mouse again! The lion went home and lived happily ever after.",
+            "image_url": [
+                "https://replicate.com/api/models/stability-ai/stable-diffusion/files/41684856-c6c5-4d5a-ad7f-5314f9f1afd4/out-0.png"
+            ],
+            "next_options": {
+                "0": "The lion went back to the zoo and lived there for the rest of his life",
+                "1": "The lion went back to the jungle and found a mate"
+            },
+            "selected_option_id": null
+        }
+    ],
+    "quiz_parts": [
+        {
+            "answer_id": 1,
+            "question": "Where did the lion go?",
+            "options": {
+                "0": "Home",
+                "1": "Disney World",
+                "2": "Africa",
+                "3": "The zoo"
+            },
+            "story_part_id": 1
+        }
+    ]
+}

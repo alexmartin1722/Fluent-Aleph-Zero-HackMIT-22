@@ -1,0 +1,16 @@
+{
+    "id": 40,
+    "story_parts": [
+        {
+            "story_part_id": 0,
+            "text": "Joe the giraffe went on a hike. He saw many different animals along the way. He saw a squirrel, a rabbit, and a deer. He also saw a bird and a fish. He was so excited to see all of these different animals.",
+            "image_url": "PlACEHOLDER",
+            "next_options": {
+                "0": " Joe the Giraffe saw a lion on his hike",
+                "1": " Joe the Giraffe saw a mouse on his hike"
+            },
+            "selected_option_id": null
+        }
+    ],
+    "quiz_parts": []
+}

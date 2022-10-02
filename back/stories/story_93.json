@@ -1,0 +1,65 @@
+{
+    "id": 93,
+    "story_parts": [
+        {
+            "story_part_id": 0,
+            "text": "A lion was getting ready to go to Disney World. He had never been there before and was very excited. He packed his bags and got on the plane.",
+            "image_url": [
+                "https://replicate.com/api/models/stability-ai/stable-diffusion/files/8c8e0124-8007-465f-ab13-1d43bdf3ca64/out-0.png"
+            ],
+            "next_options": {
+                "0": "The lion has a great time at Disney World, meeting all the characters and riding all the rides",
+                "1": "The lion gets homesick and decides to go home early"
+            },
+            "selected_option_id": 0
+        },
+        {
+            "story_part_id": 1,
+            "text": "The lion has a great time at Disney World, meeting all the characters and riding all the rides. He especially loves the roller coasters and goes on them over and over again. By the end of the trip, the lion is exhausted but happy, and he can't wait to come back again.",
+            "image_url": [
+                "https://replicate.com/api/models/stability-ai/stable-diffusion/files/35680feb-9473-4653-a165-6c508d22326d/out-0.png"
+            ],
+            "next_options": {
+                "0": "The lion goes home and takes a long nap",
+                "1": "The lion stays at Disney World and becomes a permanent resident"
+            },
+            "selected_option_id": 0
+        },
+        {
+            "story_part_id": 2,
+            "text": "The lion goes home and takes a long nap. He is so tired from all the fun he had at Disney World that he sleeps for hours. When he wakes up, he is refreshed and ready to start planning his next trip to Disney World.",
+            "image_url": [
+                "https://replicate.com/api/models/stability-ai/stable-diffusion/files/e5f698c7-9c33-48ff-a530-8494ac10bd32/out-0.png"
+            ],
+            "next_options": {
+                "0": "The lion decides to go back to Disney World as soon as possible and starts planning his trip right away",
+                "1": "The lion enjoys his time at home and doesn't feel the need to go back to Disney World anytime soon"
+            },
+            "selected_option_id": 0
+        }
+    ],
+    "quiz_parts": [
+        {
+            "answer_id": 2,
+            "question": "What does the lion do at Disney World?",
+            "options": {
+                "0": " He meets all the characters",
+                "1": " He rides all the rides",
+                "2": " He goes on the roller coasters over and over again",
+                "3": " He is exhausted by the end of the trip"
+            },
+            "story_part_id": 1
+        },
+        {
+            "answer_id": 0,
+            "question": "What does the lion do when he gets home from Disney World?",
+            "options": {
+                "0": " He sleeps for hours",
+                "1": " He starts planning his next trip to Disney World",
+                "2": " He eats a big meal",
+                "3": " He takes a nap"
+            },
+            "story_part_id": 2
+        }
+    ]
+}

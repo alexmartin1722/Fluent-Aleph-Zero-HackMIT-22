@@ -1,0 +1,42 @@
+{
+    "id": 112,
+    "story_parts": [
+        {
+            "story_part_id": 0,
+            "text": "The stormtrooper awoke from his slumber, the alert klaxon blaring in his ear. He leapt to his feet and donned his helmet, his heart pounding in his chest. It was time. He and his team had been planning this heist for months, and if all went according to plan, they would be rich beyond their wildest dreams.\n\nHe hurried to the rendezvous point, where his team was already assembled and waiting. They exchanged nervous glances",
+            "image_url": [
+                "https://replicate.com/api/models/stability-ai/stable-diffusion/files/522cdec3-bf98-4923-a19d-8ec3ce8b96d0/out-0.png"
+            ],
+            "next_options": {
+                "0": "The team quickly makes their way to the target, avoiding any Imperial patrols",
+                "1": "One of the team members is captured by an Imperial patrol"
+            },
+            "selected_option_id": "0"
+        },
+        {
+            "story_part_id": 1,
+            "text": "The team quickly makes their way to the target, avoiding any Imperial patrols. They reach the target, a small cargo ship, and begin to attach the explosives. Just as they are finishing, they hear the sound of approaching Stormtroopers. They quickly take cover and wait for the Stormtroopers to pass. Once they are gone, they finish setting the explosives and flee the scene.",
+            "image_url": [
+                "https://replicate.com/api/models/stability-ai/stable-diffusion/files/02e8819a-0207-45f2-b327-06dd41d5055b/out-0.png"
+            ],
+            "next_options": {
+                "0": "The team makes their way back to the base, avoiding any Imperial patrols",
+                "1": "The team makes their way back to the base, but they are spotted by an Imperial patrol"
+            },
+            "selected_option_id": null
+        }
+    ],
+    "quiz_parts": [
+        {
+            "answer_id": 1,
+            "question": "What is the definition of \"Imperial patrol\"?",
+            "options": {
+                "0": " A group of soldiers who enforce the laws of an empire",
+                "1": " A group of soldiers who protect an emperor",
+                "2": " A group of soldiers who serve an emperor",
+                "3": " A group of soldiers who fight for an empire"
+            },
+            "story_part_id": 1
+        }
+    ]
+}

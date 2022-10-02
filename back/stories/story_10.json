@@ -1,0 +1,28 @@
+{
+    "id": 10,
+    "story_parts": [
+        {
+            "text": "A lion was walking through the jungle when he came across a city. He had never seen a city before and was curious to explore. He walked through the streets, taking in all the sights and sounds. He even saw a few humans and thought they were interesting. After a while, the lion got tired and decided to head back to the jungle. He was glad he got to experience the city, but he was happy to be back in his home.",
+            "image_url": [
+                "https://replicate.com/api/models/stability-ai/stable-diffusion/files/5f2e12ee-8cf3-4167-8fe7-b905f6f8cb32/out-0.png"
+            ],
+            "next_options": [
+                " The lion continues to explore the city and eventually becomes its king",
+                " The lion gets bored of the city and decides to head back to the jungle"
+            ],
+            "selected_option": " The lion continues to explore the city and eventually becomes its king"
+        },
+        {
+            "text": "The lion continues to explore the city and eventually becomes its king. He rules over the city with wisdom and compassion, and the people love him. He is truly a king of the jungle.",
+            "image_url": [
+                "https://replicate.com/api/models/stability-ai/stable-diffusion/files/e1e75221-a7cc-4f17-8a4c-9a196f65f7ff/out-0.png"
+            ],
+            "next_options": [
+                " The lion continues to rule the city with wisdom and compassion, and the people love him",
+                " The lion becomes bored with ruling the city and decides to go back to the jungle"
+            ],
+            "selected_option": null
+        }
+    ],
+    "quiz_parts": []
+}

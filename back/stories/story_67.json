@@ -1,0 +1,30 @@
+{
+    "id": 67,
+    "story_parts": [
+        {
+            "story_part_id": 0,
+            "text": "The girl had always dreamed of going on an adventure. She had seen the world in her dreams and wanted to explore it. One day, she found a map that showed her the way to a faraway land. She packed her bags and set off on her journey.",
+            "image_url": [
+                "https://replicate.com/api/models/stability-ai/stable-diffusion/files/d54b0bd3-2064-4008-8c3a-af4e90b07681/out-0.png"
+            ],
+            "next_options": {
+                "0": "The girl follows the map and eventually reaches her destination",
+                "1": "The girl gets lost along the way and never reaches her destination"
+            },
+            "selected_option_id": "0"
+        },
+        {
+            "story_part_id": 1,
+            "text": "The girl follows the map and eventually reaches her destination. She is amazed by the sights and sounds of the new land. She spends her days exploring and learning about the different cultures. She is happy to have finally found her adventure.",
+            "image_url": [
+                "https://replicate.com/api/models/stability-ai/stable-diffusion/files/5c80cb82-e5b1-44f7-bfcd-2fc7a1382c1a/out-0.png"
+            ],
+            "next_options": {
+                "0": "The girl continues to explore the new land and eventually makes some friends",
+                "1": "The girl gets homesick and decides to return home"
+            },
+            "selected_option_id": null
+        }
+    ],
+    "quiz_parts": []
+}

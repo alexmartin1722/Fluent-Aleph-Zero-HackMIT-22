@@ -1,0 +1,68 @@
+{
+    "id": 33,
+    "story_parts": [
+        {
+            "story_part_id": 0,
+            "text": "One day a lion went to the city. He saw all the tall buildings and the people walking around. He also saw the cars and buses driving by. He thought it was all very interesting.",
+            "image_url": "PlACEHOLDER",
+            "next_options": [
+                " The lion roars and the people run away in fear",
+                " The lion walks up to a person and asks them for a tour of the city"
+            ],
+            "selected_option": " The lion roars and the people run away in fear"
+        },
+        {
+            "story_part_id": 1,
+            "text": "The lion roars and the people run away in fear. The lion then walks through the city, enjoying all the sights and sounds. He eventually comes to a park and lies down in the shade of a tree to take a nap.",
+            "image_url": "PlACEHOLDER",
+            "next_options": [
+                " The lion is awoken by a group of children playing in the park and roars at them, causing them to run away in terror",
+                " The lion is awoken by a group of children playing in the park and walks over to them to play"
+            ],
+            "selected_option": " The lion is awoken by a group of children playing in the park and roars at them, causing them to run away in terror"
+        },
+        {
+            "story_part_id": 2,
+            "text": "The lion is awoken by a group of children playing in the park and roars at them, causing them to run away in terror. The lion then gets up and walks around the park, enjoying the sights and sounds. He eventually comes to a pond and lies down in the shade of a tree to take a nap.",
+            "image_url": "PlACEHOLDER",
+            "next_options": [
+                " The lion is awoken by a group of children playing in the park and roars at them, causing them to run away in terror",
+                " The lion is awoken by a group of children playing in the park and roars at them, causing them to run away in terror"
+            ],
+            "selected_option": " The lion is awoken by a group of children playing in the park and roars at them, causing them to run away in terror"
+        },
+        {
+            "story_part_id": 3,
+            "text": "The lion is awoken by a group of children playing in the park and roars at them, causing them to run away in terror. The lion then gets up and walks around the park, enjoying the sights and sounds. He eventually comes to a pond and lies down in the shade of a tree to take a nap.",
+            "image_url": "PlACEHOLDER",
+            "next_options": [
+                " The lion stays in the park and enjoys the rest of his day",
+                " The lion gets bored of the park and decides to leave"
+            ],
+            "selected_option": null
+        }
+    ],
+    "quiz_parts": [
+        {
+            "question": "What does the lion do when he sees the people?",
+            "options": {
+                "0": "He roars and they run away",
+                "1": "He walks through the city",
+                "2": "He lies down in the shade",
+                "3": "He enjoys the sights and sounds"
+            },
+            "story_part_id": 1
+        },
+        {
+            "question": "What wakes the lion up?",
+            "options": {
+                "0": "A group of children playing in the park",
+                "1": "The sun shining in his face",
+                "2": "A noise in the bushes",
+                "3": "His stomach growling"
+            },
+            "answer_id": 0,
+            "story_part_id": 3
+        }
+    ]
+}

@@ -1,0 +1,61 @@
+{
+    "id": 32,
+    "story_parts": [
+        {
+            "story_part_id": 0,
+            "text": "The lion was very tired after his long journey to the city. He had been walking for days, and his feet were sore. He was also very hungry, as he had not eaten anything since he left the jungle. When he arrived in the city, he saw a large building with a sign that said \"Zoo\". He went inside and saw that there were many animals in cages. He walked up to a cage that had a sign that said \"Lion\". Inside the cage was",
+            "image_url": "PlACEHOLDER",
+            "next_options": [
+                " The lion was very tired after his long journey to the city"
+            ],
+            "selected_option": " The lion was very tired after his long journey to the city"
+        },
+        {
+            "story_part_id": 1,
+            "text": "The lion was very tired after his long journey to the city. He had been walking for days, and his feet were sore. He was also very hungry, as he had not eaten anything since he left the jungle. When he arrived in the city, he saw a large building with a sign that said \"Zoo\". He went inside and saw that there were many animals in cages. He walked up to a cage that had a sign that said \"Lion\". Inside the cage was",
+            "image_url": "PlACEHOLDER",
+            "next_options": [
+                " The lion was very tired after his long journey to the city"
+            ],
+            "selected_option": " The lion was very tired after his long journey to the city"
+        },
+        {
+            "story_part_id": 2,
+            "text": "The lion was very tired after his long journey to the city. He had been walking for days, and his feet were sore. He was also very hungry, as he had not eaten anything since he left the jungle. When he arrived in the city, he saw a large building with a sign that said \"Zoo\". He went inside and saw that there were many animals in cages. He walked up to a cage that had a sign that said \"Lion\". Inside the cage was",
+            "image_url": "PlACEHOLDER",
+            "next_options": [
+                " The lion was very tired after his long journey to the city"
+            ],
+            "selected_option": " The lion was very tired after his long journey to the city"
+        },
+        {
+            "story_part_id": 3,
+            "text": "The lion was very tired after his long journey to the city. He had been walking for days, and his feet were sore. He was also very hungry, as he had not eaten anything since he left the jungle. When he arrived in the city, he saw a large building with a sign that said \"Zoo\". He went inside and saw that there were many animals in cages. He walked up to a cage that had a sign that said \"Lion\". Inside the cage",
+            "image_url": "PlACEHOLDER",
+            "next_options": [
+                " The lion saw a deer in the cage next to him and decided to attack it",
+                " The lion saw a sign that said \"Do not feed the animals\" and decided to wait for the zookeeper to feed him"
+            ],
+            "selected_option": null
+        }
+    ],
+    "quiz_parts": [
+        {
+            "question": "",
+            "options": {
+                "0": "What was the lion's journey to the city?",
+                "1": "long and tiring",
+                "2": "fun and easy",
+                "3": "very short",
+                "4": "not mentioned"
+            },
+            "answer_id": 1,
+            "story_part_id": 1
+        },
+        {
+            "question": "",
+            "options": {},
+            "story_part_id": 3
+        }
+    ]
+}
