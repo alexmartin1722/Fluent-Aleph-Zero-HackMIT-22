@@ -145,10 +145,10 @@ Welcome to the few-shot paradigm ([Reynolds and McDonell](https://arxiv.org/pdf/
 
 
 ## The Team
-Yibo (Mike) He [github](https://github.com/mikehe123) [linkedin](https://www.linkedin.com/in/yibo-he/) [website]()
+Yibo (Mike) He [github](https://github.com/mikehe123) [linkedin](https://www.linkedin.com/in/yibo-he/)
 - BIO 
 
-Mike Giardino [github](https://github.com/Mgiar2015) [linkedin](https://www.linkedin.com/in/michael-giardino/) [website]()
+Mike Giardino [github](https://github.com/Mgiar2015) [linkedin](https://www.linkedin.com/in/michael-giardino/)
 - BIO
 
 Neil Yeung [github](https://github.com/Genuinely) [linkedin](https://www.linkedin.com/in/neilyeung/) [website](neilyeung.com)
